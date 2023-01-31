@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@color/transparent">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:id="@+id/mainlayout"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:background="#f0f0f0"
+        app:corner_radius="8dp">
+
+        <RelativeLayout
+            android:id="@+id/layout_uper"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+        <RelativeLayout
+            android:id="@+id/layout_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/layout_uper"
+            android:background="#1a000000" />
+
+        <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+            android:id="@+id/profilelayout"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true">
+
+            <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+                android:id="@+id/profilelayout2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                app:corner_radius="@dimen/_360sdp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/iv_profile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_no_image_found"
+                    app:civ_border_color="#00000000"
+                    app:civ_border_overlay="false" />
+            </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+            <ImageView
+                android:id="@+id/iv_profile_outline"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_border_circle_1" />
+        </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+        <com.ms.dob.textonphoto.custom.AutoResizeTextView
+            android:id="@+id/tv_quoets"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profilelayout"
+            android:layout_marginLeft="@dimen/_3sdp"
+            android:layout_marginRight="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:layout_toRightOf="@+id/lineview"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:text="Well, I&apos;ve found one problem.. I&apos;ve set the Ellipsize as well... I&apos;m just going to use the following workaround:"
+            android:textColor="#666666"
+            android:textSize="@dimen/_18sdp" />
+
+        <View
+            android:id="@+id/lineview"
+            android:layout_width="2dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/tv_quoets"
+            android:layout_alignBottom="@+id/tv_quoets"
+            android:layout_marginLeft="20dp"
+            android:background="#666666" />
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+</RelativeLayout>

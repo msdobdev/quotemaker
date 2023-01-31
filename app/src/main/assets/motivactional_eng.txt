@@ -1,0 +1,307 @@
+{
+  "StausArray": [
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "If you want to achieve greatness stop asking for permission."
+    },
+    {
+      "Status": "You have to learn the rules of the game. And then you have to play better than anyone else."
+    },
+    {
+      "Status": "If you do what you always did, you will get what you always got."
+    },
+    {
+      "Status": "Nothing is impossible, the word itself says 'I'm possible'!"
+    },
+    {
+      "Status": "God always gives His best to those who leave the choice with him."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "Failure is always temporary, only giving up makes it permanent."
+    },
+    {
+      "Status": "Work hard in silence & let the success make noise."
+    },
+    {
+      "Status": "One day i really want to say- I MADE IT."
+    },
+    {
+      "Status": "“Motivation is what gets you started. Habit is what keeps you going."
+    },
+    {
+      "Status": "Work until you don't  have to introduce yourself "
+    },
+    {
+      "Status": "To shine like the sun, you need to burn like one.."
+    },
+    {
+      "Status": "Success is falling 9 times and getting up 10."
+    },
+    {
+      "Status": "Defeat your enemies with your success."
+    },
+    {
+      "Status": "Do it today or regret TOMORROW."
+    },
+    {
+      "Status": "In order to success your desire to success should be greater than your fear of failure."
+    },
+    {
+      "Status": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+    },
+    {
+      "Status": "Try to be like the turtle - at ease in your own shell."
+    },
+    {
+      "Status": "Life isn’t about getting and having, it’s about giving and being."
+    },
+    {
+      "Status": "Discouragement and failure are two of the surest stepping stones to success."
+    },
+    {
+      "Status": "Some people pass through our lives in a shorter time frame than we had hoped to teach us things they never could have taught if they stayed."
+    },
+    {
+      "Status": "Once you learn to be happy alone you won't tolerate anyone who can't make you just as happy."
+    },
+    {
+      "Status": "Decision defines destiny..."
+    },
+    {
+      "Status": "You never fail until you stop trying."
+    },
+    {
+      "Status": "Whatever brings you down, will eventually make you stronger."
+    },
+    {
+      "Status": "If youre not doing the things that you love, then your life is not worth living. What are you here for?"
+    },
+    {
+      "Status": "Do not give up, the beginning is always the hardest."
+    },
+    {
+      "Status": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+    },
+    {
+      "Status": "The most common way people give up their power is by thinking they don’t have any."
+    },
+    {
+      "Status": "Don't raise your voice, improve your argument."
+    },
+    {
+      "Status": "The meaning of life is to find your gift. The purpose of life is to give it away."
+    },
+    {
+      "Status": "Change your thoughts and you change your world."
+    },
+    {
+      "Status": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "In order to succeed, we must first believe that we can."
+    },
+    {
+      "Status": "Don't watch the clock; do what it does. Keep going."
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "I would never have amounted to anything were it not for adversity. I was forced to come up the hard way!!!"
+    },
+    {
+      "Status": "Harsh counsels have no effect. They are like hammers which are always repulsed by the anvil!!!!"
+    },
+    {
+      "Status": "The great pleasure in life is doing what people say you cannot do!!!"
+    },
+    {
+      "Status": "If at first you don't succeed-try, try again. Don't think of it as failure. Think of it as timed-release success."
+    },
+    {
+      "Status": "A person who never made a mistake never tried anything new."
+    },
+    {
+      "Status": "Courage is what you earn when you've been through the tough times & you discover they aren't so tough after all."
+    },
+    {
+      "Status": "Perpetual optimism is a force multiplier."
+    },
+    {
+      "Status": "Excellence is not an act but a habit. The things you do the most are the things you will do best."
+    },
+    {
+      "Status": "Some days there won't be a song in your heart. Sing anyway."
+    },
+    {
+      "Status": "Don't judge each day by the harvest you reap, but by the seeds you plant."
+    },
+    {
+      "Status": "Let your hopes, not your hurts, shape your future."
+    },
+    {
+      "Status": "The most important thing in communication is to hear what isn't being said."
+    },
+    {
+      "Status": "More people would learn from their mistakes if they weren't so busy denying them!!!"
+    },
+    {
+      "Status": "We all have a few failures under our belt. It's what makes us ready for the successes!!!"
+    },
+    {
+      "Status": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."
+    },
+    {
+      "Status": "Don't complain about the snow on your neighbor's roof when your own doorstep is unclean."
+    },
+    {
+      "Status": "Success in life is a matter not so much of talent or opportunity as of concentration and perseverance."
+    },
+    {
+      "Status": "Opportunities multiply as they are seized!!!! "
+    },
+    {
+      "Status": "Try not to become a man of success, but rather a man of value!!"
+    },
+    {
+      "Status": "Happiness comes when we test our skills towards some meaningful purpose."
+    },
+    {
+      "Status": "If you follow your bliss, doors will open for you that wouldn't have opened for anyone else."
+    },
+    {
+      "Status": "Through perseverance, many people win success out of what seemed destined to be certain failure."
+    },
+    {
+      "Status": "We are all faced with a series of great opportunities brilliantly disguised as unsolvable problems"
+    },
+    {
+      "Status": "Opportunities? They are all around us... There is power lying latent everywhere waiting for the observant eye to discover it."
+    },
+    {
+      "Status": "Only a fool knows everything. A wise man knows how little he knows."
+    },
+    {
+      "Status": "When every physical & mental resource is focused, one's power to solve a problem multiplies tremendously."
+    },
+    {
+      "Status": "Life is not the amount of breaths you take, it’s the moments that take your breath away… ."
+    },
+    {
+      "Status": "With ordinary talents and extraordinary perseverance, all things are attainable."
+    },
+    {
+      "Status": "You will never change your life until you change something you do daily."
+    },
+    {
+      "Status": "You are surrounded by hundreds of people more timid than you are."
+    },
+    {
+      "Status": "Be the change you want to see in the world!!!"
+    },
+    {
+      "Status": "It doesn't matter if you try & try & try again, and fail. It does matter if you try & fail, and fail to try again."
+    },
+    {
+      "Status": "A minute's success pays the failure of years."
+    },
+    {
+      "Status": "Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly."
+    },
+    {
+      "Status": "The key to success is to keep growing in all areas of life--mental, emotional, spiritual, as well as physical."
+    },
+    {
+      "Status": "Conditions are never just right. People who delay action until all factors are favourable do nothing."
+    },
+    {
+      "Status": "Expect problems and eat them for breakfast."
+    },
+    {
+      "Status": "Start where you are. Use what you have. Do what you can."
+    },
+    {
+      "Status": "Either I will find a way, or I will make one."
+    },
+    {
+      "Status": "Problems are not stop signs, they are guidelines."
+    },
+    {
+      "Status": "Never give up, for that is just the place and time that the tide will turn."
+    },
+    {
+      "Status": "By failing to prepare, you are preparing to fail"
+    },
+    {
+      "Status": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+    },
+    {
+      "Status": "Be kind whenever possible. It is always possible"
+    },
+    {
+      "Status": "Accept the challenges so that you can feel the exhilaration of victory."
+    },
+    {
+      "Status": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
+    },
+    {
+      "Status": "Act as if what you do makes a difference. It does"
+    },
+    {
+      "Status": "Be gentle to all and stern with yourself."
+    },
+    {
+      "Status": "Begin to be now what you will be hereafter"
+    },
+    {
+      "Status": "Either you run the day or the day runs you."
+    },
+    {
+      "Status": "Expect problems and eat them for breakfast."
+    },
+    {
+      "Status": "Fear cannot be without hope nor hope without fear."
+    },
+    {
+      "Status": "You never know what motivates you."
+    },
+    {
+      "Status": "You can’t wait for inspiration. You have to go after it with a club."
+    },
+    {
+      "Status": "Things do not happen. Things are made to happen."
+    },
+    {
+      "Status": "Who seeks shall find"
+    },
+    {
+      "Status": "You are never too old to set another goal or to dream a new dream."
+    },
+    {
+      "Status": "Failure is simply the opportunity to begin again, this time more intelligently."
+    },
+    {
+      "Status": "Be strong enough to stand alone."
+    },
+    {
+      "Status": "Success is never permanent.Failure is never final.So always do not stop effort until your victory makes a history."
+    }
+ ]
+}

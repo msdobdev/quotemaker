@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/drawable/gnt_outline_shape.xml" value="0.2015" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.2015" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/drawable/splashscreen.xml" value="0.2015" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/activity_category_list.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/activity_quoteslist.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/activity_share.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/activity_splash.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/custom_layout_1.xml" value="0.2" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/custom_layout_8.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/degine_activity_layout.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/google_native_150dp.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/google_native_350dp.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/home_activity.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/layout_container_editing_option.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/layout_edit_photo.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/layout_edit_quote.xml" value="0.1585144927536232" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/layout_edit_sticker.xml" value="0.1585144927536232" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/layout_my_creation.xml" value="0.22644927536231885" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/moreoptiondialog.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/quotes_cat_layout.xml" value="0.16168478260869565" />
+        <entry key="..\:/Monika/Project/TextOnPhotoQuotesCreator/app/src/main/res/layout/select_background_image.xml" value="0.1585144927536232" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

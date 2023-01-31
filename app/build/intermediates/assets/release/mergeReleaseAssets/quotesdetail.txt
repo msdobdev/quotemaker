@@ -1,0 +1,74 @@
+{
+  "QuotesDetails": [
+    {
+      "Quotes": "“The best way to find yourself is to lose yourself in the service of others”",
+      "QuotesFrameID": "0",
+      "ImagePath": "",
+      "FontName": "f28.ttf",
+      "TextColor": "#666666"
+    },
+    {
+      "QuotesFrameID": "1",
+     "Quotes": "“When I dare to be powerful – to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.”",
+      "FontName": "f17.ttf",
+      "TextColor": "#ffffff",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "2",
+      "Quotes": "\"The best way to find yourself is to lose yourself in the service of others\".",
+      "FontName": "f7.ttf",
+      "TextColor": "#ffffff",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "3",
+      "Quotes": "\"The best way to find yourself is to lose yourself in the service of others\".",
+      "FontName": "f4.otf",
+      "TextColor": "#000000",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "4",
+      "Quotes": "\"The best way to find yourself is to lose yourself in the service of others\".",
+      "FontName": "f32.otf",
+      "TextColor": "#ffffff",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "5",
+      "Quotes": "\"The best way to find yourself is to lose yourself in the service of others\".",
+      "FontName": "f18.ttf",
+      "TextColor": "#ffffff",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "6",
+      "Quotes": "\"If you want to shine like a sun, first burn like a sunIf you want to shine like a sun, first burn like a sunIf you want to shine like a sun, first burn like a sunIf you want to shine like a sun, first burn like a sun\".",
+      "FontName": "f29.ttf",
+      "TextColor": "#3B3B3B",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "7",
+      "Quotes": "\"If you want to shine like a sun, first burn like a sun If you want to shine like a sun, first burn like a sunIf you want to s\".",
+      "FontName": "f31.ttf",
+      "TextColor": "#3B3B3B",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "8",
+      "Quotes": "\"If you want to shine like a sun, first burn like a sun If you want to shine like a sun, first burn like a sunIf you want to s\".",
+      "FontName": "f12.ttf",
+      "TextColor": "#ffffff",
+      "ImagePath": ""
+    },
+    {
+      "QuotesFrameID": "9",
+      "Quotes": "\"If you want to shine like a sun, first burn like a sun If you want to shine like a sun, first burn like a sunIf you want to s\".",
+      "FontName": "f30.ttf",
+      "TextColor": "#3B3B3B",
+      "ImagePath": ""
+    }
+  ]
+}

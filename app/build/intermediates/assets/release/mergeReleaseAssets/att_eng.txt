@@ -1,0 +1,307 @@
+{
+  "StausArray": [
+    {
+      "Status": "I’m nobody, nobody is perfect, and therefore I’m perfect."
+    },
+    {
+      "Status": "Please don’t get confused between my personality & my attitude My personality is who I am & my attitude depends on who you are!”"
+    },
+    {
+      "Status": "God is really creative, i mean…just look at me."
+    },
+    {
+      "Status": "I’m gonna MAKE the rest of my life, the BEST of my LIFE."
+    },
+    {
+      "Status": "I’m nobody, nobody is perfect, and therefore I’m perfect."
+    },
+    {
+      "Status": "My attitude depends on the people in front of me."
+    },
+    {
+      "Status": "Someone Asked me what is UR attitude…… then i simply replied… ” BEING SINGLE IS MY ATTITUDE…"
+    },
+    {
+      "Status": "Two fundamentals of cool life – Walk like you are the king OR walk like you don’t care ,who is the king."
+    },
+    {
+      "Status": "Smile in front of people who hate you… Ur happiness kills them…."
+    },
+    {
+      "Status": "I talk to myself because i like dealing with a better class of people."
+    },
+    {
+      "Status": "I’m listening. It just takes me a minute to process so much stupidity all at once!!"
+    },
+    {
+      "Status": "Don’t talk out loud, you lower the IQ of the whole street!!!"
+    },
+    {
+      "Status": "A great many people have a soldier's stomach - everything they eat goes to the front."
+    },
+    {
+      "Status": "Your whatsapp status say’s online …..If your online then why aren’t you texting me!!!."
+    },
+    {
+      "Status": "Sorry we are having some issues right now with our push notifications and ‘last seen’ status. we are working on resolving them."
+    },
+    {
+      "Status": "Phones are better than girlfriends, At least we can switch off."
+    },
+    {
+      "Status": "If you like me then raise your hand, if not then raise your standard."
+    },
+    {
+      "Status": "life's so shit it makes wot comes out the dog's ass look good!"
+    },
+    {
+      "Status": "Is finally driven to the point were they finds comfort in lies and shuns the truth."
+    },
+    {
+      "Status": "How did we go from talking everyday to strangers?"
+    },
+    {
+      "Status": "When everything comes your way.. Then you are on the wrong way."
+    },
+    {
+      "Status": "A good laugh and long sleep are two best cures for anything."
+    },
+    {
+      "Status": "Dear God, thanks for making me special. B-)"
+    },
+    {
+      "Status": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    {
+      "Status": "People laugh at me becoz i am different and i laugh becoz they all are same."
+    },
+    {
+      "Status": "Nothing in the world is more common than unsuccessful people with talent."
+    },
+    {
+      "Status": "The greatest advantage of speaking the truth is that you don’t have to remember what you said."
+    },
+    {
+      "Status": "Failure is the opportunity to begin again more intelligently."
+    },
+    {
+      "Status": "Sharing your problems with others doesn’t help rather people who took pity on u increases!!!"
+    },
+    {
+      "Status": "When you feel insulted I’m just describing you."
+    },
+    {
+      "Status": "Life is too short to be serious all the time. So, If you can't laugh at yourself, CALL ME...I'LL LAUGH AT YOU."
+    },
+    {
+      "Status": "How other see you, is not important...How you see yourself means everything."
+    },
+    {
+      "Status": "Every mother on earth gave birth to child except my mother, She gave birth to Legend !"
+    },
+    {
+      "Status": "I tried to be normal. Worst two minutes of my life."
+    },
+    {
+      "Status": "Come in my Heart and pay no rent."
+    },
+    {
+      "Status": "If you don't care, stop talking about it!!!!"
+    },
+    {
+      "Status": "I’m shy at first, but once I’m comfortable with you get ready for some crazy shits."
+    },
+    {
+      "Status": "God is really creative, I mean ...just look at me !."
+    },
+    {
+      "Status": "You will find a girl prettier than me, smarter than me, and funnier than me, but you will never find a girl just like me."
+    },
+    {
+      "Status": "Wake me up when things are going right for once."
+    },
+    {
+      "Status": "Doesn't have an attitude...they was just born with a lot of character!!!"
+    },
+    {
+      "Status": "I'm invisible,until someone needs me."
+    },
+    {
+      "Status": "My life,My rules My Attitude!!!"
+    },
+    {
+      "Status": "Don't hate me, just get to know me first!."
+    },
+    {
+      "Status": "People say nothing’s impossible, but I do nothing everyday.:"
+    },
+    {
+      "Status": "Life can give us lots' of beautiful persons, But only one person is enough for a beautiful life.."
+    },
+    {
+      "Status": "I don’t need to explain myself, I know I’m right "
+    },
+    {
+      "Status": "Coins Always Make Sound But The Currency Notes Are Always Silent! ?that’s why i’m always Calm & Silent"
+    },
+    {
+      "Status": "I don’t care what people think or say about me, I was not born on this earth to please everybody."
+    },
+    {
+      "Status": "Don’t be happy.I don’t Really forgive people,I just pretend like it’s ok and wait for my turn to destroy them."
+    },
+    {
+      "Status": "LEGENDS don’t die.. I am a LIVING EXAMPLE!"
+    },
+    {
+      "Status": "When i was born..Devil said..”Oh Shit..!! Competition”"
+    },
+    {
+      "Status": "I smile ...Because I don't know WHAT THE HELL is going on."
+    },
+    {
+      "Status": "Born with winner Quality’s. :("
+    },
+    {
+      "Status": "Don't try to please other people if in the end, you know it wont work."
+    },
+    {
+      "Status": "Is trying very hard to keep it all together, but has run out of string and super glue."
+    },
+    {
+      "Status": "Not always available, try your luck ;)"
+    },
+    {
+      "Status": "Keep moving! Nothing new to read…"
+    },
+    {
+      "Status": "Error 404: status unavailable"
+    },
+    {
+      "Status": "Nothing is perfect, but when I’m with you everything is perfect."
+    },
+    {
+      "Status": "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it."
+    },
+    {
+      "Status": "I am single because God is busy writing the best love story for me…"
+    },
+    {
+      "Status": "I Am Not Special , I Am Just Limited Edition :P"
+    },
+    {
+      "Status": "When you’re good, you’re good, when you’re awesome you’re me."
+    },
+    {
+      "Status": "No status available."
+    },
+    {
+      "Status": "Behind every successful man is a surprised woman."
+    },
+    {
+      "Status": "If i had a gun with two bullets and i was with hitler,bin laden and you insert your ex or your enemy’s name],i would shoot you twice."
+    },
+    {
+      "Status": "I am someone else when I’m with you, someone more like myself."
+    },
+    {
+      "Status": "Status under construction of life."
+    },
+    {
+      "Status": "I have a new theory in life…what other people think of me is truly none of my business!"
+    },
+    {
+      "Status": "I speak my mind. I never mind what I speak."
+    },
+    {
+      "Status": "I enjoy when people show Attitude to me because it shows that they need an Attitude to impress me!"
+    },
+    {
+      "Status": "Xcuse me, I found something under my shoes. Oh its your attitude."
+    },
+    {
+      "Status": "I hate when people look at my phone while I’m typing. It’s not that I have something to hide…"
+    },
+    {
+      "Status": "It’s just none of their damn business.."
+    },
+    {
+      "Status": "Attitude: The triumph of imagination over intelligence."
+    },
+    {
+      "Status": "Life always offers you a second chance. it's called tomorrow."
+    },
+    {
+      "Status": "Enjoy your own life without comparing it with that of others."
+    },
+    {
+      "Status": "There are million things in the world I want, but all I need is you."
+    },
+    {
+      "Status": "Stop checking my status ! Go Get A Life :P"
+    },
+    {
+      "Status": "I don’t have a bad handwriting, I have my own FONT!!"
+    },
+    {
+      "Status": "When Sum One Hates You for no reason……………..Give them a reason :P :D"
+    },
+    {
+      "Status": "Everything in your life is a reflection of a choice you have made. If you want a different result, make a different choice."
+    },
+    {
+      "Status": "Love the life you live, and live the life you love."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "The best mirror is an old friend."
+    },
+    {
+      "Status": "I don’t have time to hate people,who hate me.because, I’m too busy in loving people who love me.."
+    },
+    {
+      "Status": "It’s the good girls who keep diaries;the bad girls never have the time."
+    },
+    {
+      "Status": "We all are born to die don’t feel more special than me."
+    },
+    {
+      "Status": "I dont change , i just grew up. You should try it once ;)"
+    },
+    {
+      "Status": "I wish I could record my dreams and watch them later…."
+    },
+    {
+      "Status": "Even romeo went from being “in a relationship” to “it’s complicated”."
+    },
+    {
+      "Status": "Don’t Copy My Style."
+    },
+    {
+      "Status": "Type your status here...”"
+    },
+    {
+      "Status": "i am what i am.. i will never try to be some one else."
+    },
+    {
+      "Status": "P.M.A (Positive Mental Attitude), I'm positive, I'm mental and I know I have attitude!."
+    },
+    {
+      "Status": "don't let the world change your smile, let your smile change the world!!!"
+    },
+    {
+      "Status": "Etc= End of thinking Capacity."
+    },
+    {
+      "Status": "Don't PLAY with Me ! Coz i know I Can PLAY Better Than You..."
+    },
+    {
+      "Status": "If you are player then I’m the GAME."
+    },
+    {
+      "Status": "Awesome ends with ME and Ugly starts with you."
+    }
+ ]
+}

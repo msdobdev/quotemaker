@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/item_bg_dark_round">
+
+            <TextView
+                android:id="@+id/tv_status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/numbertext"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical|center_horizontal|center"
+                android:padding="10dp"
+                android:text="हर शुभ रात्रि!!"
+                android:textColor="@color/white"
+                android:textSize="12dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/numbertext"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_dark_number"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="#ffffff"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

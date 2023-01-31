@@ -1,0 +1,332 @@
+{
+  "StausArray": [
+    {
+      "Status": "Why do we close our eyes when we pray? When we cry? Or when we dream? Because we know that the most beautiful things in life aren’t seen, but felt by heart.."
+    },
+	{
+      "Status": "If you think lust doesn’t know loyalty then you haven’t met the right woman, yet."
+    },
+	{
+      "Status": "Good friends and good books always help."
+    },
+	{
+      "Status": "Without His love I can do nothing… with His love there is nothing I cannot do. Happy Valentines Day"
+    },
+	{
+      "Status": "There is only one happiness in life…. to love and to be loved. Happy Valentines Day"
+    },{
+      "Status": "Feels that Love is just a word until someone comes along and gives it meaning. Happy Valentines Day"
+    },
+	{
+      "Status": "A hundred hearts would be too few To carry all my love for you. Happy Valentines Day"
+    },{
+      "Status": "Within you, I lose myself. Without you, I find myself wanting to be lost again. Happy Valentines Day"
+    },
+	{
+      "Status": "For you see, each day I love you more Today more than yesterday and less than tomorrow. Happy Valentines Day"
+    },
+	{
+      "Status": "I Don’t need promise of the moon or the stars. Only promise i need is you’ll stay under them with me forever…"
+    },
+	{
+      "Status": "When you talk to a woman… Listen to what she says with her eyes…"
+    },
+	{
+      "Status": "I Found the Way to Love everyone But I didn’t learn the way to Feel Others LOVE to me"
+    },{
+      "Status": "There is a story behind every smile.. and your my favorite chapter"
+    },
+	{
+      "Status": "The best kind of smile is not one you can see on your face, but the one felt in your heart.?"
+    },{
+      "Status": "I know u r a dream……but people say that dreams come true"
+    },
+	{
+      "Status": "I kept my heart Strong like Iron but, I didn’t know that your heart is a Magnet "
+    },{
+      "Status": "With you the hours become minutes."
+    },
+	{
+      "Status": "I shall love you till i take my last breathe on EARTH"
+    },
+	{
+      "Status": "If I know what love is, it is because of you!!"
+    },
+	{
+      "Status": "I love the way you love me.:) "
+    },{
+      "Status": "I love it when you act silly around me.:"
+    },{
+      "Status": "Love every one, so that every one loves u.. But be committed to only One.. So that everyone respects u…"
+    },
+	{
+      "Status": "Sometimes I can’t see myself when I’m with you. I can only just see you."
+    },{
+      "Status": "Someone who truly loves you, won’t make you feel like you need to constantly fight for their attention."
+    },
+	{
+      "Status": "We loved with a love that was more than love."
+    },
+	{
+      "Status": "Let make it short and simple, I love you."
+    },
+	{
+      "Status": "It’s not my fault that I fell for you, you tripped me."
+    },
+	{
+      "Status": "Is starting to like someone"
+    },
+	{
+      "Status": "My eight word love story: I fell in love with an Army man."
+    },
+	{
+      "Status": "Installing love. ……44%. Installation failed. Error 404: install money first."
+    },{
+      "Status": "What is love? It is the morning and the evening star."
+    },
+	{
+      "Status": "We love because it’s the only true adventure."
+    }
+	,{
+      "Status": "Wish You Were Here"
+    }
+	,{
+      "Status": "A sweetheart is a bottle of wine, a wife is a wine bottle."
+    },
+	{
+     "Status": "I am someone else when I’m with you, someone more like myself."
+    },
+	{
+     "Status": "I slipped on a banana peel and I fell in love with the person who helped me up."
+    },
+	{
+     "Status": "I fell in love with you because you loved me when I couldn’t love myself."
+    },
+	{
+     "Status": "I am sho romantic !"
+    },
+	{
+     "Status": "Distance is just a test , how far love can travel!!"
+    },
+	{
+     "Status": "Flip the coin, head i am yours tail you are mine"
+    },
+	{
+     "Status": "If you love me be sure I love you as much as you do.. "
+    },
+	{
+    "Status":  "Love is like a dream when its just me and you"
+    },
+	{
+    "Status":  "If you miss someone, that means you are lucky. It means you had someone special in your life, someone worth missing."
+    },
+	{
+     "Status": "With love and patience nothing is impossible."
+    },
+	{
+     "Status": "Where there is love…. there is God also."
+    },
+	{
+    "Status":  "True love stories never have endings."
+    },
+	{
+    "Status":  "Love is not just at the moment it is forever."
+    },
+	{
+     "Status": "Love is the salt of life."
+    },
+	{
+    "Status":  "Love is the bridge between two hearts."
+    },
+	{
+     "Status": "Love is made in heaven and consummated on earth."
+    },
+
+	{
+     "Status": "Love’s gift cannot be given… it waits to be accepted."
+    },
+	{
+     "Status": "Love is first friendship and then commitment."
+    },
+	{
+      "Status":"Love is energy of life."
+    },
+	{
+     "Status": "Love is a transitive verb."
+    },
+	{
+     "Status": "The woman we love will always be in the right."
+    },
+	{
+    "Status":  "The sweetest joy… the wildest woe is love."
+    },
+	{
+    "Status":  "The strongest evidence of love is sacrifice."
+    },
+	{
+     "Status": "The only reward for love is the experience of loving."
+    },
+	{
+     "Status": "Love is a light that shines from heart to heart. Happy Valentines Day"
+    },
+	{
+     "Status": "Love is a game in which both players cheat. Happy Valentines Day"
+    },
+	{
+      "Status":"Love is a friendship set to music. Happy Valentines Day"
+    },
+	{
+      "Status":"Love is a cloth which imagination embroiders. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is a better teacher than duty. Happy Valentines Day"
+    },
+	{
+      "Status":"Love feeds only upon love. Happy Valentines Day"
+    },
+	{
+      "Status":"Love demands infinitely less than friendship. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":""
+    }
+	,
+	{
+      "Status":"Man is sometimes extraordinarily passionately in love with suffering. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Loving you is like breathing…. how can I stop. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is the weightier business of mankind. Happy Valentines Day"
+    },
+	{
+      "Status":"Lovers know what they want…. but not what they need. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Lovers derive their pleasures from their misfortunes. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is like pi….. natural irrational and very important. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is hard work….. and hard work sometimes hurts. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is blind…. and marriage is a real eye opener. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is an ocean of emotions entirely surrounded by expenses. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is an illusion."
+    }
+	,
+	{
+      "Status":"Love is an education in itself. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is an education in itself. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love is a platform upon which all ranks meet. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"There is nothing in life like making love. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Nothing cures like time and love. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"None ever loved…. but at first sight they loved. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Nobody in love has a sense of humour. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Never love anything that can’t love you back."
+    }
+	,
+	{
+      "Status":"Love builds highways out of dead ends. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love at first sight is cured by the second look. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Love asks me no questions…. And gives me endless support. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Live to love…. and love to live. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Live for love. Without love… you do not live. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Like a child’s infinite dreams,,, is the endlessness of love."
+    }
+	,
+	{
+      "Status":"Lifes greatest happiness is to be convinced we are loved. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Life is the flower for which love is the honey. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"People who are sensible about love are incapable of it. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"People need love even when they do not deserve it. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Jealousy is nothing but the foolish child of pride. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"Jealousy is no more than feeling alone against smiling enemies. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"In love one and one are one. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"In jealousy there is more of self love than love. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"If you would be loved…. love and be lovable. Happy Valentines Day"
+    }
+	,
+	{
+      "Status":"If you open your heart, love opens your mind…. Happy Valentines Day"
+    }
+    
+ ]
+}

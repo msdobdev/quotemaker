@@ -1,0 +1,717 @@
+{
+  "StausArray": [
+    {
+      "Status": "With my 
+1 Heart... 
+2 eyes... 
+5 litre blood... 
+206 bones... 
+1.2million Red Cells... 
+60 trillion D.N.A.'s... 
+I wish You All the very best of LUCK"
+    },
+	{
+      "Status": "Wishing you all the good luck in the world for your pursuits in life. God Bless!!"
+    }
+	,
+	{
+      "Status": "May success be with you always... Wishing you good luck!!"
+    }
+	,
+	{
+      "Status": "Height of Good Luck ...! 
+
+Teacher: Hey! Stand up. 
+Tell me two pronouns. 
+. 
+. 
+. 
+Student: Who? Me? 
+
+Teacher: Very Good, Sit down :D"
+    }
+	,
+	{
+      "Status": "All you need in the life is ignorance and confidence & 
+then success is sure. 
+Gud luck."
+    }
+	,
+	{
+      "Status": "Luck is yours, 
+
+wishes are mine. 
+
+Let your future be always shine. 
+
+Best of Luck"
+    }
+	,
+	{
+      "Status": "A sweeter smile, 
+A brighter day, 
+Hope everything turns out better for you tomorrow. 
+May GOD be with you always. 
+
+Good Luck"
+    }
+	,
+	{
+      "Status": "Evry sunset givs us 1 day less to live 
+
+Bt evry sunrise givs us 1 day more to hope! 
+
+Gud luck!
+
+"
+    }
+	,
+	{
+      "Status": "Don't take tension, u'll get ur destination.
+Don't make ur mind jam, due to exam.
+Believe urself, GOD will help you to get success.
+Wishing you best of luck my dear......."
+    }
+	,
+	{
+      "Status": "Love yourself first
+and
+everything else falls into line.
+You really have to love yourself
+to get anything done in this world.
+Good Luck .."
+    }
+	,{
+      "Status": "Success is never permanent.
+Failure is never final.
+so always do not stop effort
+until your victory makes a history.
+Good luck"
+    },
+	{
+      "Status": "Past is your experience, 
+Present is your experiment, 
+Future is your expectation. 
+Use your experience in your 
+Experiments to get your expectations 
+Best of Luck!"
+    }
+	,
+	{
+      "Status": "The candle of hope is 
+The source of light for success in life 
+So don't loose it. 
+Failures try to blow it out 
+Guard it with both your hands. 
+All the Best!"
+    }
+	,
+	{
+      "Status": "Start the work in the name of God,do the work with the help of God finish the work thanks to God,bcoz he decides,gives and makes everthing possible.best of luck."
+    }
+	,
+	{
+      "Status": "Wisdom is knowing what to do next... Skill is knowing how to do it... and sucess is DOING IT ! DO THE BEST IN THE TEST...let ur path smooth & easy Examination may be more & more easy.. let ur sucess come to true, that my best wishes to you!"
+    }
+	,
+	{
+      "Status": "Sometimes we must be hurt in order to grow, 
+Sometimes we must fail in order to know, 
+Sometimes we must lose in order to gain 
+Bcoz some lesons in life r best learned through pain. 
+Have a blessed day !"
+    }
+	,
+	{
+      "Status": "R u hungry? Nevr mind I hv 2 bowls, 1 for wishes 
+and 1 for luck. Wishes are mine and luck is yours. you can 
+take it or leave it, choice is urs."
+    }
+	,
+	{
+      "Status": "All you need in the life is ignorance and confidence & then success is sure. Gud luck, Best Wishes"
+    }
+	,
+	{
+      "Status": "Meaning of some colours,
+Yellow 4 special friend, white 4 peace, orange 4 luck,black 4 hate, 
+red 4 love and pink 4 likeness, So I choose for u Orange Flower. Wish u goodluck"
+    }
+	,
+	{
+      "Status": "With my
+1 Heart...
+2 eyes...
+5 litre blood...
+206 bones...
+1.2million Red Cells...
+60 trillion D.N.A.'s...
+I wish u All the best..."
+    }
+	,{
+      "Status": "Hr kamyabi pe apka nam hoga,
+Apke hr kdam pe duniya ka salam hoga,
+Mushkilo ka samna himat se karna,
+Dua hai ek din waqt bhi apka gulam hoga..."
+    },
+	{
+      "Status": "Let ur drms guide  Ur steps !
+Of all the fortunes I could send, I
+Send God's Love for it nevr ends!
+Walk in His ways so that you may prosper in all
+You do and whereever u go.
+Hug inside---------Open carefully !"
+    }
+	,
+	{
+      "Status": "wën things go wrong...
+wën sadness fills ur hrt...
+wën tëars flow in ur eyës...always remembr 3 things
+1---GOD
+2---ur parënts
+3---my sincëre prayërs.....GOD LUCK FRIEND"
+    }
+	,
+	{
+      "Status": "Wen u face difficulty in life, don't ask GÔD 2 take them away. Ask Him 2 show His purpose- Ask ways how 2 live a day searching his purpose 4 U. GòóD Luck Pal!!!"
+    }
+	,
+	{
+      "Status": "GÔD alwãys plãying chess wid ppl. He makes moves in our life & then seats back 2 look hw 
+we react 2 d CHALLËNGËS... So make d best move be4 CHËCKMATË........ GòóD Luck frds"
+    }
+	,
+	{
+      "Status": "Men of action r favored by the luck
+My dear best of Luck"
+    }
+	,
+	{
+      "Status": "Genuine success comes 1ly to those who are ready for it. Good Luck"
+    }
+	,
+	{
+      "Status": "may ur roads be smooth & ur burdens be light...
+may u find the dreams & touch the stars & never forget how special u r !!!! god bless u...."
+    }
+	,
+	{
+      "Status": "Rain of summer, snow of winter, grace of autumn, glory of spring, May
+beauty of every season give ur heart a beautiful reason 2 smile. May God suceed u in every exams of ur life.
+Good luck"
+    }
+	,
+	{
+      "Status": "Bhegay mosam ki khushbu hawaoo may ho
+Apkay sath ka ehsaas in fizao may ho
+Yuhi sda rahay apkay Honto pay Muskurahat
+Itna asar meri duao may ho......
+Good Luck"
+    }
+	,{
+      "Status": "May God stay with u this day
+&
+give u peace of mind.
+May God give u a happy heart
+&
+his love all the time. Good luck"
+    },
+	{
+      "Status": "may the angels protect u.
+may sadness forget u...
+may goodness all around u..
+may happiness be around u..."
+    }
+	,
+	{
+      "Status": "Soft Speech clean heart,
+peaceful eyes, strengthful hands,
+focussed mind and determined decision.
+Alway Makes U winner."
+    }
+	,
+	{
+      "Status": "Stealing D blue from D splashing seas,
+A tinge of green from D youthful trees,
+A bit of orange from D sunset hues,
+With crystal white from the morning dews,
+I have framed a bright and colourful wish
+Just for 4……………Good Luck!"
+    }
+	,
+	{
+      "Status": "Care 4 D 1 who shares wid u, share wid D 1 who knows u, know D 1 who MISSES u, MISS D 1 who WELL WISHES for u, Wish u all D Best"
+    }
+	,
+	{
+      "Status": "D HOPE, D STRUGGLE & D HARD WORK towards a goal/ success is part of D rewards. Achieving goal itself is not D whole reward…….. BEST WISHES"
+    }
+	,
+	{
+      "Status": "luck is urs wishes R mine let’s ur future be always shine. Best of Luck"
+    }
+	,
+	{
+      "Status": "Happiness as light as air.
+LOVE as DEEP as OCEAN.
+Friends as solid as diamonds and
+success as bright as gold.
+These r my wishes 4 u today n everyday…goodluck"
+    }
+	,
+	{
+      "Status": "2 accomplish great things, we must not 1ly act, but also dream, not 1ly plan but also believe. Best wishes 4 UR exam."
+    }
+	,
+	{
+      "Status": "Every sunset gives us one day less to live!
+But every sunrise give us, one day more to hope!
+So, hope for the best.
+Good Day & Good Luck!"
+    }
+	,{
+      "Status": "A successful man is one who can lay a firm foundation with the bricks that others throw at him.
+Good luck"
+    },
+	{
+      "Status": "U may not know where life’s road will lead you.
+But keep moving.
+God is walking with you.
+Good Luck"
+    }
+	,
+	{
+      "Status": "3-2=one heart praying 4u
+1+1=two eyes looking 4u
+3+2=five sensesmissing u
+4+3=seven days in a week I desire u,
+7+5=1 2months asking GOD 2 bless u"
+    }
+	,
+	{
+      "Status": "Every bad situation will have something positive…Even a stopped Clock is correct twice a day…Think of this & lead ur life….Good LUCK."
+    }
+	,
+	{
+      "Status": "I know today is important for you
+I know and I will pray all day
+I know and I am exited too
+May good luck be on your way!"
+    }
+	,
+	{
+      "Status": "I know that now you are on your way.
+To make a change and have another life’s test,
+I want to wish you good luck today,
+And whatever happens – know that you are the best.
+
+"
+    }
+	,
+	{
+      "Status": "Do not give up,
+Do not feel disheartened,
+You can do it and you will do it.
+Good Luck!"
+    }
+	,
+	{
+      "Status": "Things can be tough,
+Times can be rough.
+But if you work hard enough,
+You will eventually achieve triumph!.
+Good Luck my friend! Good luck!"
+    }
+	,
+	{
+      "Status": "May you be successful,
+And be victorious.
+I want you to win.
+Do your best,
+And feel glorious!
+"
+    }
+	,
+	{
+      "Status": "Work hard and you will surely achieve success.
+Don’t compare yourself to others.
+Just do your best.
+Work towards your goals and leave the rest.
+If you are ambitious about what you want,
+Then you will surely pass the test!
+Good Luck!"
+    }
+	,
+	{
+      "Status": "I am wishing you good luck,
+but it does not mean that I think you might win.
+It’s my way so saying,
+I bet you will win!"
+    }
+	,
+	{
+      "Status": "As you march towards the mission,
+I wish for your victory.
+As you plunge into a deep trance of hard work,
+May you finish successfully.
+Good Luck!"
+    }
+	,
+	{
+      "Status": "May today you be calm and happy,
+May all turn the way you want it to be.
+I know you will make it.
+Trust the positive feeling,
+And never stop believing.
+Wish you Best of Luck!"
+    }
+	,
+	{
+      "Status": "Loosing is better than quitting,
+If constant struggle is a pain,
+Then quitting is a curse.
+Forget about quitting,
+Think about winning
+Good Luck!"
+    }
+	,
+	{
+      "Status": "You are strong, attractive and smart.
+There is nothing you cannot do,
+You do perfect everything you start,
+Now again you will come through.
+Play the game the way you want to play,
+You will make it, good luck today!"
+    }
+	,
+	{
+      "Status": "The sun is rising up to tell you hi,
+The day is coming specially for you,
+The birds started flying in the sky,
+To sing and be there for you too,
+I am texting you to do the same,
+Wish You Best of Luck today."
+    }
+	,
+	{
+      "Status": "You will succeed,
+Courage is all you need,
+Strengthen your heart,
+Just take a start,
+I am sending a truck,
+Full of good luck."
+    }
+	,
+	{
+      "Status": "I have known you
+You are not a quitter,
+You’ve always done the best,
+Or at least better.
+Go ahead and do it,
+You will be the winner.
+Good Luck!"
+    }
+	,
+	{
+      "Status": "I wish you all the luck in the world,
+As you are trying to make your dreams come true,
+I wish you the best of luck,
+In everything you will ever do."
+    }
+	,
+	{
+      "Status": "May ur pockets b heavy n ur heart b light 
+May gd luck pursue u each morning n n8 "
+    }
+	,{
+      "Status": "For a long time now I have tried 
+simply to write the best I can. 
+Sometimes I have good luck
+and write better than I can."
+    },
+	{
+      "Status": "Good luck happens when preparedness meets opportunity. 
+Best of Luck!"
+    }
+	,
+	{
+      "Status": "R u hungry? 
+Never mind I have 2bowls 
+1for wishes and 1for luck 
+Wishes are mine luck is urs"
+    }
+	,
+	{
+      "Status": "Reverence, humility, 
+contentment, gratitude and hearing 
+the good Dharma, this is the best good luck."
+    }
+	,
+	{
+      "Status": "Winners believe that they create their 
+own luck by their actions; 
+losers believe in good and bad luck."
+    }
+	,
+	{
+      "Status": "Difficulties do not come 2 destroy U,
+bt 2 help U realize ur hidden power.
+Good Luck!"
+    }
+	,
+	{
+      "Status": ""
+    }
+	,
+	{
+      "Status": "80% Of The Final Exam Will Be Based On,
+The One Lecture You Missed.
+And The One Topic You Didn’t Read.
+Good Luck for the Exams."
+    }
+	,
+	{
+      "Status": "There are no doubts in my mind,
+That you can do it.
+Good Luck!"
+    }
+	,
+	{
+      "Status": "Good luck with your travels,
+Good luck with your life,
+Good luck with your work.
+May you find luck all the time."
+    }
+	,{
+      "Status": "Grace of God be with u,
+Grace of angel be protecting u,
+Grace of parents be loving u,
+Grace of me will be always with u.
+Wish you Best of Luck!"
+    },
+	{
+      "Status": "luck is yours, wishes are mine
+let ur future be always shine.
+Best of Luck…"
+    }
+	,
+	{
+      "Status": "Life is a magic…
+The beauty of life is next second.
+which hides thousands of secrets…
+I wish every second will be wonderful in your life…"
+    }
+	,
+	{
+      "Status": "The HOPE, The STRUGGLE and The HARD WORK
+towards a goal/ success is part of the rewards.
+Achieving goal itself is not the whole reward……..
+BEST WISHES"
+    }
+	,
+	{
+      "Status": "Luck is not in ur hands,
+but work is.
+Ur work can make ur luck,
+but luck can’t do ur work.
+Good day & Good Luck!!!"
+    }
+	,
+	{
+      "Status": "I have smthing 4 u
+close ur eyes
+1
+2
+3
+4
+5 …
+Cheater…
+u didnt close ur eyes
+so nothing 4u
+Except MY wishes & Prayers."
+    }
+	,
+	{
+      "Status": "Love yourself first
+and
+everything else falls into line.
+You really have to love yourself
+to get anything done in this world.
+Good Luck"
+    }
+	,
+	{
+      "Status": "Before battery low,
+Before ma credit is over &
+Before the sms is pending
+may I take this time 2 say
+“HI”
+WISH U AL DE BEST N WHATEVER U R DOING,
+MISS U."
+    }
+	,
+	{
+      "Status": "Are you hungry?
+Never mind I have two bowls,
+1 for wishes and
+1 for luck.
+Wishes are mine and
+luck is yours.
+you can take it or leave it,
+choice is yours."
+    }
+	,
+	{
+      "Status": "Success is like your own shadow…
+If u try to catch them u never succeed.
+Ignore it and walk in ur own way.
+It will follow U…
+
+"
+    }
+	,{
+      "Status": ""
+    },
+	{
+      "Status": "An aeroplane is always safe at ground.
+But it is not made for that.
+So always take some meaningful risks,
+to make LIFE Successful…"
+    }
+	,
+	{
+      "Status": "Don’t pray for Easy Lives
+Pray To Be a Strong Men!
+Don’t Pray for Task Equal To your Powers!
+Pray for Power Equal To your Tasks!
+BEST OF LUCK.
+
+"
+    }
+	,
+	{
+      "Status": "The candle of hope  is the source of light
+for success in life so don’t loose it.
+Failures try to blow it out but
+try to guard it with both your hands.
+Good Luck to U."
+    }
+	,
+	{
+      "Status": "May God stay with u this day
+&
+give u peace of mind.
+May God give u a happy heart
+&
+his love all the time.
+Good luck"
+    }
+	,
+	{
+      "Status": "Happy are those
+who dream dreams
+and are ready to pay the price
+to make them come true.
+Good luck to you"
+    }
+	,
+	{
+      "Status": "Remember that you are needed.
+There is at least one important work
+to be done that will not be done
+unless you do it
+Good luck"
+    }
+	,
+	{
+      "Status": "Accept the challenges,
+so that you may feel the exhilaration of victory.
+best of Luck for you exams!"
+    }
+	,
+	{
+      "Status": "Knowing is not enough;
+we must apply.
+Willing is not enough;
+we must do.
+
+Just do the best in exams"
+    }
+	,
+	{
+      "Status": "You gain strength, courage, and confidence
+by every experience in which you really stop to look fear in the face.
+You must do the thing which you think you cannot do.
+Good luck"
+    }
+	,{
+      "Status": "Dream is not what you see in sleep.
+It is something that does not let you sleep.
+Good luck for all your dreams"
+    },
+	{
+      "Status": "Patience and hard work have a magical effect,
+before which difficulties,
+disappear and obstacles vanish.
+Be a hard worker for your exam."
+    }
+	,
+	{
+      "Status": "Advice for your exam;
+Success isn’t a result of spontaneous combustion.
+You must set yourself on fire.
+Good Luck for your exam!"
+    }
+	,
+	{
+      "Status": "You will have tried,
+you will have learned,
+you never have to live with regrets.
+Good luck with all your life."
+    }
+	,
+	{
+      "Status": "Trust your heart don’t be afraid to reach out to something new.
+Go ahead get yor hopes up even if things turns out differently than you have imagined.
+always remember no-matter what trust your heart
+Good Luck,"
+    }
+	,
+	{
+      "Status": "I wish a wish for u.
+Its a wish I wish for few.
+The wish I wish for u is that,
+all your wishes come true so keep wishing,
+as my best wishes are always with you in your exams"
+    }
+	,
+	{
+      "Status": "Trusting God won’t make the mountain smaller,
+but it will make climbing easier.
+Hope you will be able to climb all your mountains in exams always."
+    }
+	,
+	{
+      "Status": "Examination is garden.
+success is flower.
+god bless you power,
+to pluck this flower."
+    }
+	,
+	{
+      "Status": "An honest smile,
+smiled from a smiling heart,
+crossing miles apart,
+has just reached ur inbox to wish u a day full of smiles & happiness.
+Good luck!"
+    }
+	,
+	{
+      "Status": "Notice something?
+Your phone got heavier with this message!
+Because, it’s loaded with love, affection, care and prayersto keep you happy!
+Good Luck"
+    }
+ 
+ ]
+}

@@ -1,0 +1,1504 @@
+{
+  "StausArray": [
+    {
+      "Status": "No one knows what it’s like to be the bad man, to be the sad man, behind blue eyes!!!"
+    },
+    {
+      "Status": "You Always Get Hurt The Moment You Begin To Care."
+    },
+    {
+      "Status": "The most painful memory.. when I walked away and you let me go."
+    },
+    {
+      "Status": "I feel so far away from the one I wish to hold in my arms :"
+    },
+    {
+      "Status": "Its better to be lonely then to be played by wrong people."
+    },
+    {
+      "Status": "Sometimes people have to cry out all their tears, to make room for a heart full of smiles."
+    },
+    {
+      "Status": "The hardest part about loving someone, is watching that person love another person."
+    },
+    {
+      "Status": "The greatest pain that comes from love is loving someone you can never have."
+    },
+    {
+      "Status": "The sad part isn't that we never talk, its that we used to talk everyday."
+    },
+    {
+      "Status": "I will wait till the day I can forget YOU or the day you realize you can’t forget Me."
+    },
+    {
+      "Status": "I tried to forget you, but the harder I tried, the more I thought about you."
+    },
+    {
+      "Status": "I don't usually sleep enough, but when I do, it's still not enough."
+    },
+    {
+      "Status": "A great many people have a soldier's stomach - everything they eat goes to the front."
+    },
+    {
+      "Status": "It's sad to be happy alone."
+    },
+    {
+      "Status": "It isn't the bad memories that make you sad, but the best ones that you can't bring it back ."
+    },
+    {
+      "Status": "Is having one of those days where they feels like they can't do anything right."
+    },
+    {
+      "Status": "Going to keep all secrets to myself since some people i can't trust"
+    },
+    {
+      "Status": "life's so shit it makes wot comes out the dog's ass look good!"
+    },
+    {
+      "Status": "Is finally driven to the point were they finds comfort in lies and shuns the truth."
+    },
+    {
+      "Status": "How did we go from talking everyday to strangers?"
+    },
+    {
+      "Status": "sometimes the people that u don't want to get hurt doesn't care if they hurt you!"
+    },
+    {
+      "Status": "Why be mean to animals when they treat u better then people!!!!"
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad..."
+    },
+    {
+      "Status": "You aren't the person I knew back then."
+    },
+    {
+      "Status": "I'm tired of everyone telling me about their special person when I desperately want one of my own."
+    },
+    {
+      "Status": "Only you can put a smile on my face when i'm sad..."
+    },
+    {
+      "Status": "Love can't be found Where it doesn't exist .."
+    },
+    {
+      "Status": "I hate when people say they miss you,but don’t make a effort to speak to you or see you. !!"
+    },
+    {
+      "Status": "What's the point in all this screaming,no one's Listening any way."
+    },
+    {
+      "Status": "I hate being broken.I hate that i cannot go back."
+    },
+    {
+      "Status": "I feel crappy inside,like something just broke."
+    },
+    {
+      "Status": "Tears are prayers too. They travel to God when we can't speak."
+    },
+    {
+      "Status": "1 day you will see what you lost. 1 day I'll see what I gained."
+    },
+    {
+      "Status": "I didn’t choose you, My heart did."
+    },
+    {
+      "Status": "Love is just love, it can never explained!!!"
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "The only way is to move on, because if you don't you'll be suck where you are."
+    },
+    {
+      "Status": "It's never going to be the same again. And that's whats killing me."
+    },
+    {
+      "Status": "It must be really sad to not be able to do something you love as the years go by."
+    },
+    {
+      "Status": "Wake me up when things are going right for once."
+    },
+    {
+      "Status": "Smile and no one will see how broken you are inside.I’m missing something in my life thes days."
+    },
+    {
+      "Status": "I'm invisible,until someone needs me."
+    },
+    {
+      "Status": "Sometimes there is so much we feel but so little we can say."
+    },
+    {
+      "Status": "The higher you climb on love's ladder,the harder you fall."
+    },
+    {
+      "Status": "Someone asked me How’s life? I just smiled and replied, She’s fine :"
+    },
+    {
+      "Status": "Life can give us lots' of beautiful persons, But only one person is enough for a beautiful life.."
+    },
+    {
+      "Status": "Why does it always have to be the one that you love the most hits you the hardest? "
+    },
+    {
+      "Status": "loves when you listen to a song and it relates 100% sure to how you feel."
+    },
+    {
+      "Status": "The truth hurts for a little while, but lies hurt for a lifetime."
+    },
+    {
+      "Status": "I hate being broken. I hate that I cannot go back."
+    },
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can’t see it. But we can feel it."
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad.."
+    },
+    {
+      "Status": "Some friends only last but so long, then they step on you like dirt. :("
+    },
+    {
+      "Status": "Don't try to please other people if in the end, you know it wont work."
+    },
+    {
+      "Status": "Is trying very hard to keep it all together, but has run out of string and super glue."
+    },
+    {
+      "Status": "I will never stop caring, but if you decide to push me away, I will go."
+    },
+    {
+      "Status": "I like to listen to sad music when I'm sad to make me double sad."
+    },
+    {
+      "Status": "People are lonely because they build walls instead of bridges.."
+    },
+    {
+      "Status": "Nothing is perfect, but when I’m with you everything is perfect."
+    },
+    {
+      "Status": "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it."
+    },
+    {
+      "Status": "I love my life because it gave me you I love you because you are my life!!!"
+    },
+    {
+      "Status": "I wish dreams were like wishes, and wishes came true, cause in my dreams I'm always with you."
+    },
+    {
+      "Status": "The essence of romantic love is that wonderful beginning, after which sadness and impossibility may become the rule."
+    },
+    {
+      "Status": "When I dream, I dream of you. Maybe one day, dreams will come true. Because, I really love you."
+    },
+    {
+      "Status": "Behind every successful man is a surprised woman."
+    },
+    {
+      "Status": "A dog is the only thing on earth that loves you more than he loves himself."
+    },
+    {
+      "Status": "I am someone else when I’m with you, someone more like myself."
+    },
+    {
+      "Status": "Love is what makes you smile when you’re tired."
+    },
+    {
+      "Status": "My wife dresses to kill. She cooks the same way."
+    },
+    {
+      "Status": "Love is when you tell a guy you love his shirt, then he wears it everyday."
+    },
+    {
+      "Status": "Nobody is worth your tears, and the one who is worth won’t make you cry."
+    },
+    {
+      "Status": "If I’m wired with you. I like you."
+    },
+    {
+      "Status": "Love is like war: easy to begin but very hard to stop."
+    },
+    {
+      "Status": "Love: Two minds without a single thought."
+    },
+    {
+      "Status": "Love: The triumph of imagination over intelligence."
+    },
+    {
+      "Status": "Life always offers you a second chance. it's called tomorrow."
+    },
+    {
+      "Status": "Enjoy your own life without comparing it with that of others."
+    },
+    {
+      "Status": "There are million things in the world I want, but all I need is you."
+    },
+    {
+      "Status": "To the world you maybe but one, but to one you might be the world."
+    },
+    {
+      "Status": "Not all men are fools, Some stay bachelor."
+    },
+    {
+      "Status": "Love doesn’t make the world go round; love is what makes the ride worthwhile."
+    },
+    {
+      "Status": "Everything in your life is a reflection of a choice you have made. If you want a different result, make a different choice."
+    },
+    {
+      "Status": "Love the life you live, and live the life you love."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "The best mirror is an old friend."
+    },
+    {
+      "Status": "A friend is someone who knows all about you and still loves you."
+    },
+    {
+      "Status": "Great friends are hard to find, difficult to leave, impossible to forget."
+    },
+    {
+      "Status": "Only a true best friend can protect you from your immortal enemies."
+    },
+    {
+      "Status": "I would rather walk with a friend in the dark, than alone in the light."
+    },
+    {
+      "Status": "A friend is someone who knows all about you and still loves you."
+    },
+    {
+      "Status": "True friends are never apart. Maybe in distance, but not in heart."
+    },
+    {
+      "Status": "A single rose can be my garden, a single friend is my world."
+    },
+    {
+      "Status": "Friendship doubles your joy and divides your sorrow."
+    },
+    {
+      "Status": "A friend is someone who gives you total freedom to be yourself."
+    },
+    {
+      "Status": "A single rose can be my garden... a single friend, my world."
+    },
+    {
+      "Status": "I come up with the best ideas when sitting on the toilet then forget them after the flush."
+    },
+    {
+      "Status": "Etc= End of thinking Capacity."
+    },
+    {
+      "Status": "Only Marriage is the major cause of divorce."
+    },
+    {
+      "Status": "If you are player then I’m the GAME."
+    },
+    {
+      "Status": "Awesome ends with ME and Ugly starts with you."
+    },
+    {
+      "Status": "You can disturb me….I’m available. :D"
+    },
+    {
+      "Status": "Some people call me Mike, You can call me tonight."
+    },
+    {
+      "Status": "Do You Want To Go Out With Me? (A) Yes (B) A (C) B."
+    },
+    {
+      "Status": "Someone on his status Sleeping ...since 3 Days! He's Probably dead."
+    },
+    {
+      "Status": "The Earth without Art is just Eh."
+    },
+    {
+      "Status": "We all are born to die don’t feel more special than me."
+    },
+    {
+      "Status": "Just saw the most smartest person when i was in front of the mirror :P"
+    },
+    {
+      "Status": "God is really creative , i mean ..just look at me :P"
+    },
+    {
+      "Status": "My study period = 15 minutes. My break time = 3 hours."
+    },
+    {
+      "Status": "I love buying new things but I hate spending money."
+    },
+    {
+      "Status": "Love your girl like you love your Coffee… Enjoy it before its hotness goes."
+    },
+    {
+      "Status": "?  Behind this smile is everything you’ll never understand."
+    },
+    {
+      "Status": "If I’m wired with you. I like you."
+    },
+    {
+      "Status": "Stop waiting for one Day. Today is the Day- Bang-Bang"
+    },
+    {
+      "Status": "I hate math but I love counting money."
+    },
+    {
+      "Status": "I believe in hate at first sight."
+    },
+    {
+      "Status": " There’s always a person that you hate for no reason."
+    },
+    {
+      "Status": "If I get jealous then yes I really like you."
+    },
+    {
+      "Status": "Every problem comes with a solution. If it doesn’t have any solution, it’s a…………. Girl :)"
+    },
+    {
+      "Status": "Insult and wife are somewhat similar....They always look good...If it is not yours!!!!"
+    },
+    {
+      "Status": "I m Jealous of My Parents... I'll Never Have a Kid as Cool as Theirs!!!"
+    },
+    {
+      "Status": "I speak my mind. I never mind what I speak."
+    },
+    {
+      "Status": "A mans work is from sun to sun, but a Father'ss work is never done!!!!"
+    },
+    {
+      "Status": "You are one of a kind, A better DAD I could not find!!!!"
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "If you want to achieve greatness stop asking for permission."
+    },
+    {
+      "Status": "You have to learn the rules of the game. And then you have to play better than anyone else."
+    },
+    {
+      "Status": "If you do what you always did, you will get what you always got."
+    },
+    {
+      "Status": "Nothing is impossible, the word itself says 'I'm possible'!"
+    },
+    {
+      "Status": "God always gives His best to those who leave the choice with him."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "Failure is always temporary, only giving up makes it permanent."
+    },
+    {
+      "Status": "God could not be everywhere and therefore he made Fathers.!!!"
+    },
+    {
+      "Status": "North South East West, From all DADS you are the best.!!!"
+    },
+    {
+      "Status": "One of life is greatest jobs: Fatherhood!!!!"
+    },
+    {
+      "Status": "A Father understands what a child does not say."
+    },
+    {
+      "Status": "No language can express the power and beauty and heroism of a Father's love."
+    },
+    {
+      "Status": "The Father's heart is the childs schoolroom."
+    },
+    {
+      "Status": "Work hard in silence & let the success make noise."
+    },
+    {
+      "Status": "One day i really want to say- I MADE IT."
+    },
+    {
+      "Status": "Motivation is what gets you started. Habit is what keeps you going."
+    },
+    {
+      "Status": "Work until you don't  have to introduce yourself "
+    },
+    {
+      "Status": "To shine like the sun, you need to burn like one."
+    },
+    {
+      "Status": "Success is falling 9 times and getting up 10."
+    },
+    {
+      "Status": "Defeat your enemies with your success."
+    },
+    {
+      "Status": "Do it today or regret TOMORROW. "
+    },
+    {
+      "Status": "No gift to your Father can ever equal her gift to you life."
+    },
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
+    },
+    {
+      "Status": "An ounce of Father is worth a ton of priest.!!!"
+    },
+    {
+      "Status": "There is only one pretty child in the world, and every Father has it."
+    },
+    {
+      "Status": "Sometimes the strength of Fatherhood is greater than natural laws!!!!"
+    },
+    {
+      "Status": "Dads are great at ironing out life is wrinkles.!!!"
+    },
+    {
+      "Status": "Anyone who doesnt miss the past never had a Father."
+    },
+    {
+      "Status": "All Fathers are working Fathers."
+    },
+    {
+      "Status": "Once you learn to be happy alone you won't tolerate anyone who can't make you just as happy."
+    },
+    {
+      "Status": "Decision defines destiny.."
+    },
+    {
+      "Status": "In order to success your desire to success should be greater than your fear of failure."
+    },
+    {
+      "Status": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+    },
+    {
+      "Status": "Try to be like the turtle - at ease in your own shell."
+    },
+    {
+      "Status": "Life isn’t about getting and having, it’s about giving and being."
+    },
+    {
+      "Status": "Discouragement and failure are two of the surest stepping stones to success."
+    },
+    {
+      "Status": "Some people pass through our lives in a shorter time frame than we had hoped to teach us things they never could have taught if they stayed."
+    },
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "In order to succeed, we must first believe that we can."
+    },
+    {
+      "Status": "Don't watch the clock; do what it does. Keep going."
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "I would never have amounted to anything were it not for adversity. I was forced to come up the hard way!!!"
+    },
+    {
+      "Status": "Harsh counsels have no effect. They are like hammers which are always repulsed by the anvil!!!!"
+    },
+    {
+      "Status": "The great pleasure in life is doing what people say you cannot do!!!"
+    },
+    {
+      "Status": "If at first you don't succeed-try, try again. Don't think of it as failure. Think of it as timed-release success."
+    },
+    {
+      "Status": "You never fail until you stop trying."
+    },
+    {
+      "Status": "Whatever brings you down, will eventually make you stronger."
+    },
+    {
+      "Status": "If youre not doing the things that you love, then your life is not worth living. What are you here for?"
+    },
+    {
+      "Status": "Do not give up, the beginning is always the hardest."
+    },
+    {
+      "Status": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+    },
+    {
+      "Status": "The most common way people give up their power is by thinking they don’t have any."
+    },
+    {
+      "Status": "Don't raise your voice, improve your argument."
+    },
+    {
+      "Status": "The meaning of life is to find your gift. The purpose of life is to give it away."
+    },
+    {
+      "Status": "Change your thoughts and you change your world."
+    },
+    {
+      "Status": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    {
+      "Status": "A person who never made a mistake never tried anything new."
+    },
+    {
+      "Status": "Courage is what you earn when you've been through the tough times & you discover they aren't so tough after all."
+    },
+    {
+      "Status": "Perpetual optimism is a force multiplier."
+    },
+    {
+      "Status": "Excellence is not an act but a habit. The things you do the most are the things you will do best."
+    },
+    {
+      "Status": "Some days there won't be a song in your heart. Sing anyway. "
+    },
+    {
+      "Status": "Don't judge each day by the harvest you reap, but by the seeds you plant."
+    },
+    {
+      "Status": "Let your hopes, not your hurts, shape your future."
+    },
+    {
+      "Status": "The most important thing in communication is to hear what isn't being said."
+    },
+    {
+      "Status": "More people would learn from their mistakes if they weren't so busy denying them!!!"
+    },
+    {
+      "Status": "We all have a few failures under our belt. It's what makes us ready for the successes!!!"
+    },
+    {
+      "Status": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."
+    },
+    {
+      "Status": "Don't complain about the snow on your neighbor's roof when your own doorstep is unclean."
+    },
+    {
+      "Status": "Success in life is a matter not so much of talent or opportunity as of concentration and perseverance."
+    },
+    {
+      "Status": "Opportunities multiply as they are seized!!!!"
+    },
+    {
+      "Status": "Try not to become a man of success, but rather a man of value!!!"
+    },
+    {
+      "Status": "Happiness comes when we test our skills towards some meaningful purpose."
+    },
+    {
+      "Status": "If you follow your bliss, doors will open for you that wouldn't have opened for anyone else."
+    },
+    {
+      "Status": "Someone Asked me what is UR attitude…… then i simply replied… ” BEING SINGLE IS MY ATTITUDE…"
+    },
+    {
+      "Status": "Two fundamentals of cool life – Walk like you are the king OR walk like you don’t care ,who is the king."
+    },
+    {
+      "Status": "My attitude depends on the people in front of me."
+    },
+    {
+      "Status": "May you live all the days of your life.The great use of life is to spend it for something that will outlast it."
+    },
+    {
+      "Status": "Xcuse me, I found something under my shoes. Oh its your attitude"
+    },
+    {
+      "Status": "I speak my mind. I never mind what I speak."
+    },
+    {
+      "Status": "I’m nobody, nobody is perfect, and therefore I’m perfect."
+    },
+    {
+      "Status": "I’m gonna MAKE the rest of my life, the BEST of my LIFE."
+    },
+    {
+      "Status": "Knowledge is knowing tomato is a fruit ….wisdom is not putting is a fruit salad."
+    },
+    {
+      "Status": "Error: status unavailable"
+    },
+    {
+      "Status": "Keep moving! Nothing new to read…"
+    },
+    {
+      "Status": "Not always available, try your luck"
+    },
+    {
+      "Status": "I smile ...Because I don't know WHAT THE HELL is going on."
+    },
+    {
+      "Status": "When i was born..Devil said..”Oh Shit..!! Competition"
+    },
+    {
+      "Status": "I hate when people look at my phone while I’m typing. It’s not that I have something to hide…"
+    },
+    {
+      "Status": "I don’t regret my past. I just regret the time I have wasted with the wrong people."
+    },
+    {
+      "Status": "Today, Not 1 person said HAPPY BIRTHDAY to me It wasn’t a shock today not my birthday"
+    },
+    {
+      "Status": "May it be the best day of your life thus far, & may your happiness grow with each passing day through the many many birthdays that surely are ahead of you."
+    },
+    {
+      "Status": "On your birthday lots of people are thinking of you. I just wanted to let you know that I am one of them.."
+    },
+    {
+      "Status": "A meaningful silence is always better than meaningless words."
+    },
+    {
+      "Status": "A meaningful silence is always better than meaningless words."
+    },
+    {
+      "Status": "I am single because God is busy writing the best love story for me…"
+    },
+    {
+      "Status": "I Am Not Special , I Am Just Limited Edition "
+    },
+    {
+      "Status": "If i had a gun with two bullets and i was with hitler,bin laden and you insert your ex or your enemy’s name],i would shoot you twice."
+    },
+    {
+      "Status": "Status under construction of life."
+    },
+    {
+      "Status": "Stop checking my status ! Go Get A Life"
+    },
+    {
+      "Status": "I dont change , i just grew up. You should try it once "
+    },
+    {
+      "Status": "Even romeo went from being “in a relationship” to “it’s complicated"
+    },
+    {
+      "Status": "Don’t Copy My Style."
+    },
+    {
+      "Status": "Happiness is when “Last seen at” changes to “online” and then to “typing.."
+    },
+    {
+      "Status": "I’m listening. It just takes me a minute to process so much stupidity all at once!!"
+    },
+    {
+      "Status": "Don’t talk out loud, you lower the IQ of the whole street!!!"
+    },
+    {
+      "Status": "Your whatsapp status say’s online …..If your online then why aren’t you texting me!!!"
+    },
+    {
+      "Status": "sorry we are having some issues right now with our push notifications and ‘last seen’ status. we are working on resolving them."
+    },
+    {
+      "Status": "Phones are better than girlfriends, At least we can switch off."
+    },
+    {
+      "Status": "If you like me then raise your hand, if not then raise your standard."
+    },
+    {
+      "Status": "When everything comes your way.. Then you are on the wrong way."
+    },
+    {
+      "Status": "A good laugh and long sleep are two best cures for anything."
+    },
+    {
+      "Status": "Dear God, thanks for making me special"
+    },
+    {
+      "Status": "I haven’t slept for 10 days, because that would be too long."
+    },
+    {
+      "Status": "If you think your opinion of me has any effect, Honey let me assure you that none of my self worth is wrapped up in what you think of me."
+    },
+    {
+      "Status": "Just about the time when you think you can make ends meet, somebody moves the ends."
+    },
+    {
+      "Status": "People say me bad, trust me i am the worst!!!"
+    },
+    {
+      "Status": "I am not failed, my success is just postponed."
+    },
+    {
+      "Status": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    {
+      "Status": "People laugh at me becoz i am different and i laugh becoz they all are same."
+    },
+    {
+      "Status": "Nothing in the world is more common than unsuccessful people with talent."
+    },
+    {
+      "Status": "The greatest advantage of speaking the truth is that you don’t have to remember what you said."
+    },
+    {
+      "Status": "Failure is the opportunity to begin again more intelligently."
+    },
+    {
+      "Status": "Sharing your problems with others doesn’t help rather people who took pity on u increases!!!"
+    },
+    {
+      "Status": "When you feel insulted I’m just describing you."
+    },
+    {
+      "Status": "Dear Mario…..I Wasted My Childhood Trying To Save Your Girlfriend.Now, you help me to save mine."
+    },
+    {
+      "Status": "If I delete your number, you’re basically deleted from my life."
+    },
+    {
+      "Status": "Definition of EX: Thanks for the EXperience. Our time has EXpired. Now EXit my life."
+    },
+    {
+      "Status": "I text you because I want to have a conversation with you. Not to get one word answers."
+    },
+    {
+      "Status": "If you’re going to talk about me behind my back, don’t smile at me to my face."
+    },
+    {
+      "Status": "It’s so simple to be wise. Just think of something stupid to say and then don’t say it."
+    },
+    {
+      "Status": "I feel so miserable without you; it’s almost like having you here"
+    },
+    {
+      "Status": "I’m sorry my fault. I forgot you’re an Idiot."
+    },
+    {
+      "Status": "Every mother on earth gave birth to child except my mother, She gave birth to Legend "
+    },
+    {
+      "Status": "I tried to be normal. Worst two minutes of my life."
+    },
+    {
+      "Status": "Come in my Heart and pay no rent."
+    },
+    {
+      "Status": "Life is too short to be serious all the time. So, If you can't laugh at yourself, CALL ME...I'LL LAUGH AT YOU."
+    },
+    {
+      "Status": "Take me as I am or watch me as I go"
+    },
+    {
+      "Status": "I always arrive late at office but I make it by leaving early."
+    },
+    {
+      "Status": "May my enemies live a long life to see my success."
+    },
+    {
+      "Status": "I destroy my enemies when I make them my friends."
+    },
+    {
+      "Status": "The biggest slap to your enemies is your success!"
+    },
+    {
+      "Status": "I'm not SHORT, I am just concentrated AWESOME !"
+    },
+    {
+      "Status": "I am who I am, Your approval is not needed"
+    },
+    {
+      "Status": "don't let the world change your smile, let your smile change the world"
+    },
+    {
+      "Status": "Don't PLAY with Me ! Coz i know I Can PLAY Better Than You."
+    },
+    {
+      "Status": "I’m shy at first, but once I’m comfortable with you get ready for some crazy shits."
+    },
+    {
+      "Status": "God is really creative, I mean ...just look at me !"
+    },
+    {
+      "Status": "i am what i am.. i will never try to be some one else."
+    },
+    {
+      "Status": "The secret of life is not to do what you like, but to like what you do."
+    },
+    {
+      "Status": "I’m not lazy, I’m just on energy saving mode."
+    },
+    {
+      "Status": "I’ve found recipe for happiness. Can someone just send me some money so that I can buy the ingredients."
+    },
+    {
+      "Status": "Yes I’m smiling, but you’re not the reason anymore!"
+    },
+    {
+      "Status": "Your attitude, not your aptitude, will determine your altitude!"
+    },
+    {
+      "Status": "I am not as dumb as you look!"
+    },
+    {
+      "Status": "The only disability in life is a bad attitude."
+    },
+    {
+      "Status": "People like me great. People don’t like me great. As long as I like myself that all that matters."
+    },
+    {
+      "Status": "If you don’t like something, change it. If you can’t change it, change your attitude."
+    },
+    {
+      "Status": "When you think there is nothing left in your life,just keep working hard until you die"
+    },
+    {
+      "Status": "When I drink alcohol… Everyone says I’m alcoholic. But… When I drink Fanta.. No one says I’m fantastic!"
+    },
+    {
+      "Status": "I’m not failed…my success is just postponed for some time"
+    },
+    {
+      "Status": "When nothing seems right….go left"
+    },
+    {
+      "Status": "Sorry about those texts I sent you last night, my phone was drunk."
+    },
+    {
+      "Status": "Love thy neighbor. But don’t get caught."
+    },
+    {
+      "Status": "If you can’t beat them, arrange to have them beaten."
+    },
+    {
+      "Status": "A woman is like a tea bag, you cannot tell how strong she is until you put her in hot water."
+    },
+    {
+      "Status": "Don’t drink and park – accidents cause people."
+    },
+    {
+      "Status": "When a bird hits your window have you ever wondered if God is playing angry birds with you?"
+    },
+    {
+      "Status": "Knowledge is like underwear. It is useful to have it, but not necessary to show it off."
+    },
+    {
+      "Status": "Ever read a book that changed your life? Me neither."
+    },
+    {
+      "Status": "Getting married is a lot like getting into a tub of hot water. After you get used to it, it ain’t so hot."
+    },
+    {
+      "Status": "When a girl says she’ll be ready in 5 more minutes, it’s the same as when a guy says the game has 5 minutes left."
+    },
+    {
+      "Status": "I come up with the best ideas when sitting on the toilet then forget them after the flush."
+    },
+    {
+      "Status": "Etc= End of thinking Capacity."
+    },
+    {
+      "Status": "Only Marriage is the major cause of divorce."
+    },
+    {
+      "Status": "If you are player then I’m the GAME."
+    },
+    {
+      "Status": "Awesome ends with ME and Ugly starts with you."
+    },
+    {
+      "Status": "You can disturb me….I’m available. "
+    },
+    {
+      "Status": "Some people call me Mike, You can call me tonight."
+    },
+    {
+      "Status": "Behind this smile is everything you’ll never understand."
+    },
+    {
+      "Status": "If I’m wired with you. I like you."
+    },
+    {
+      "Status": "I believe in hate at first sight."
+    },
+    {
+      "Status": "Every problem comes with a solution. If it doesn’t have any solution, it’s a…………. Girl :"
+    },
+    {
+      "Status": "Insult and wife are somewhat similar....They always look good...If it is not yours!"
+    },
+    {
+      "Status": "I'm Jealous of My Parents... I'll Never Have a Kid as Cool as Theirs!"
+    },
+    {
+      "Status": "I speak my mind. I never mind what I speak."
+    },
+    {
+      "Status": "I love buying new things but I hate spending money."
+    },
+    {
+      "Status": "Stop waiting for one Day. Today is the Day- Bang-Bang"
+    },
+    {
+      "Status": "I hate math but I love counting money."
+    },
+    {
+      "Status": "Love your girl like you love your Coffee… Enjoy it before its hotness goes."
+    },
+    {
+      "Status": "I Had To Walk Up The Escalator."
+    },
+    {
+      "Status": "We Have Too Much Food In Our Freezer So When We Open It Stuff Falls Out."
+    },
+    {
+      "Status": "I Retied One Of My Shoes Too Tight. Now I Have To Retie The Other One."
+    },
+    {
+      "Status": "Sometimes The Commercials On Tv Are Louder Than The Show, So I Have To Make It Softer And Then Louder Everytime."
+    },
+    {
+      "Status": "Whenever I See A Tap, I Immediately Stick My Hands Under Them, Even If They're Not Automatic."
+    },
+    {
+      "Status": "My Favorite Band Just Broke Up!"
+    },
+    {
+      "Status": "Cutting Myself While Shaving."
+    },
+    {
+      "Status": "You can do anything, but not everything !!"
+    },
+    {
+      "Status": "Why Do I Always Wake Up Tired And Fall Asleep Wide Awake."
+    },
+    {
+      "Status": "My Garage Door Opener Didn't Work When I Got Home, So I Had To Park My Car Outside. Where It Rains."
+    },
+    {
+      "Status": "Type In User Name. Notice Typo 1/10 Second After Hitting Enter."
+    },
+    {
+      "Status": "Downloads New Songs For Road Trip Play List. Forgets To Sync Ipod To Computer. "
+    },
+    {
+      "Status": "Buying A New Dvd. Tons Of Unskippable Warnings And Previews."
+    },
+    {
+      "Status": "When You Had Sex...But It Was Only A Dream."
+    },
+    {
+      "Status": "When I Torrent A Song, It Doesn't Come With The Artwork."
+    },
+    {
+      "Status": "My Life Is Just Freaking Awkward."
+    },
+    {
+      "Status": "Ahh, I Slept On My Neck. The Pain"
+    },
+    {
+      "Status": "There's Not Enough Time In The Day...Yet, I'm On Facebook."
+    },
+    {
+      "Status": "My Car Doesn't Play Cds, Only Cassette Tapes."
+    },
+    {
+      "Status": "It's Humid Out And My Thumbs Are Sticking Across My Touch Screen."
+    },
+    {
+      "Status": "When Your Alarm Doesn't Go Off."
+    },
+    {
+      "Status": "If you don't care, stop talking about it !"
+    },
+    {
+      "Status": "You should never play with someones heart!"
+    },
+    {
+      "Status": "I enjoy when people shows attitude to me!"
+    },
+    {
+      "Status": "There’s always a person that you hate for no reason."
+    },
+    {
+      "Status": "If I get jealous then yes I really like you."
+    },
+    {
+      "Status": " Do your legs hurt from running through my dreams all night?"
+    },
+    {
+      "Status": "Relationship Status: Looking for a WiFi connection."
+    },
+    {
+      "Status": "I have enough money to last me the rest of my life, unless I buy something."
+    },
+    {
+      "Status": "Can I take your picture?? I love to collect pictures of natural disasters."
+    },
+    {
+      "Status": "I’m not arguing, I’m simply tried to explaining why I’m Right."
+    },
+    {
+      "Status": "Math Rule: If it seems easy, you’re doing it wrong."
+    },
+    {
+      "Status": "You have eyes my dear but you cannot see."
+    },
+    {
+      "Status": "The Earth without Art is just Eh."
+    },
+    {
+      "Status": "We all are born to die don’t feel more special than me."
+    },
+    {
+      "Status": "The only reason god made cousins so that parents can compare our marks."
+    },
+    {
+      "Status": "God is really creative , i mean ..just look at me :"
+    },
+    {
+      "Status": "My study period = 15 minutes. My break time = 3 hours."
+    },
+    {
+      "Status": "I’m not weird, I’m limited edition."
+    },
+    {
+      "Status": "The problem is not the problem; the problem is your attitude about the problem."
+    },
+    {
+      "Status": "If you fall. I’ll be there."
+    },
+    {
+      "Status": "The best sentence ever spoken- I love you mom"
+    },
+    {
+      "Status": "I have a MOM who makes me laugh, wiped my tears, hugged me tight, watched me succeed, saw me fail, cheered me on and kept me strong! I <3 you mom!"
+    },
+    {
+      "Status": "Good mom's let there kids lick the beaters...Great moms shut the beater off first."
+    },
+    {
+      "Status": "ur truest best friend is ur mom..some people just have to realise it..have u told ur mom that u love their yet today? cuz you should everyday..I LOVE U MOM!"
+    },
+    {
+      "Status": "There is nothing greater in this world than being loving parents. So take the first step today by getting married. Think different, do different!"
+    },
+    {
+      "Status": "Home is where your mum is. I love my Mommy."
+    },
+    {
+      "Status": "its amazing how you can feel bad as if your life was falling apart..then you hear your mother's voice and everything suddenly seems FINE :"
+    },
+    {
+      "Status": "Proud Mom: I gave them life they gave me a reason to live. "
+    },
+    {
+      "Status": "do you believe in angels? i do its my mom."
+    },
+    {
+      "Status": "A mother is she who can take the place of all others,but whose place no one else can take."
+    },
+    {
+      "Status": "A MOTHER thinks about her CHILDREN day and night. Even if they are not with her, and will love them in a way they will never understand."
+    },
+    {
+      "Status": "A mother always has to think twice, once for herself and once for her child."
+    },
+    {
+      "Status": "Parents are the only God to help and guide you in your life!!!"
+    },
+    {
+      "Status": "A man loves his sweetheart the most, his wife the best, but his mother the longest."
+    },
+    {
+      "Status": "After all these years, being almost grown...I still try to run and hide when I hear my full name yelled by mom."
+    },
+    {
+      "Status": "You have to learn the rules of the game. And then you have to play better than anyone else."
+    },
+    {
+      "Status": "If you do what you always did, you will get what you always got."
+    },
+    {
+      "Status": "Nothing is impossible, the word itself says 'I'm possible"
+    },
+    {
+      "Status": "God always gives His best to those who leave the choice with him."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "Work hard in silence & let the success make noise."
+    },
+    {
+      "Status": "One day i really want to say- I MADE IT."
+    },
+    {
+      "Status": "Motivation is what gets you started. Habit is what keeps you going."
+    },
+    {
+      "Status": "Work until you don't  have to introduce yourself "
+    },
+    {
+      "Status": "To shine like the sun, you need to burn like one."
+    },
+    {
+      "Status": "Success is falling 9 times and getting up 10."
+    },
+    {
+      "Status": "Defeat your enemies with your success."
+    },
+    {
+      "Status": "Do it today or regret TOMORROW. "
+    },
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "If you want to achieve greatness stop asking for permission."
+    },
+    {
+      "Status": "Failure is always temporary, only giving up makes it permanent."
+    },
+    {
+      "Status": "In order to success your desire to success should be greater than your fear of failure."
+    },
+    {
+      "Status": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+    },
+    {
+      "Status": "Try to be like the turtle - at ease in your own shell."
+    },
+    {
+      "Status": "Life isn’t about getting and having, it’s about giving and being."
+    },
+    {
+      "Status": "Discouragement and failure are two of the surest stepping stones to success."
+    },
+    {
+      "Status": "You never fail until you stop trying."
+    },
+    {
+      "Status": "Whatever brings you down, will eventually make you stronger."
+    },
+    {
+      "Status": "If youre not doing the things that you love, then your life is not worth living. What are you here for?"
+    },
+    {
+      "Status": "Do not give up, the beginning is always the hardest."
+    },
+    {
+      "Status": "The meaning of life is to find your gift. The purpose of life is to give it away."
+    },
+    {
+      "Status": "Change your thoughts and you change your world."
+    },
+    {
+      "Status": "Some people pass through our lives in a shorter time frame than we had hoped to teach us things they never could have taught if they stayed."
+    },
+    {
+      "Status": "Once you learn to be happy alone you won't tolerate anyone who can't make you just as happy."
+    },
+    {
+      "Status": "Decision defines destiny."
+    },
+    {
+      "Status": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+    },
+    {
+      "Status": "The most common way people give up their power is by thinking they don’t have any."
+    },
+    {
+      "Status": "Don't raise your voice, improve your argument."
+    },
+    {
+      "Status": "The only reason god made cousins so that parents can compare our marks."
+    },
+    {
+      "Status": "People say laughter is the best medicine. Your face must be curing the world."
+    },
+    {
+      "Status": "I don’t always lose my phone but when I do its always on silent."
+    },
+    {
+      "Status": "Can’t talk, telepathy only!"
+    },
+    {
+      "Status": "Read books instead of reading my status!"
+    },
+    {
+      "Status": "Eat…sleep….regret……repeat."
+    },
+    {
+      "Status": "Sometimes when i say  i am okay  I want someone Too look me in the eyes Hug me tight and say  I know you're not"
+    },
+    {
+      "Status": "Waiting is painful. Forgetting is painful. But not knowing which to do is the worse kind of suffering."
+    },
+    {
+      "Status": "his isn't a Whatsapp Status...this is just to show that no status matches my feelings right now."
+    },
+    {
+      "Status": "Six letters, two words, easy to say, hard to explain, harder to do. MOVE ON."
+    },
+    {
+      "Status": "I'm freezing, I'm starving, I'm bleeding to death, Everything's fine."
+    },
+    {
+      "Status": "Loneliness is the human condition. No one is ever going to fill that space."
+    },
+    {
+      "Status": "I never feel alone bcz loneliness is always with me."
+    },
+    {
+      "Status": "Invisible TEARS are the hardest to wipe away."
+    },
+    {
+      "Status": "I act like I don't care, but deep inside, it hurts."
+    },
+    {
+      "Status": "If you left me without a REASON, Do not come back with an Excuse."
+    },
+    {
+      "Status": "I don’t need drugs, Life is killing me slowly all by itself."
+    },
+    {
+      "Status": "Life and death are balanced on the edge of a razor."
+    },
+    {
+      "Status": "I like having low self-esteem it makes me feel special."
+    },
+    {
+      "Status": "She was a girl who knew how to be happy even when she was sad and that's important you know."
+    },
+    {
+      "Status": "You must be, said the Cat. 'or you wouldn't have come here."
+    },
+    {
+      "Status": "It's not how tragically we suffer but how miracously we live."
+    },
+    {
+      "Status": "Look at me. You may think you see who I really am, but you'll never know me."
+    },
+    {
+      "Status": "I never knew that one singe blade could mess up my life."
+    },
+    {
+      "Status": "The pain is there to remind me that I'm still alive."
+    },
+    {
+      "Status": "Those who say sunshine brings happiness have never danced in the rain."
+    },
+    {
+      "Status": "I hate when people say they miss you,but don’t make a effort to speak to you or see you."
+    },
+    {
+      "Status": "What's the point in all this screaming,no one's Listening any way."
+    },
+    {
+      "Status": "I hate being broken.I hate that i cannot go back."
+    },
+    {
+      "Status": "Sometimes you need to run away just to see who will follow you."
+    },
+    {
+      "Status": "One morning you wake up afraid to live."
+    },
+    {
+      "Status": "Maybe I am crazy but laughing makes the pain pass by."
+    },
+    {
+      "Status": "Some people try to understand, but nobody can know what living like this is like."
+    },
+    {
+      "Status": "I have to cut because it's the only way I can smile."
+    },
+    {
+      "Status": "QUIET! I can't hear you & all the voices in my head at the same time!"
+    },
+    {
+      "Status": "I won't leave a note for anyone to find tomorrow they will know what I've done here tonight."
+    },
+    {
+      "Status": "Some of us are just trying to get through the day without falling apart."
+    },
+    {
+      "Status": "First time I cut was just to feel the pain, Strange because I didn't feel a thing."
+    },
+    {
+      "Status": "The loss of a loved one is one of the most tragic and devastating things a person could endure."
+    },
+    {
+      "Status": "Only you can put a smile on my face when i'm sad..."
+    },
+    {
+      "Status": "The skin of a scar is stronger than the original, less aware of pain..."
+    },
+    {
+      "Status": "Reality has exiled me; I am no longer bound by it's laws."
+    },
+    {
+      "Status": "I cry then I cut, then I cry again, it never ends."
+    },
+    {
+      "Status": "When I Show you a picture on my phone..don’t swipe left.don’t swipe right.Just look."
+    },
+    {
+      "Status": "I’m just having an allergic reaction to the universe."
+    },
+    {
+      "Status": "It’s amazing that the amount of news that happens in the world each day fit exactly the length of newspaper!"
+    },
+    {
+      "Status": "My last seen at was just to check your last seen at"
+    },
+    {
+      "Status": "A black cat passing by the crossroad can stop hundreds of people what a RED LIGHT on traffic signal has failed to do for long time!"
+    },
+    {
+      "Status": "In victory, you deserve Champagne. In defeat you need it."
+    },
+    {
+      "Status": "When it’s you against me, you either win or you die!"
+    },
+    {
+      "Status": "Some people should just give up at engineering( or medical) ………i have"
+    },
+    {
+      "Status": "Do you ever just lie on knees and thank god that you know me and my intelligence??"
+    },
+    {
+      "Status": "Who care’s ?????………..I’m awsome!!!"
+    },
+    {
+      "Status": "life is short…smile while you still have teeth."
+    },
+    {
+      "Status": "Doing nothing is very hard thing to do…you never know when to finish."
+    },
+    {
+      "Status": "Don’t take life too seriously, you won’t get out of it alive."
+    },
+    {
+      "Status": "WARNING!! I know karate …..and some other words!!!"
+    },
+    {
+      "Status": "Hey,you are reading my status again??"
+    },
+    {
+      "Status": "People say everything happens for a reason. So when I punch you in the face, remember I have a reason."
+    },
+    {
+      "Status": "80% of boys have girlfriends.. Rest 20% are having brain."
+    },
+    {
+      "Status": "A loving memory of your smiling face, a friend like you can never replace, deep in my heart you will always stay, truly remembered ever!!"
+    },
+    {
+      "Status": "Friendship is a incurable diseases which will finish after the death."
+    },
+    {
+      "Status": "Friendship is not finding gold or silver among the rocks of life. It is accepting each other as coal until diamonds are formed with time!!!"
+    },
+    {
+      "Status": "Heart comes from birth. Love comes from birth. Life starts from birth. But friendship comes only when you want it and search for it."
+    },
+    {
+      "Status": "Never love a friend who hurts you never hurt a friend who loves you sacrifice everything for a friend who care for you."
+    },
+    {
+      "Status": "Golden rules to feel happy: meet a friend, call a friend, talk to your friend, hug a friend, and love a friend."
+    },
+    {
+      "Status": "Great day that everybody believes that this friendship is everlasting than any other relationship."
+    },
+    {
+      "Status": "Everything happens for a purpose our friendship was not an accident, god wanted me to get the best but, unfortunately you got the best!!"
+    },
+    {
+      "Status": "A poor man says work is life. A rich man says money is life. A lover says love is life but. I say my idiot friends are my life."
+    },
+    {
+      "Status": "Two of my friends were arguing as who is dear to me.. I was smiling silently thinking of you."
+    },
+    {
+      "Status": "One day I may die without saying good bye to you but I will never forget to say thank you because you have given me one of loveliest friendship."
+    },
+    {
+      "Status": "Love a set of heart attraction a set of style marriage a set of life but friendship a set of you!!!"
+    },
+    {
+      "Status": "Heart never hate blood! Flower never hate honey! My heart never hate you and your friendship!!!"
+    },
+    {
+      "Status": "Friends are like melons. Shall I tell you why?. To find one good.. You must a hundred try!!"
+    },
+    {
+      "Status": "Tree is green. Sea is blue. Night is black. Milk is white. Friends are red. Because. My friends are my blood!!"
+    },
+    {
+      "Status": "A loving smile a heart of gold your dearest person this world can hold though heart fails life departs you will live as a friend forever."
+    },
+    {
+      "Status": "Love is a small coin life is a big coin lover is a sweet coin but friendship is gold coin."
+    },
+    {
+      "Status": "A friend is one special person who can pull out a happy tear from your eye.. Even if you do not have tears to cry!!"
+    },
+    {
+      "Status": "Ur father guides your mother cares your brother shares your sister loves. But a true friend does all. Be a true friend."
+    },
+    {
+      "Status": "The best cosmetic for the lips is truth, for the voice is prayers, for the eyes is pity, for the hands is charity & for the life is friend ship"
+    },
+    {
+      "Status": "6 rules to be happy free your heart from hatred free your mind from worries live simply expect less give more & always have me as your friend!!!"
+    },
+    {
+      "Status": "Golden rules to feel happy meet a friend, call a friend, talk to your friend, hug a friend, and love a friend."
+    },
+    {
+      "Status": "Word of true friend: I would conquer the whole world with just one hand, if you are holding the other hand."
+    },
+    {
+      "Status": "Do you think, tat any one can live without friends? It is impossible. Because friends are the inseparable part of our life!!!!"
+    },
+    {
+      "Status": "If we had not spoken to strangers, we would not have had any friends in life at all. Amazing but true!!"
+    },
+    {
+      "Status": " Friendship is a warm feeling which comes from the inner core of the heart it cannot be buy or sell!!"
+    },
+    {
+      "Status": "Don't ever think that you can live without friend. Friend is the best thing in the world!!!"
+    },
+    {
+      "Status": "Square has 4 ends triangle has 3 ends line has to ends life has one end but our friendship has no end!!!"
+    },
+    {
+      "Status": "A good way to differentiate love and friendship without you I cannot  live is love u must live, I m with u is friendship!!!!"
+    },
+    {
+      "Status": "Friendship is all about three things winning, losing and sharing. Winning your friends heart, losing yourself ego, and sharing joys and sorrows.!!!"
+    },
+    {
+      "Status": "If you live to be a hundred I want to live to be a hundred minus one day so I never have to live without you."
+    },
+    {
+      "Status": "Friends are like fishes we have to keep long patience to catch them. So, it is better to stay nice, otherwise I will fry you."
+    },
+    {
+      "Status": "When friendship is deeply rooted, it is a plant that cannot even be uprooted by a storm."
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "StausArray": [
+    {
+      "Status": "Forgiveness and letting go are steps on our road back to happiness. Good morning, Have A Nice Day.."
+    },
+	{
+      "Status": "Happy day begin"
+    }
+	,
+	{
+      "Status": "Every selfish man, strangely enough, becomes a self slayer"
+    }
+	,
+	{
+      "Status": "What is love? It is the morning and the evening star."
+    }
+	,
+	{
+      "Status": "A smile is a great way to start off your day. Good Morning."
+    }
+	,
+	{
+      "Status": "Be with a people who makes you happy and smile"
+    }
+	,
+	{
+      "Status": "Good Morning! If nobody has told you they love you YET today let me be the FIRST I love you! Have a blessed day …"
+    }
+	,
+	{
+      "Status": "Hello family and friends, may you all have a pleasant day! God Bless!"
+    }
+	,
+	{
+      "Status": "A simple good morning, have a great day, or I love you, goes a long way…So I’m sending you all three."
+    }
+	,
+	{
+      "Status": "Good morning is one of my favorite things to say! It means the day is new and full of possibilities!"
+    }
+	,{
+      "Status": "Three of the most powerful words you can say to a women… Good Morning Beautiful."
+    },
+	{
+      "Status": "I love it how in the beginning of the day it starts out all good. Come to the end of it though, everything is screwed up."
+    }
+	,
+	{
+      "Status": "Good Morning Face Book friends, I do wish you all the happiness that one can get in a days time."
+    }
+	,
+	{
+      "Status": "Wake up greet the day and make a promise to yourself its going to be a good day and no one will change it no matter what happens."
+    }
+	,
+	{
+      "Status": "Waking up to a new day is a gift, appreciate it and do remember you are loved. Good morning and have a splendid day."
+    }
+	,
+	{
+      "Status": "How can anyone NOT like mornings?? God gave you another day… Get up, give him your worries and enjoy the day ."
+    }
+	,
+	{
+      "Status": "3 steps to have a great morning… open your eyes, take a deep breath and go back to sleep. Good Morning."
+    }
+	,
+	{
+      "Status": "GOOD MORNING. It’s a beautiful day, get out, share your beautiful smile with the world."
+    }
+	,
+	{
+      "Status": "Good morning is one of my favorite things to say. It means the day is new and full of possibilities…"
+    }
+	,
+	{
+      "Status": "Every new morning is a chance to change your life. Wake up and do your best. Have a splendid day."
+    }
+	,{
+      "Status": "Lovely days don’t come to you, you should walk to them."
+    },
+	{
+      "Status": "The day will be what you make it, so rise, like the sun, and burn."
+    }
+	,
+	{
+      "Status": "Dreaming big is great but sleeping big is not. So, good morning and wake up!"
+    }
+	,
+	{
+      "Status": "Every morning is special and you will not get them again. Good morning my dear friend!"
+    }
+	,
+	{
+      "Status": "You are the first thing to enter my mind in the morning and the last thing to leave my heart at night. Good Morning, Have A Good Day!"
+    }
+	,
+	{
+      "Status": "Each and every one of us will face death, so don’t waste your life and be thankful for another opportunity and another chance to live. Good Morning"
+    }
+	,
+	{
+      "Status": "Everyday may not be good, BUT There is SOMETHING GOOD in Every day. Good Morning"
+    }
+	,
+	{
+      "Status": "You have no idea how good it feels to wake up every morning knowing you are mine and I am yours. Good Morning"
+    }
+	,
+	{
+      "Status": "Dear friend, new opportunities are going away and you will be too late to catch them. So, forget the bed and gear up to run. Good morning to you from a friend and well wisher."
+    }
+	,
+	{
+      "Status": "Like the sunshine in the morning, may this brighten your day, and remind you that you’re thought of in a very warm way. Good Morning!"
+    }
+	,{
+      "Status": "Good morning has a new beginning, a new blessing, a new hope. It’s a perfect day because it’s God’s gift. Have a blessed, hopeful perfect day to begin with. Good Morning."
+    },
+	{
+      "Status": "Rise up, start fresh, see the bright opportunity in each day.” Good Morning Friends"
+    }
+	,
+	{
+      "Status": "Everyone has Highs and Lows that they have to Learn from, But every Morning I started Off with a good Head on my Shoulder, says to myself, It’s going to be a good day."
+    }
+	,
+	{
+      "Status": "Open ur Tinky Minky eyes, stand up and stretch ur crunchy prunchy bonz and then wake up yourself, tell your brain to refresh and tell yourself today is a GOOD DAY"
+    }
+	,
+	{
+      "Status": "You will not gain anything by looking back. What happened, happened. Look forward and move on."
+    }
+	,
+	{
+      "Status": "Sunrise always wins over night & darkness and hope always wins over despair. I hope that you will defeat every night to make your future full of glorious rays of the sun. Good Morning Friends"
+    }
+	,
+	{
+      "Status": "After waking up in the morning think about the brand new day you are getting with 24 hours to spend. Use these hours fruitfully and you will know success. Good Morning"
+    }
+	,
+	{
+      "Status": "Life is a great mirror. If your face is happy the mirror also shows you a happy face. In this you if you approach to life with full of happiness, your life will also show you only happiness. Good morning to you from your friend!"
+    }
+	,
+	{
+      "Status": "Waking up in your arms again. That's what I call a good morning!"
+    }
+	,
+	{
+      "Status": "It's too early for good mornings, but you're already on my mind. So, Good morning!"
+    }
+	,{
+      "Status": "A new day brings fresh thoughts and new level of energy. Use these gifts to propel your journey to success. Good Morning"
+    },
+	{
+      "Status": "Good morning today is a brand new day. One that we've never lifted before. Let's make it an awesome day"
+    }
+	,
+	{
+      "Status": "After leaving the bed don’t forget to ask yourself what mistakes you have done yesterday. Always, try to correct yourself in the morning to be better person. Wishing you all the best for the morning and the day! Good Morning"
+    }
+	,
+	{
+      "Status": "Be an early riser and begin the day before most of the people do. In this way, you will get much time to beat others. So, try to follow this rule like a Mantra and get fabulous success in life. Good Morning"
+    }
+	,
+	{
+      "Status": "Joining your hands to pray to God is not as good as to extend your helping hands to other. Be a good and caring person and enjoy the beautiful morning! Good Morning"
+    }
+	,
+	{
+      "Status": "May this morning and the day brings smile in your face and fills your heart with happiness! Good Morning"
+    }
+	,
+	{
+      "Status": "It doesn't matter what day of the week it is. As long as we are together, It will always be a beautiful day. Good Morning Dear"
+    }
+	,
+	{
+      "Status": "Life is a rope that swings us through hope. Always believe that today is better than yesterday & tomorrow will be much better than today good morning "
+    }
+	,
+	{
+      "Status": "God has added one more day in your life not necessarily bcz you need it but because someone else might need u. Good Morning!"
+    }
+	,
+	{
+      "Status": "Life is perishable the quicker you consume it, the better it feels. Stop thinking, start living. Good morning."
+    }
+	,
+	{
+      "Status": "The greatest inspiration you can ever get is to know that you are an inspiration to others. Wake up and start living an inspirational life today. Good morning"
+    }
+	,
+	{
+      "Status": "SMILES add value to our FACE.. LOVE adds value to our HEART.. RESPECT adds value to our BEHAVIOR.And.. FRIENDS & FAMILY add value to our LIFE!!! Good Morning"
+    }
+	,
+	{
+      "Status": "Not everybody is blessed like me,To have a chance to say good morning to a sweet friendGood Morning Sweety."
+    }
+	,
+	{
+      "Status": "Everyday I am waking up happily,Because I know I am starting,My day by wishing good morning to you Have a great good morning"
+    }
+	,
+	{
+      "Status": "Good morning. May you have a day as bright as your smiles and as sweet as your soul."
+    }
+	,
+	{
+      "Status": "Another day is a gift Don’t forget to share it Good morning, my friend!"
+    }
+	,
+	{
+      "Status": "Good morning. May you have a day as bright as your smiles and as sweet as your soul."
+    }
+	,
+	{
+      "Status": "I hate waking up early but if that is what it takes to meet my friends earlier, I’m all for it. Good morning."
+    }
+	,
+	{
+      "Status": "Another beautiful day like today begins in the beautiful life of a beautiful person like you. Good morning."
+    }
+	,
+	{
+      "Status": "You are the fresh breath of morning even on the grayest of days. I hope you have a day as wonderful as you are."
+    }
+	,{
+      "Status": "Rise and shine, princess of dawn. The world awaits your smiles."
+    },
+	{
+      "Status": "It’s a beautiful day because you’re part of it. Have a wonderful day!"
+    }
+	,
+	{
+      "Status": "A beautiful morning for a beautiful soul. Good morning!"
+    }
+	,
+	{
+      "Status": "No one can see the future; we only know that it is coming.Relish today as a foretaste of that bright future coming your way."
+    }
+	,
+	{
+      "Status": "I do not care whether the sun rises or not,my morning starts only after I text my girl who I love a lot.Good morning."
+    }
+	,
+	{
+      "Status": "May today Almighty GOD:Love YouSecure You And Motivate you.Good Morning Have a beautiful day! Good Morning"
+    }
+	,
+	{
+      "Status": "Morning is God's way of saying 1 more time...Go, live life, make a difference, Have A Nice Day, Good Morning"
+    }
+	,
+	{
+      "Status": "Good thoughts precede great deeds.Great deeds precede success.Good Morning, Have a great day."
+    }
+	,
+	{
+      "Status": "Our eyes are placed in the front because it is more important to look ahead than to look back. Good Morning!"
+    }
+	,
+	{
+      "Status": "An 'enemy' occupies more space in the brain than a 'well-wisher' in the heart.Don't 'damage' your brain. Just 'improve' your heart. Bless you. Good Morning!"
+    }
+	,{
+      "Status":" A Great thinker was asked, What is the meaning of Life ? He Replied, LIFE itself has no meaning, it's an opportunity to create a meaning. Good Morning!"
+    },
+	{
+      "Status": "Welcome to the fresh morning: With a smile on your face; Love in your heart; Good thoughts in your mind; And you will have a wonderful day! Good Morning"
+    }
+	,
+	{
+      "Status": "Formula for a happy life: Never try to defeat anyone; Just try to win everyone; Don't laugh at anyone; But laugh with everyone. Good Morning"
+    }
+	,
+	{
+      "Status": "Doubt' and 'Faith' both are status of mind. Doubt creates the darkest moments in our finest hour. While faith brings finest moments in our darkest hour. Have a Nice Day Good Morning!"
+    }
+	,
+	{
+      "Status": "Victory is always possible for the person who refuses to stop struggling. Good Morning! Have A Nice Day"
+    }
+	,
+	{
+      "Status": "Once you accept someone for what they really are, they will really surprise you by being better than you ever expected. Good morning!"
+    }
+	,
+	{
+      "Status": "Relations are insurance policies against loneliness. They need to be renewed with regular premium paid with communication, feelings, love and care. Good Morning!"
+    }
+	,
+	{
+      "Status": "Night has gone and the moon, too. Sun is shinning and the sky is blue. Time to open your beautiful eyes; And accept my Good Morning message to you!"
+    }
+	,
+	{
+      "Status": "Life is too short to wake up in the morning with regrets. So love the people who treat you right and forget about the ones who don't. GOOD MORNING!! :-))"
+    }
+	,
+	{
+      "Status": "Life is like A NoteBook 2Pages Are Already Written By GOD 1st Page is Birth Last Page is Death Centre Pages Are Empty Fill them with Smile & Love. Good morning"
+    }
+	,{
+      "Status": "A Morning is a wonderful blessing, either Cloudy or Sunny. It stands for hope, giving us another start of what we call Life. Gud Morning & Have a nice day."
+    },
+	{
+      "Status": "Any Day Will not Be Complete Without Doing A Great And Heroic Deed, A Perfect Line Of Every Good Samaritan Who Lives The Word Of God. Good Morning!"
+    }
+	,
+	{
+      "Status": "The First Cock Has Crowed. The First Bird Has Sung. The Milkman Has Delivered The Days Newspaper Has Arrived. Isnt It Time You Got Out Of Bed."
+    }
+	,
+	{
+      "Status": "Hurry Out Of Bed. The New Day Is Waiting For You! May You Have A Truly Wonderful Time."
+    }
+	,
+	{
+      "Status": "Morning is an important time of day, because how you spend your morning can often tell you what kind of day you are going to have."
+    }
+	,
+	{
+      "Status": "Sun is happy, Moon is angry. Why? Because; Moon is missing you and Sun is wishing you, a special Good morning. Have a wonderful day."
+    }
+	,
+	{
+      "Status": "A new morning is like starting to write on a new copy in school days. We can make the beautiful handwriting and make the best out of it. So get up and make the day memorable"
+    }
+	,
+	{
+      "Status": "You are the light of my world, the music in my heart and the first thought of my day . Good Morning My Dear"
+    }
+	,
+	{
+      "Status": "Opportunities are like sunrises. If you wait too long, you miss them"
+    }
+	,
+	{
+      "Status": "you have a cute yawn on your face, a cup of coffee in your hands. All that remains is a good morning message from me. Have a great morning"
+    }
+	,{
+      "Status": "Count your good deeds every morning And fill your mind with positive thoughts That is secret to being happy And inspired all day long"
+    },
+	{
+      "Status": "Never underestimate the power of your thoughts Wake up, think, improvise And taste the fruit of success"
+    }
+	,
+	{
+      "Status": "Happiness is a gift to those who think Good thoughts early morning So wake up and lets welcome this day With love and a sweet smile"
+    }
+	,
+	{
+      "Status": "Your morning hugs are the key to a secret safe Where I store all my happy memories Good morning"
+    }
+	,
+	{
+      "Status": "My morning coffee is useless If I do not have it while looking At the most handsome man in the whole world YOU Good morning"
+    }
+	,
+	{
+      "Status": "It is ?ime to say g?odbye to ?he shining stars ?nd greet the ?orning sun Smile f?r me beautiful and ?njoy your day"
+    }
+	,
+	{
+      "Status": "?here are those ?ho wake up ?nd say, Good Morning, Lord ?nd there are ?hose who wake ?p and say, Good L?rd, ?ts morning"
+    }
+	,
+	{
+      "Status": "All the dark storms in my life pass away When my world is smothered by the warm sunshine Of my wifes love, Good morning"
+    }
+	,
+	{
+      "Status": "Even when I wake up I feel like I am in a dream Because you are the woman of my dreams Good morning"
+    }
+	,
+	{
+      "Status": "Good morning my dear friend I hope today smile on you And bring you warm, laughter and blessing"
+    }
+ 
+ ]
+}

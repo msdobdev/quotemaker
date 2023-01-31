@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ms.dob.textonphoto.app-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sanyam\\.gradle\\caches\\transforms-3\\3c9be549a48b342277e2b30ac73eddd1\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "28,29,30,31,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1144,1214,1298,1382,1478,1580,1682,1776",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1209,1293,1377,1473,1575,1677,1771,1860"
+                    }
+                },
+                {
+                    "source": "D:\\Monika\\Project\\TextOnPhotoQuotesCreator\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "16,25,27,31,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "994,1479,1534,1684,1738",
+                        "endLines": "24,26,30,32,41",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1474,1529,1679,1733,2308"
+                    },
+                    "to": {
+                        "startLines": "2,11,13,17,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,540,595,745,799",
+                        "endLines": "10,12,16,18,27",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "535,590,740,794,1139"
+                    }
+                }
+            ]
+        }
+    ]
+}

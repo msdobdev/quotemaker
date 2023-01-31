@@ -1,0 +1,405 @@
+{
+  "StausArray": [
+    {
+      "Status": "Just wanna say sorry to all those who knowingly or unknowingly got hurt by me "
+    },
+	{
+      "Status": "if you keep saying sorry but do the same thing over and over again then saying sorry just becomes another lie!"
+    }
+	,
+	{
+      "Status": " I’m sorry  means nothing if you continue to do the same wrong over and over again."
+    }
+	,
+	{
+      "Status": "I’m sorry but nothing can change the fact that your the definition of a jerk"
+    }
+	,
+	{
+      "Status": "I know what i did to lose you..and im SO sorry. I didnt mean it… I was blinded…Blinded by my anger please forgive me."
+    }
+	,
+	{
+      "Status": "Hates it when you can feel someone else’s pain & suffering but can’t make it better."
+    }
+	,
+	{
+      "Status": "I’m sorry if sometimes I get a little jealous…thinking that someone else could make you happier than I could."
+    }
+
+	,
+	{
+      "Status": "It takes a strong person to say sorry….and an even stronger person to forgive."
+    }
+	,
+	{
+      "Status": "Sometimes sorry just isn’t enough. Even if you mean it with all your heart."
+    }
+	,{
+      "Status": "Don’t say sorry for something you are planning on repeating later."
+    },
+	{
+      "Status": "I don’t quite know how to make things better between us but i can start with I’M SORRY…I really am…"
+    }
+	,
+	{
+      "Status": "Hope things go back to the way they used to be."
+    }
+	,
+	{
+      "Status": "Sees the character of a person in the strength of their apology."
+    }
+	,
+	{
+      "Status": "Trust me… and …I’m sorry… are the two phrases that mean absolutely nothing. they are both just lies."
+    }
+	,
+	{
+      "Status": "Sometimes we say things we don’t mean. sometimes we hurt each other. but no matter what i will always love you…"
+    }
+	,
+	{
+      "Status": "The word …Sorry… means nothing unless you prove it."
+    }
+	,
+	{
+      "Status": "I regret stuffing things up with the one that obviously cares for me more then you… I’m sorry but its true…"
+    }
+	,
+	{
+      "Status": "I’m a very laid back person… i try to hide the pain I’m feeling but it gets hard… sorry I’m not perfect."
+    }
+	,
+	{
+      "Status": "Thinks SORRY should be removed from the dictionary because its OVER used and has NO meaning."
+    }
+	,{
+      "Status": "Please believe me when I say…I am Sorry… because I am. I didn’t mean to hurt you in anyway."
+    },
+	{
+      "Status": "You’re not sorry for what you did…. you’re just sorry you got caught."
+    }
+	,
+	{
+      "Status": "You are not sorry, for anything. But I am. I guess that’s what makes us two VERY different people…"
+    }
+	,
+	{
+      "Status": "It’s very easy to hurt someone and then say sorry but it’s really difficult to get hurt and then say I m fine"
+    }
+	,
+	{
+      "Status": "Never say you’re sorry. It’s a sign of weakness"
+    }
+	,
+	{
+      "Status": "Sorry means nothing without the actions to back it up"
+    }
+	,
+	{
+      "Status": "I’m not perfect, I make mistakes, I hurt the ones I love now and then, but when i say sorry, I mean it with all my heart."
+    }
+	,
+	{
+      "Status": "A good apology has three parts: 1. I`m sorry. 2. It`s my fault. 3. What can I do to make it right?"
+    }
+	,
+	{
+      "Status": "when i look at you i think that we should be together but when we are i screw it up and i am sorry"
+    }
+	,
+	{
+      "Status": "You’re not sorry, for anything. But I am. I guess that’s what makes us two VERY different people…"
+    }
+	,{
+      "Status": "you can only put on a fake smile for so long… then the truth starts to be revealed"
+    },
+	{
+      "Status": "Friendship Is Not History To Forget, Not Math To Calculate, Not Language' To Translate, It Is Only Chemistry That Reacts Between Hearts And Produce Chemical..."
+    }
+	,
+	{
+      "Status": "What I Did Was Foolish & Impulsive If I Cud Take It All Back I’d Do This So Instant I Truly Didn’t Mean To Hurt You In Any Way I’m Sorry For Hurting Yo"
+    }
+	,
+	{
+      "Status": "This Message Was Sent Exclusively For The Handsome And The Beautiful. We Have Obviously Sent It To The Wrong Number.we Are Truly Sorry For The Inconvenience"
+    }
+	,
+	{
+      "Status": "Remember The Good Times We Had Spent Together, And The Beautiful Future We Had Dreamy Of... Darling I Never Wanted To Create A Distance Between Us... Please L.."
+    }
+	,
+	{
+      "Status": "It Seems To Be True That Sorry Is The Hardest Word, Its Acceptable To Say It Once Or Twice, But More Than That, You're Overdoing It. Because Sorry Means - I'll ..."
+    }
+	,
+	{
+      "Status": "Nobody Perfect... Bcoz God Makes Us To Teach Each Other"
+    }
+	,
+	{
+      "Status": "I'm Sorry For Blaming You... For Everything I Just Couldn't Do? And I've Hurt Myself By Hurting You? There's Nothing I Wouldn't Do To Hear Your Voi..."
+    }
+	,
+	{
+      "Status": "The Best Message. Someone Wrote On The Door. Please Do Not Enter I Am Upset. Friends Came Smiling Said: Sorry V R Illiterate....:-)"
+    }
+	,
+	{
+      "Status": "I Am Sorry For Everything I Did.iam Sorry For Being Bad.i Am Sorry If I Lied To You .i Am Sorry If I Cheated You . Iam Sorry If I Kissed Onther One, Iam Sorry I..."
+    }
+	,{
+      "Status": "Sorry Dont Get Confused, Arey Baba 'sorry' Means S - Some O - One's R - Really, R - Remembering Y - You"
+    },
+	{
+      "Status": "Open With Love... If I Disturb U I Am Sorry! But I Need To Say I... Love... Disturbing You..."
+    }
+	,
+	{
+      "Status": "Evry1 Says There's No Thanks Or Sorry In Friendship,but I Say Yes There Is ,coz Everyday I Thank God 4 A Friend Like U, N Feel Sorry 4 Those Who've Not Got 1 Li..."
+    }
+	,
+	{
+      "Status": "Sardar: Will U Marry Me? Gurl: Sorry, I'm A L*****n Sardar: Whats A L*****n? Gurl: I Like Gurls More Than Boys Sardar: Gimme Five. I'm Also L*****n...."
+    }
+	,
+	{
+      "Status": "I Am Sorry To Be Smiling Every Time Youre Near. I Am Sorry My Eyes Twinkle Whenever Youre Here. I Am Sorry That Cupid Has Made His Hit. I Am Sorry I Love You, I..."
+    }
+	,
+	{
+      "Status": "I Have Commited A Sin To Make You Sad, And Am Realising Tat M Very Bad, So, Plz 4give Me 2 Lessen The Grief, Ur 4giveness Wil Led To A Relief, So Plz 4give Me."
+    }
+	,
+	{
+      "Status": "Sorry Dont Get Confused, Arey Baba 'sorry' Means S - Some O - One's R - Really, R - Remembering Y - You."
+    }
+	,
+	{
+      "Status": "I Have Commited A Sin To Make You Sad, And Am Realising That Am Very Bad, So, Plz Forgive Me To Lessen The Grief, Ur Forgiveness Will Led To A Relief, So Plz ..."
+    }
+	,
+	{
+      "Status": "Remember The Good Times We Had Spent Together, And The Beautiful Future We Had Dreamy Of... Darling I Never Wanted To Create A Distance Between Us... Pl..."
+    }
+	,
+	{
+      "Status": "I Have Commited A Sin To Make You Sad, And Am Realising That Am Very Bad, So, Plz Forgive Me To Lessen The Grief, Ur Forgiveness Will Led To A Relief, So Plz ..."
+    }
+	,
+	{
+      "Status": "If You Ask Me How Many Times My Heart Has Been Broken, Then Iask You To Look Up At The Sky One Night, And Count The Stars."
+    }
+	,
+	{
+      "Status": "Remember The Good Times We Had Spent Together, And The Beautiful Future We Had Dreamt Of... Darling I Never Wanted To Create A Distance Between Us... Please ..."
+    }
+	,
+	{
+      "Status": "We Smile At Whom We Like, We Cry For Whom We Care, We Laugh With Whom We Enjoy, We Become Angry With Whom We Feel Is Our Own.i Am Sorry."
+    }
+	,
+	{
+      "Status": "I Am Sry Yaar, Aaj Tk Maine Tujhe Avoid Kiya,kai Bar Tujse Bat Nhi Ki,tujse Hath Nhi Milaya, Sorry Yar Mujhe Pata Nahi Tha Ki Aids Chhune Se Nahi Failta."
+    }
+	,
+	{
+      "Status": "Sorry Sorry Sorry Sorry Dont Get Confused , Sorry Means: S-some, O-one Is, R-really, R-remembering Y-you.. Have A Wonderful Day..."
+    }
+	,
+	{
+      "Status": "I'm Sorry To Be Smiling Every Time You're Near. I'm Sorry My Eyes Twinkle Whenever You're Here. I'm Sorry That Cupid Has Made His Hit. I'm Sorry I Love Yo..."
+    }
+	,
+	{
+      "Status": "This Message Was Sent Exclusively For The Handsome And The Beautiful. We Have Obviously Sent It To The Wrong Number. We Are Truly Sorry For The Inconvenience.."
+    }
+	,
+	{
+      "Status": "Sorry 4 Disturbing U. Can U Fax Me Ur Photo Its Very Urgent, Serious Matter Has Come Up Actually, We R Playing Cards And Lost The Joker!!! Hehhehehehe!..."
+    }
+	,
+	{
+      "Status": "Sorry is not just a word to say... Its a expression 2 express 4 a unfortunate event dat experienced...."
+    }
+	,
+	{
+      "Status": "I'm sorry may not mean dat much 2 u, bt it means a lifetime of our relationship 2 me ! Plz forgive me ?"
+    }
+	,{
+      "Status": "How can I begin to say I`m sorry. I didn’t mean to upset you. I hope that you can forgive me.I’m sorry."
+    },
+	{
+      "Status": "I hurt you… But I didn’t mean to… Please forgive me!"
+    }
+	,
+	{
+      "Status": "anytym u are angry that breaks my heart but my heart will never stop to love you..... sorry for that"
+    }
+	,
+	{
+      "Status": "Most truths r so naked dat ppl feel sorry 4 dem & cover dem up, at least a little bit."
+    }
+	,
+	{
+      "Status": "Grab a chance and you won't be sorry for a might have been."
+    }
+	,
+	{
+      "Status": "Keep courage. Watever u do, do not feel sorry for urself. U will win in a great age of opportunity."
+    }
+	,
+	{
+      "Status": "I feel sorry for someone who has to win at everything."
+    }
+	,
+	{
+      "Status": "I can't pretend 2 b impartial about d colors. I rejoice wid d brilliant 1s, & i m genuinely sorry 4 d poor browns."
+    }
+	,
+	{
+      "Status": "I feel sorry 4 ppl who don't drink. Wen dey wake up in the morning, dat's as good as dey r going 2 feel all day."
+    }
+	,
+	{
+      "Status": "If u r going 2 do smthing tonight dat u'll b sorry 4 tomorrow morning, sleep late."
+    }
+	,{
+      "Status": "An apology is the superglue of life: it can repair just about anything.I am sorry!"
+    },
+	{
+      "Status": "Saying Sorry is not only admitting the mistake. It is surrendering to the love, affection, respect and caring from the bottom of the heart for someone special. Sorry for hurting you!"
+    }
+	,
+	{
+      "Status": "The best kind of relationship in the world is the one in which a sorry and a smile can make everything back to normal again!"
+    }
+	,
+	{
+      "Status": "Tears are words the heart can't express. I am Sorry!"
+    }
+	,
+	{
+      "Status": "Feeling sorry for yourself, and you present condition, is not only a waste of energy but the worst habit you could possibly have."
+    }
+	,
+	{
+      "Status": "Play fair. Don't hit people. Say you're sorry when you hurt somebody."
+    }
+	,
+	{
+      "Status": "Now, say you're sorry...and MEAN it!"
+    }
+	,
+	{
+      "Status": "Love is always having to say I'm sorry."
+    }
+	,
+	{
+      "Status": "I am sorry, Mother. I named your anger. A woman's anger is not supposed to..."
+    }
+	,
+	{
+      "Status": "Correct means always having to say you're sorry."
+    }
+	,{
+      "Status": "There is a strength in the union of very sorry men."
+    },
+	{
+      "Status": "I'm sorry you are wiser, I'm sorry you are taller; I liked you better foolish and I liked you better smaller."
+    }
+	,
+	{
+      "Status": "You can make up a quarrel, but it will always show where it was patched."
+    }
+	,
+	{
+      "Status": "Not the fastest horse can catch a word spoken in anger."
+    }
+	,
+	{
+      "Status": "For every minute you are angry, you lose sixty seconds of happiness."
+    }
+	,
+	{
+      "Status": "Forgiveness does not change the past, but it does enlarge the future."
+    }
+	,
+	{
+      "Status": "Apology is a lovely perfume; it can transform the clumsiest moment into a gracious gift."
+    }
+	,
+	{
+      "Status": "The only correct actions are those that demand no explanation and no apology."
+    }
+	,
+	{
+      "Status": "An apology is the superglue of life. It can repair just about anything."
+    }
+	,
+	{
+      "Status": "Forgiveness is the sweetest revenge"
+    }
+	,{
+      "Status": "I'm sorry to be smiling every time you're near. I'm sorry my eyes twinkle whenever you're here. I'm sorry that cupid has made his hit. I'm sorry I love you, I can't help it."
+    },
+	{
+      "Status": "sorry ........sorry............sorry
+.............sorry.............sorry
+sorry"
+    }
+	,
+	{
+      "Status": "SORRY....SORRY.... SORRY.....SORRY....
+Dont get confused ,Arey Baba SORRY means: 
+S-Some,
+O-One Is,
+R-Really,
+R-Rememberinhg
+Y-You.....Have A wonderful day...."
+    }
+	,
+	{
+      "Status": "SORRY
+Say
+Onetime 2 any1
+Really
+Remembering
+You"
+    }
+	,
+	{
+      "Status": "Appologising doesn't mean that you are wrong and the other is right. It only means that you value the relationship much more than your ego...!!!"
+    }
+	,
+	{
+      "Status": "I don''t forgive people cause I''m weak
+I forgive them cause I''m strong enough
+to understand people make mistakes."
+    }
+	,
+	{
+      "Status": "It takes a strong person
+to say sorry.
+And an ever stronger
+person to forgive."
+    }
+	,
+	{
+      "Status": "V Love Ourselves Even After Making So Many Mistakes. Then How Can V Hate Others 4 Their Small Mistakes? Strange Bt TRUE! Make Habit Of FORGIVING!"
+    }
+	,
+	{
+      "Status": "Feeling sorry for yourself, and you present condition, is not only a waste of energy but the worst habit you could possibly have."
+    }
+	,
+	{
+      "Status": "I forgave your broken promises,
+I forgave you from the start.
+But one thing I won''t forgive,
+Is your breaking of my heart."
+    }
+ 
+ ]
+}

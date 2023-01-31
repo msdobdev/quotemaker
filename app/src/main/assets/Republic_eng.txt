@@ -1,0 +1,115 @@
+{
+  "StausArray": [
+    {
+      "Status": "Let us together commence a journey of peace, harmony and progress, prosperity and unity in our nation India.Heartiest Greetings for 69th Republic Day of India."
+    },
+	{
+      "Status": "117 crores of people combindly fall in love with one It is INDIA HAPPY REPUBLIC DAY"
+    }
+	,
+	{
+      "Status": "On this day think of ur past &Try to built better future for all of us.. It is a duty of all of us!!I am proud to be an Indian.Happy Republic Day"
+    }
+	,
+	{
+      "Status": "Rising Empowered Powerful Ultimate Beautiful IndependentCharming India Happy Republic Day"
+    }
+	,
+	{
+      "Status": "Come together to make India Most powerful, prosperous Country Happy Republic Day 2019."
+    }
+	,
+	{
+      "Status": "On this special day, lets promise our motherland that we will do everything to enrich and preserve our heritage our ethos and our treasure happy republic day."
+    }
+	,
+	{
+      "Status": "Justice Liberty Equality Fraternity May our dream of a new tomorrow come true for us Happy Republic Day."
+    }
+	,
+	{
+      "Status": "The difference between what we do
+and what we are capable of doing
+would suffice to solve most of the worlds problems!
+Join hands together to make Indian The Golden Bird Again
+' * ' Happy Republic Day ' * ' happy republic day sms"
+    }
+	,
+	{
+      "Status": "United we stand, divide we fall..stronger we grow higher we flow! Jai Hind!!Happy Republic Day."
+    }
+	,
+	{
+      "Status": "So to feel the patriotism &
+dedications of those sacrifice that our freedom fighters made,
+here are some of the wishes that will enlighten this spirit in you."
+    }
+	,{
+      "Status": "Our life is full of Colors..
+I hope this 26th January will add more colors to your life
+Happy Republic Day"
+    },
+	{
+      "Status": "Still Sleeping?
+The nation need you!
+You need to be Awaken!
+You are part of world’s biggest Democracy..
+Today is the day when We got our own constitution..
+Its Indian Republic Day "
+    }
+	,
+	{
+      "Status": "This is the country of colors and faith in spirituals.
+Lets this Republic day reminds us for the work and
+life given by our leaders to safe and happy life.
+HAPPY REPUBLIC DAY"
+    }
+	,
+	{
+      "Status": "If not other than our common
+ground to meet,
+let me remember the anonymous,
+for once at least,
+beyond the patriotic floats display
+on a Republic Day."
+    }
+	,
+	{
+      "Status": "Happy republic day in advance.
+I love my india.."
+    }
+	,
+	{
+      "Status": "The greatness of a nation and 
+its moral progress can be judged by 
+the way its animals are treated. 
+Happy Republic Day..."
+    }
+	,
+	{
+      "Status": "India holds a very prestigious position 
+on the world map. 
+Let’s pledge to take our country to new heights 
+Happy Republic Day!"
+    }
+	,
+	{
+      "Status": "Once again we wish you all a happiest republic day. Celebrate this 26 January in a grand style & don’t forget to wish all the Indians by commenting below."
+    }
+	,
+	{
+      "Status": "No Matter where I’M My heart is always with my homeland. 
+Happy Republic Day to all my friends."
+    }
+	,
+	{
+      "Status": "On this day think of our past and 
+Try to built better future for all of us.. 
+It is a duty of all of us!! 
+I am proud to be an Indian. 
+Happy Republic Day :-)"
+    }
+	
+ 
+ ]
+}

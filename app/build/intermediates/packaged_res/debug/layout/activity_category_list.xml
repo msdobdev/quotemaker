@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgcolor_light"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:visibility="visible"
+        android:background="@color/bgcolor_dark"
+        >
+
+        <ImageView
+            android:id="@+id/backbutton"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:padding="@dimen/_10sdp"
+            android:src="@drawable/ic_back"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_toRightOf="@+id/backbutton"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Messages"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/_16sdp"
+            android:textStyle="normal" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/ic_top_shadow"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_below="@+id/title_bar"
+        app:tabGravity="fill"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="#ffffff"
+        app:tabTextColor="#ffffff" />
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tabs"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_2sdp"
+        app:top_left_corner_radius="20dp"
+        app:top_right_corner_radius="20dp">
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tabs"
+            android:layout_centerInParent="true"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+    <RelativeLayout
+        android:id="@+id/ad_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <RelativeLayout
+            android:id="@+id/ad_default_layout"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@android:color/darker_gray">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="sans-serif-smallcaps"
+                android:gravity="center"
+                android:text="Space for ad"
+                android:textColor="@android:color/black" />
+        </RelativeLayout>
+        <LinearLayout
+            android:id="@+id/ly_adcontainer_catlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+
+</RelativeLayout>

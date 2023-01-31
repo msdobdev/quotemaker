@@ -1,0 +1,609 @@
+{
+  "StausArray": [
+    {
+      "Status": "Success is something you attract by the person you become",
+      "name": "Jim Rohn"
+    },
+    {
+      "Status": "Tread softly; breathe peacefully; laugh hysterically",
+      "name": "Nelson Mandela"
+    },
+    {
+      "Status": "Nothing can be done without hope and confidence",
+      "name": "Dr. Seuss"
+    },
+    {
+      "Status": "You are the average of the five people you spend the most time with",
+      "name": "Jim Rohn"
+    },
+    {
+      "Status": "One important key to success is self-confidence. An important key to self-confidence is preparation.",
+      "name": "Arthur Ashe"
+    },
+    {
+      "Status": "Argue for your limitations and they're yours.",
+      "name": "Richard Bach"
+    },
+    {
+      "Status": "Every noble work is at first impossible.",
+      "name": "Thomas Carlyle"
+    },
+    {
+      "Status": "I destroy my enemies when I make them my friends.",
+      "name": "Abraham Lincoln"
+    },
+    {
+      "Status": "Genius is 1% inspiration, 99% perspiration.",
+      "name": "Thomas Edison"
+    },
+    {
+      "Status": "Sometimes you win, sometimes you learn.",
+      "name": "John Maxwell"
+    },
+    {
+      "Status": "If there is no struggle, there is no progress.",
+      "name": "Frederick Douglass"
+    },
+    {
+      "Status": "To know how to wait is the great secret of success.",
+      "name": "De Maistre"
+    },
+    {
+      "Status": "A Penny Saved is a Penny Earned",
+      "name": "Benjamin Franklin"
+    },
+    {
+      "Status": "It is our attitude toward life that determines life's attitude toward us. We get back what we put out.",
+      "name": "Earl Nightingale"
+    },
+    {
+      "Status": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+      "name": "Pablo Picasso"
+    },
+    {
+      "Status": "Your time is limited, so don't waste it living someone else's life.",
+      "name": "Steve Jobs"
+    },
+    {
+      "Status": "I am not a product of my circumstances. I am a product of my decisions.",
+      "name": "Stephen Covey"
+    },
+    {
+      "Status": "Eighty percent of success is showing up.",
+      "name": "Woody Allen"
+    },
+    {
+      "Status": "An unexamined life is not worth living.",
+      "name": "Socrates"
+    },
+    {
+      "Status": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "name": "Chinese Proverb"
+    },
+    {
+      "Status": "Life is 10% what happens to me and 90% of how I react to it.",
+      "name": "Charles Swindoll"
+    },
+    {
+      "Status": "Life isn't about getting and having, it's about giving and being.",
+      "name": "Kevin Kruse"
+    },
+    {
+      "Status": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+      "name": "Amelia Earhart"
+    },
+    {
+      "Status": "I attribute my success to this: I never gave or took any excuse.",
+      "name": "Florence Nightingale"
+    },
+    {
+      "Status": "You miss 100% of the shots you don't take.",
+      "name": "Wayne Gretzky"
+    },
+    {
+      "Status": "Strive not to be a success, but rather to be of value.",
+      "name": "Albert Einstein"
+    },
+    {
+      "Status": "Art is one thing that can go on mattering once it has stopped hurting.",
+      "name": "Elizabeth Bowen"
+    },
+    {
+      "Status": "Miracles are not contrary to nature, but only contrary to what we know about nature.",
+      "name": "Saint Augustine"
+    },
+    {
+      "Status": "If you don't mind, it doesn't matter.",
+      "name": "Jack Benny"
+    },
+    {
+      "Status": "We often repent of our first thoughts, and scarce ever of our second.",
+      "name": "Horace Walpole"
+    },
+    {
+      "Status": "As soon go kindle fire with snow, as seek to quench the fire of love with words.",
+      "name": "William Shakespeare"
+    },
+    {
+      "Status": "Art is the unceasing effort to compete with the beauty of flowers - and never succeeding.",
+      "name": "Gian Carlo Menotti"
+    },
+    {
+      "Status": "Bald as the bare mountain tops are bald, with a baldness full of grandeur.",
+      "name": "Matthew Arnold"
+    },
+    {
+      "Status": "People change and forget to tell each other.",
+      "name": "Lillian Hellman"
+    },
+    {
+      "Status": "If you are afraid of being lonely, don't try to be right.",
+      "name": "Jules Renard"
+    },
+    {
+      "Status": "A man is already halfway in love with any woman who listens to him.",
+      "name": "Brendan Behan"
+    },
+    {
+      "Status": "Life is the art of drawing without an eraser.",
+      "name": "John W. Gardner"
+    },
+    {
+      "Status": "Nature is not human hearted.",
+      "name": "Lao Tzu"
+    },
+    {
+      "Status": "The safe way to double your money is to fold it over once and put it in your pocket.",
+      "name": "Kin Hubbard"
+    },
+    {
+      "Status": "If you obey all the rules you miss all the fun.",
+      "name": "Katharine Hepburn"
+    },
+    {
+      "Status": "Things work out best for those who make the best of how things work out.",
+      "name": "John Wooden"
+    },
+    {
+      "Status": "Vision without execution is just hallucination.",
+      "name": "Henry Ford"
+    },
+    {
+      "Status": "You can change what you are and where you are by changing what goes into your mind.",
+      "name": "Zig Ziglar"
+    },
+    {
+      "Status": "The length of a film should be directly related to the endurance of the human bladder.",
+      "name": "Alfred Hitchcock"
+    },
+    {
+      "Status": "If you don't know where you're going, you will probably end up somewhere else.",
+      "name": "Laurence J. Peter"
+    },
+    {
+      "Status": "There is a woman at the beginning of all great things.",
+      "name": "Alphonse de Lamartine"
+    },
+    {
+      "Status": "The real art of conducting consists in transitions.",
+      "name": "Gustav Mahler"
+    },
+    {
+      "Status": "Hope is the beacon which points to prosperity.",
+      "name": "Edward Counsel"
+    },
+    {
+      "Status": "Don't be afraid to give up the good to go for the great.",
+      "name": "John D. Rockefeller"
+    },
+    {
+      "Status": "I wish it, I command it. Let my will take the place of a reason.",
+      "name": "Juvenal"
+    },
+    {
+      "Status": "Love does not alter the beloved, it alters itself.",
+      "name": "Soren Kierkegaard"
+    },
+    {
+      "Status": "The more you talk about negative things in your life, the more you call them in. Speak victory not defeat.",
+      "name": "Joel Osteen"
+    },
+    {
+      "Status": "If you run around with 9 losers pretty soon you'll be the 10th loser.",
+      "name": "Les Brown"
+    },
+    {
+      "Status": "Computers are useless. They can only give you answers.",
+      "name": "Pablo Picasso"
+    },
+    {
+      "Status": "To be prepared is half the victory.",
+      "name": "Miguel de Cervantes"
+    },
+    {
+      "Status": "To love is to act.",
+      "name": "Victor Hugo"
+    },
+    {
+      "Status": "All good things which exist are the fruits of originality.",
+      "name": "John Stuart Mill"
+    },
+    {
+      "Status": "The earth is yet the place of the domicile of man and all the offspring of the first man.",
+      "name": "Joseph Franklin Rutherford"
+    },
+    {
+      "Status": "I make mistakes; I'll be the second to admit it.",
+      "name": "Jean Kerr"
+    },
+    {
+      "Status": "Forgiveness is a funny thing. It warms the heart and cools the sting.",
+      "name": "William Arthur Ward"
+    },
+    {
+      "Status": "Whatever our souls are made of, his and mine are the same.",
+      "name": "Emily Bronte"
+    },
+    {
+      "Status": "Art is a harmony parallel with nature.",
+      "name": "Paul Cezanne"
+    },
+    {
+      "Status": "Winter is not a season, it's an occupation.",
+      "name": "Sinclair Lewis"
+    },
+    {
+      "Status": "Age is something that doesn't matter, unless you are a cheese.",
+      "name": "Luis Bunuel"
+    },
+    {
+      "Status": "There can be no deep disappointment where there is not deep love.",
+      "name": "Martin Luther King, Jr."
+    },
+    {
+      "Status": "The artist vocation is to send light into the human heart.",
+      "name": "George Sand"
+    },
+    {
+      "Status": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+      "name": "Walt Whitman"
+    },
+    {
+      "Status": "Passion is more developed than discovered.",
+      "name": "Dan Miller"
+    },
+    {
+      "Status": "My mind's my kingdom.",
+      "name": "Francis Quarles"
+    },
+    {
+      "Status": "Love is an energy which exists of itself. It is its own value.",
+      "name": "Thornton Wilder"
+    },
+    {
+      "Status": "The moment you cheat for the sake of beauty, you know you're an artist.",
+      "name": "David Hockney"
+    },
+    {
+      "Status": "Conservation is a state of harmony between men and land.",
+      "name": "Aldo Leopold"
+    },
+    {
+      "Status": "Humility is the light of understanding.",
+      "name": "Bunyan"
+    },
+    {
+      "Status": "All the art of living lies in a fine mingling of letting go and holding on.",
+      "name": "Havelock Ellis"
+    },
+    {
+      "Status": "Fear kills more people than death.",
+      "name": "Gen. Patton"
+    },
+    {
+      "Status": "Immature artists imitate. Mature artists steal.",
+      "name": "Lionel Trilling"
+    },
+    {
+      "Status": "The fall of dropping water wears away the Stone.",
+      "name": "Lucretius"
+    },
+    {
+      "Status": "The way my luck is running, if I was a politician I would be honest.",
+      "name": "Rodney Dangerfield"
+    },
+    {
+      "Status": "Crying is for plain women. Pretty women go shopping.",
+      "name": "Oscar Wilde"
+    },
+    {
+      "Status": "I argue thee that love is life. And life hath immortality.",
+      "name": "Emily Dickinson"
+    },
+    {
+      "Status": "You can't depend on your eyes when your imagination is out of focus.",
+      "name": "Mark Twain"
+    },
+    {
+      "Status": "Pick a flower on Earth and you move the farthest star.",
+      "name": "Paul Dirac"
+    },
+    {
+      "Status": "Never get a mime talking. He won't stop.",
+      "name": "Marcel Marceau"
+    },
+    {
+      "Status": "With renunciation life begins.",
+      "name": "Amelia Barr"
+    },
+    {
+      "Status": "Love is the only sane and satisfactory answer to the problem of human existence.",
+      "name": "Erich Fromm"
+    },
+    {
+      "Status": "Impressionism is the newspaper of the soul.",
+      "name": "Henri Matisse"
+    },
+    {
+      "Status": "Short cuts make long delays.",
+      "name": "J.R.R. Tolkien"
+    },
+    {
+      "Status": "A wide screen just makes a bad film twice as bad.",
+      "name": "Samuel Goldwyn"
+    },
+    {
+      "Status": "Don't be afraid to give up the good to go for the great.",
+      "name": "John D. Rockefeller"
+    },
+    {
+      "Status": "Beauty is the lover's gift.",
+      "name": "William Congreve"
+    },
+    {
+      "Status": "All our dreams can come true if we have the courage to pursue them.",
+      "name": "Walt Disney"
+    },
+    {
+      "Status": "Patience and fortitude conquer all things.",
+      "name": "Emerson"
+    },
+    {
+      "Status": "Strive not to be of success, but rather to be of value.",
+      "name": "Einstein"
+    },
+    {
+      "Status": "The most worth while thing is to try to put happiness into the lives of others.",
+      "name": "Robert Baden-Powell"
+    },
+    {
+      "Status": "Happiness is not something you postpone for the future; it is something you design for the present.",
+      "name": "Jim Rohn"
+    },
+    {
+      "Status": "An artist never really finishes his work, he merely abandons it.",
+      "name": "Paul Valery"
+    },
+    {
+      "Status": "No one can make you feel inferior without your consent.",
+      "name": "Eleanor Roosevelt"
+    },
+    {
+      "Status": "Where you stand depends on where you sit.",
+      "name": "Nelson Mandela"
+    },
+    {
+      "Status": "It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.",
+      "name": "Maurice Switzer"
+    },
+    {
+      "Status": "For success, attitude is equally as important as ability.",
+      "name": "Anonymous"
+    },
+    {
+      "Status": "Either you run the day, or the day runs you.",
+      "name": "Jim Rohn"
+    },
+    {
+      "Status": "Talent wins games, but teamwork and intelligence wins championships.",
+      "name": "Michael Jordan"
+    },
+    {
+      "Status": "Coming together is a beginning. Keeping together is progress. Working together is success.",
+      "name": "Henry Ford"
+    },
+    {
+      "Status": "To avoid criticism, say nothing, do nothing, be nothing.",
+      "name": "Fred Shero"
+    },
+    {
+      "Status": "A baby is God's opinion that life should go on.",
+      "name": "Carl Sandburg"
+    },
+    {
+      "Status": "If opportunity doesn't knock, build a door.",
+      "name": "Milton Berle"
+    },
+    {
+      "Status": "Everything in moderation, including moderation.",
+      "name": "Oscar Wilde"
+    },
+    {
+      "Status": "Worry is like a rocking chair, it will give you something to do, but it won't get you anywhere.",
+      "name": "Vance Havner"
+    },
+    {
+      "Status": "Teamwork makes the dream work.",
+      "name": "Bang Gae"
+    },
+    {
+      "Status": "The world is my country, all mankind are my brethren and to do good is my religion.",
+      "name": "Thomas Paine"
+    },
+    {
+      "Status": "The human body is the best work of art.",
+      "name": "Jess C. Scott"
+    },
+    {
+      "Status": "Don't count the days. Make the days count.",
+      "name": "Muhammad Ali"
+    },
+    {
+      "Status": "Wise men speak because they have something to say; fools because they have to say something.",
+      "name": "Plato"
+    },
+    {
+      "Status": "Only you have the power to determine whether your future mimics your past.",
+      "name": "Skip Prichard"
+    },
+    {
+      "Status": "Your attitude, not your aptitude, will determine your altitude.",
+      "name": "Zig Ziglar"
+    },
+    {
+      "Status": "Instead of getting married again, I'm going to find a woman I don't like and just give her a house.",
+      "name": "Rod Stewart"
+    },
+    {
+      "Status": "Patriotism is supporting your country all the time, and your government when it deserves it.",
+      "name": "Mark Twain"
+    },
+    {
+      "Status": "All our dreams can come true-if we have the courage to pursue them.",
+      "name": "Walt Disney"
+    },
+    {
+      "Status": "As a well-spent day brings happy sleep, so a life well spent brings happy death.",
+      "name": "Leonardo da Vinci"
+    },
+    {
+      "Status": "Always borrow money from a pessimist. He won't expect it back.",
+      "name": "Oscar Wilde"
+    },
+    {
+      "Status": "Courage is contagious. When a brave man takes a stand, the spines of others are stiffened.",
+      "name": "Billy Graham"
+    },
+    {
+      "Status": "Patience is something you admire in the driver behind you, but not in one ahead.",
+      "name": "Bill McGlashen"
+    },
+    {
+      "Status": "The only way to do great work is to love what you do.",
+      "name": "Steve Jobs"
+    },
+    {
+      "Status": "If you tell the truth, you don't have to remember anything.",
+      "name": "Mark Twain"
+    },
+    {
+      "Status": "It's not the years in your life that count. It's the life in your years.",
+      "name": "Abraham Lincoln"
+    },
+    {
+      "Status": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+      "name": "Vince Lombardi"
+    },
+    {
+      "Status": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "name": "Henry Stanley Haskins"
+    },
+    {
+      "Status": "How wonderful it is that nobody need wait a single moment before beginning to improve the world.",
+      "name": "Anne Frank"
+    },
+    {
+      "Status": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "name": "Aristotle"
+    },
+    {
+      "Status": "Life isn't about getting and having, it's about giving and being.",
+      "name": "Kevin Kruse"
+    },
+    {
+      "Status": "Waiting for perfect is never as smart as making progress.",
+      "name": "Seth Godin"
+    },
+    {
+      "Status": "I couldn't repair your brakes, so I made your horn louder.",
+      "name": "Steven Wright"
+    },
+    {
+      "Status": "The most common way people give up their power is by thinking they don't have any.",
+      "name": "Alice Walker"
+    },
+    {
+      "Status": "I have never in my life learned anything from any man who agreed with me.",
+      "name": "Dudley Field Malone"
+    },
+    {
+      "Status": "Little minds are tamed and subdued by misfortune; but great minds rise above them.",
+      "name": "Washington Irving"
+    },
+    {
+      "Status": "An unexamined life is not worth living.",
+      "name": "Socrates"
+    },
+    {
+      "Status": "People who read the tabloids deserve to be lied to.",
+      "name": "Jerry Seinfeld"
+    },
+    {
+      "Status": "No man is rich enough to buy back his past.",
+      "name": "Oscar Wilde"
+    },
+    {
+      "Status": "A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.",
+      "name": "Lana Turner"
+    },
+    {
+      "Status": "I always arrive late at the office, but I make up for it by leaving early.",
+      "name": "Charles Lamb"
+    },
+    {
+      "Status": "To the world you may be just one person, but to one person you may be the world.",
+      "name": "Brandi Snyder"
+    },
+    {
+      "Status": "What we are is God's gift to us. What we become is our gift to God.",
+      "name": "Eleanor Powell"
+    },
+    {
+      "Status": "He is richest who is content with the least, for contentment is the wealth of nature.",
+      "name": "Socrates"
+    },
+    {
+      "Status": "Extreme hopes are born of extreme misery.",
+      "name": "Bertrand Russell"
+    },
+    {
+      "Status": "The best fighter is never angry.",
+      "name": "Lao Tzu"
+    },
+    {
+      "Status": "Hope is a good breakfast, but it is a bad supper.",
+      "name": "Francis Bacon"
+    },
+    {
+      "Status": "Hope is a waking dream.",
+      "name": "Aristotle"
+    },
+    {
+      "Status": "Misers aren't fun to live with, but they make wonderful ancestors.",
+      "name": "David Brenner"
+    },
+    {
+      "Status": "Insanity is hereditary. You get it from your children.",
+      "name": "Sam Levenson"
+    },
+    {
+      "Status": "Innovation distinguishes between a leader and a follower.",
+      "name": "Steve Jobs"
+    },
+    {
+      "Status": "It wasn't raining when Noah built the ark.",
+      "name": "Howard Ruff"
+    }
+
+  ]
+}

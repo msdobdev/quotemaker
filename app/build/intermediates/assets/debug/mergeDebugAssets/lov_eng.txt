@@ -1,0 +1,307 @@
+{
+  "StausArray": [
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can’t see it. But we can feel it."
+    },
+    {
+      "Status": "I didn’t choose you, My heart did."
+    },
+    {
+      "Status": "Love is just love, it can never explained!!!"
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "Someone asked me How’s life? I just smiled and replied, She’s fine :)"
+    },
+    {
+      "Status": "Life can give us lots' of beautiful persons, But only one person is enough for a beautiful life.."
+    },
+    {
+      "Status": "The greatest pain that comes from love is loving someone you can never have."
+    },
+    {
+      "Status": "Nothing is perfect, but when I’m with you everything is perfect."
+    },
+    {
+      "Status": "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it."
+    },
+    {
+      "Status": "I love my life because it gave me you I love you because you are my life!!!"	
+    },
+    {
+      "Status": "I wish dreams were like wishes, and wishes came true, cause in my dreams I'm always with you."	
+    },
+    {
+      "Status": "The essence of romantic love is that wonderful beginning, after which sadness and impossibility may become the rule."	
+    },
+    {
+      "Status": "When I dream, I dream of you. Maybe one day, dreams will come true. Because, I really love you."
+    },
+    {
+      "Status": "I can't place anyone above you but I can place myself above you, not to be a master but to be your shield and always protect you."	
+    },
+    {
+      "Status": "I'll love you until the day after forever."	
+    },
+    {
+      "Status": "Every love story is beautiful but ours is my favorite."
+    },
+    {
+      "Status": "Meeting you was fate, becoming your friend was a choice, but falling in love with you was beyond my control."	
+    },
+    {
+      "Status": "There are only two times that I want to be with you... Now and Forever."	
+    },
+    {
+      "Status": "If I could be anything I would be your tear, so I could be born in your eye, live down your cheek and die on your lips."
+    },
+    {
+      "Status": "sometimes the people that u don't want to get hurt doesn't care if they hurt you!"
+    },
+    {
+      "Status": "Bridge between souls, stands on pillars of trust! It reflects united self and creates a path to reach each other’s hearts."	
+    },
+    {
+      "Status": "I can see something more beautiful in her eyes and smile than the stars."
+    },
+    {
+      "Status": "I don’t care how hard being together is, nothing is worse than being apart."
+    },
+    {
+      "Status": "There is a part of me that's gonna be in love with you for the rest of my life!!!!"
+    },
+    {
+      "Status": "Only you can put a smile on my face when i'm sad..."
+    },
+    {
+      "Status": "Love can't be found Where it doesn't exist .."
+    },
+    {
+      "Status": "I hate when people say they miss you,but don’t make a effort to speak to you or see you. !!"
+    },
+    {
+      "Status": "I realized that no guy will ever be right for me. Not after I met you."
+    },
+    {
+      "Status": "Girls like you are hard to find, but I'm very glad I did. It feels like I’ve known you forever."
+    },
+    {
+      "Status": "Love is just a word until someone special gives it a meaning."
+    },
+    {
+      "Status": "I love you more than you will ever know. You're all that I need."
+    },
+    {
+      "Status": "You are my entire world, my very reason to live and because the way you make me feel, you you my heart I give."
+    },
+    {
+      "Status": "No matter what happens I will never let anything change how i feel about you."
+    },
+    {
+      "Status": "Being with you makes me feel like for once in my life I don't have to work so hard on being happy, it just happens."
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "You will find a girl prettier than me, smarter than me, and funnier than me, but you will never find a girl just like me."
+    },
+    {
+      "Status": "Beauty Fades After Time, But Personality Is Forever!"
+    },
+    {
+      "Status": "I’m not single, I’m just romantically challenged."
+    },
+    {
+      "Status": "Never chase love, affection, or attention. If it isn’t given freely by another person, it isn’t worth having."
+    },
+    {
+      "Status": "The difference between like, love and in love is the same difference between for now, for a while and forever."
+    },
+    {
+      "Status": "It is easier to get to the sun than to your heart!!!!"
+    },
+    {
+      "Status": "Love is the most beautiful lie of all."
+    },
+    {
+      "Status": "3 things I want in a relationship: Eyes that wont cry, lips than wont lie, and love that wont die!!!"
+    },
+    {
+      "Status": "Love can be demonstrated not defined."
+    },
+    {
+      "Status": "There is always that person in life that you give several chances, it’s because you love them more than you hate them."
+    },
+    {
+      "Status": "Being someone's first love may be great, but to be their last is beyond perfect."
+    },
+    {
+      "Status": "Only you can give me that feeling."
+    },
+    {
+      "Status": "You think you’re one of millions but you’re one in a million to me."
+    },
+    {
+      "Status": "I usually don’t get attached too easily, but that changes when I met you."
+    },
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can’t see it. But we can feel it."
+    },
+    {
+      "Status": "I can’t go a day without thinking about you."
+    },
+    {
+      "Status": "You re special to me in every way. Thank you for being who you are."
+    },
+    {
+      "Status": "Your LOVE and My EFFORT together will conquer the WORLD."
+    },
+    {
+      "Status": "LOVE THE ONE WHO MAKES UR WORLD BEAUTIFUL!!!!!!"
+    },
+    {
+      "Status": "If your heart was a prison, I would like to be sentenced for life."
+    },
+    {
+      "Status": "You are so beautiful that you give the sun a reason to shine."
+    },
+    {
+      "Status": "A man in love is incomplete until he is married. Then he’s finished. "
+    },
+    {
+      "Status": "Marriage is a three ring circus: an engagement ring, a wedding ring, & suffering."
+    },
+    {
+      "Status": "No one realizes the beauty of love, until you’re caught in it."
+    },
+    {
+      "Status": "I started beliving in LOVE wen u said 4 the 1st time tat LOVE is BEAUTIFUL THING"
+    },
+    {
+      "Status": "Our days are happier when we give people bit of our heart rather than piece of our mind!!!!"
+    },
+    {
+      "Status": "I cant be your first love but i promised to be your last love."
+    },
+    {
+      "Status": "Marriage is the chief cause of divorce."
+    },
+    {
+      "Status": "LOVE looks not with the eyes,but with THE SOUL"
+    },
+    {
+      "Status": "Where there is great love, there are always wishes."
+    },
+    {
+      "Status": "Life is not the amount of breaths you take, it’s the moments that take your breath away… ."
+    },
+    {
+      "Status": "When You Are Crying.!! Think About Her And You Smile.."
+    },
+    {
+      "Status": "Wanna Hug Yuh soo tight…That even air couldn’t fill the space between us!!!"
+    },
+    {
+      "Status": "Do not kiss behind the garden, Love is blind but the neighbours are not."
+    },
+    {
+      "Status": "Love is cute when it’s new, but love is most beautiful when it last."
+    },
+    {
+      "Status": "An Eye with Dust ‘n A Heart with Trust Always Cries!!!!!"
+    },
+    {
+      "Status": "Love is like war: easy to begin but very hard to stop."
+    },
+    {
+      "Status": "Love: Two minds without a single thought."
+    },
+    {
+      "Status": "If life really does flash before your eyes, I only want to see pictures of you and me!!!!"
+    },
+    {
+      "Status": "If I had known what it would be like to have it all – I might have been willing to settle for less."
+    },
+    {
+      "Status": "Love your own life without comparing it with that of others."
+    },
+    {
+      "Status": "There are million things in the world I want, but all I need is you."
+    },
+    {
+      "Status": "To the world you maybe but one, but to one you might be the world."
+    },
+    {
+      "Status": "If you love me raise your hand & you don’t then raise your standard."
+    },
+    {
+      "Status": "Hello, I’m a thief, and I’m here to steal your heart."
+    },
+    {
+      "Status": "Girl, you better have a license, cuz you are driving me crazy!"
+    },
+    {
+      "Status": "I can’t read lips unless they’re touching mine."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "Love starts with a smile, grows with a kiss, and ends with a tear."
+    },
+    {
+      "Status": "If love was easy, there would be almost no music."
+    },
+    {
+      "Status": "The two hardest things to say in life are hello for the first time and goodbye for the last."
+    },
+    {
+      "Status": "Love is master key that is capable of opening a gate of happiness."
+    },
+    {
+      "Status": "Most emotional moment in a boys life, When a girl says, Can you give me your number :D"
+    },
+    {
+      "Status": "Love is not what you can receive,it’s all about what you can give."
+    },
+    {
+      "Status": "I Know I’m Not Perfect,But There Is No Defect In My Love"
+    },
+    {
+      "Status": "I Avoided Many Things Only For U In My Life..Don’t Ever Make Me Feel For Why I Left All That."
+    },
+    {
+      "Status": "Falling in love is like the rain … It’s unpredictable."
+    },
+    {
+      "Status": "When I said .. I love you .. I meant it."
+    },
+    {
+      "Status": "GirlÕs eyes are faster than GOOGLE in searching handsome guy but girl’s heart is slower than a turtle in forgetting a boy that she loved."
+    },
+    {
+      "Status": "Love is like a fart, If you have to force it, It’s probably a crap."
+    },
+    {
+      "Status": "A girl must marry for love, and keep on marrying until she finds it."
+    },
+    {
+      "Status": "I Love U Dear With Every Beat Of My Heart."
+    },
+    {
+      "Status": "The beauty of a woman is seen within her eyes because it’s the doorway to her heart where her love resides."
+    },
+    {
+      "Status": "If I’m wired with you. I like you."
+    }
+ ]
+}

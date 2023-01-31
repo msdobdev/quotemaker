@@ -1,0 +1,307 @@
+{
+  "StausArray": [
+    {
+      "Status": "Sometimes when i say  i am okay I want someone Too look me in the eyes Hug me tight and say I know you're not!!!"
+    },
+    {
+      "Status": "Waiting is painful. Forgetting is painful. But not knowing which to do is the worse kind of suffering."
+    },
+    {
+      "Status": "His isn't a Whatsapp Status...this is just to show that no status matches my feelings right now. :("
+    },
+    {
+      "Status": "Six letters, two words, easy to say, hard to explain, harder to do. MOVE ON."
+    },
+    {
+      "Status": "I never feel alone bcz loneliness is always with me."
+    },
+    {
+      "Status": "Invisible TEARS are the hardest to wipe away."
+    },
+    {
+      "Status": "I act like I don't care, but deep inside, it hurts."
+    },
+    {
+      "Status": "If you left me without a REASON, Do not come back with an Excuse."
+    },
+    {
+      "Status": "I do not need drugs, Life is killing me slowly all by itself."
+    },
+    {
+      "Status": "Love Is The Slowest Suicide, And You Can’t Stop It, Even Though It’s Killing You On The Inside, You Just Have To Live With All The Pain Until It’s Finally Over!!!!"
+    },
+    {
+      "Status": "I Love You And That Is True, But That Is The Difference Between Me And You. My Love Is Real , To You Its Just Another 3 Words You Say!!!!"
+    },
+    {
+      "Status": "Why Is It That The Person That Makes You The Happiest Is The Same Person That Hurts You The Most?"
+    },
+    {
+      "Status": "I May Not Be Prefect, But I’m The Best You’ll Ever Have. You’ll Realize It The Day I Stop Coming Back."
+    },
+    {
+      "Status": "The Worst Thing About Falling For Someone Is Thinking They Will Catch You In Their Arms But Instead They Watch You Fall And Hit The Ground… Broken. "
+    },
+    {
+      "Status": "My Eyes Are Hurting Cause I Cant See You,, My Arms Are Empty Cause I Cant Hold You,, My Lips Are Cold Cause I Cant Kiss You,, My Heart Is Broken & I Miss You"
+    },
+    {
+      "Status": "“I try to muster up the courage to not feel defeated, but it is very difficult to deal with this."
+    },
+    {
+      "Status": "“Love that gives us our pet is unique, I feel very sad because my dog died. In the house it!!!!"
+    },
+    {
+      "Status": "I felt a great emptiness without him, I will miss him the rest of my life."
+    },
+    {
+      "Status": "It Just Makes Me Realize How Weird Life Is That The Exact Same Moment That I Meant Nothing To You, You Meant Everything To Me."
+    },
+    {
+      "Status": "Sometimes It Hurts To Care So Much. You Wonder Why You Bother Yet Continue To Do So. Wish I Could Be Like Others Who Are Able To Easily Stop Caring & Move On."
+    },
+    {
+      "Status": "A Heart Dies, When Its Not Able To Share Its Feelings But A Heart Kills It Self When Another Heart Does Not Understand Its Feeling…!!”"
+    },
+    {
+      "Status": "Do not Trust Too Much, Don’t Love Too Much And Don’t Hope Too Much .. Because That Too Much Can Hurt You In The Same Way So Much !"
+    },
+    {
+      "Status": "I Walk Around With A Smile On My Face, But Underneath Is The Lonely Tears That Only Come Out At Night After Everyone Goes To Sleep…Praying Things Get Better!"
+    },
+    {
+      "Status": "Some people pass through our lives in a shorter time frame than we had hoped to teach us things they never could have taught if they stayed."
+    },
+    {
+      "Status": "It Hurts To Love Someone And Not Be Loved In Return, But What Hurts More Is To Love Someone, And Never Find The Courage To Let Them Know How You Feel."
+    },
+    {
+      "Status": "I Don’t Believe That Time Heals Everything. Minutes, Hours, Months, And Years Just Give You More Time To Realize What You’re Missing."
+    },
+    {
+      "Status": "Breaking Up Is Just Like Having The Worst Nightmare After Having The Best Dream"
+    },
+    {
+      "Status": "When I look you in the eyes for those few seconds,it is like a never ending life with you,but then I look away,because I know we will never be together ever"
+    },
+    {
+      "Status": "There are songs that can really make you sad and cry when you hear them. But it’s actually not the song that makes you cry, it’s the people behind the memories!!!"
+    },
+    {
+      "Status": "No one knows what it’s like to be the bad man, to be the sad man, behind blue eyes!!!"
+    },
+    {
+      "Status": "You Always Get Hurt The Moment You Begin To Care."
+    },
+    {
+      "Status": "The most painful memory.. when I walked away and you let me go."
+    },
+    {
+      "Status": "I feel so far away from the one I wish to hold in my arms :("
+    },
+    {
+      "Status": "Its better to be lonely then to be played by wrong people"
+    },
+    {
+      "Status": "Sometimes people have to cry out all their tears, to make room for a heart full of smiles."
+    },
+    {
+      "Status": "The hardest part about loving someone, is watching that person love another person."
+    },
+    {
+      "Status": "The greatest pain that comes from love is loving someone you can never have."
+    },
+    {
+      "Status": "The sad part isn't that we never talk, its that we used to talk everyday."
+    },
+    {
+      "Status": "I will wait till the day I can forget YOU or the day you realize you can’t forget Me."
+    },
+    {
+      "Status": "I tried to forget you, but the harder I tried, the more I thought about you."
+    },
+    {
+      "Status": "I don't usually sleep enough, but when I do, it's still not enough."
+    },
+    {
+      "Status": "A great many people have a soldier's stomach - everything they eat goes to the front."
+    },
+    {
+      "Status": "Harsh counsels have no effect. They are like hammers which are always repulsed by the anvil!!!!"
+    },
+    {
+      "Status": "It's sad to be happy alone."
+    },
+    {
+      "Status": "It isn't the bad memories that make you sad, but the best ones that you can't bring it back ."
+    },
+    {
+      "Status": "Sometimes the people that u don't want to get hurt doesn't care if they hurt you!"
+    },
+    {
+      "Status": "Why be mean to animals when they treat u better then people!!!!"
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad..."
+    },
+    {
+      "Status": "Is having one of those days where they feels like they can't do anything right."
+    },
+    {
+      "Status": "Going to keep all secrets to myself since some people i can't trust :'("
+    },
+    {
+      "Status": "life's so shit it makes wot comes out the dog's ass look good!"
+    },
+    {
+      "Status": "Is finally driven to the point were they finds comfort in lies and shuns the truth."
+    },
+    {
+      "Status": "How did we go from talking everyday to strangers?"
+    },
+    {
+      "Status": "You aren't the person I knew back then."
+    },
+    {
+      "Status": "I'm tired of everyone telling me about their special person when I desperately want one of my own."
+    },
+    {
+      "Status": "Is so sad to see vacation go, it's back to school tomorrow! =("
+    },
+    {
+      "Status": "Is feeling like the weight of the world is sitting on their shoulders."
+    },
+    {
+      "Status": "My two most HATED words..I PROMISE..It doesn't mean $hit to me!"
+    },
+    {
+      "Status": "Some nights I burn in the fire of my own thoughts."
+    },
+    {
+      "Status": "Its better to be lonely then to be played by wrong people"
+    },
+    {
+      "Status": "I hate the moment when suddenly my anger turns into tears."
+    },
+    {
+      "Status": "One Of The Hardest Things To Do.Is To Delete Old Messages That Once Meant A Lot To You."
+    },
+    {
+      "Status": "Sometimes it's better to be alone. Nobody can hurt you!"
+    },
+    {
+      "Status": "The worst missing is missing your own self which you used to be once upon a time.."
+    },
+    {
+      "Status": "When You Sit Alone ...You Sit With Your Past ... :("
+    },
+    {
+      "Status": "Sometimes you have to know when to stop hoping :-("
+    },
+    {
+      "Status": "If you're going to make me cry, at least be there to wipe away the tears :'("
+    },
+    {
+      "Status": "I know my silence and my tears will heal my pain one day."
+    },
+    {
+      "Status": "There is no point in crying, the tears wont bring you back to me."
+    },
+    {
+      "Status": "How can I go back to where the smile i had was real."
+    },
+    {
+      "Status": "The deepest people are the ones who've been hurt the most."
+    },
+    {
+      "Status": "The have no idea what a bottomless pit of misery I am."
+    },
+    {
+      "Status": "Everybody knows that something's wrong but nobody knows what's going on."
+    },
+    {
+      "Status": "Let no one think I gave in."
+    },
+    {
+      "Status": "The sky isn't always blue. The sun doesn't always shine. So it's okay to fall apart sometimes."
+    },
+    {
+      "Status": "Be patient and tough; some day this pain will be useful to you."
+    },
+    {
+      "Status": "Life and death are balanced on the edge of a razor."
+    },
+    {
+      "Status": "I like having low self-esteem it makes me feel special."
+    },
+    {
+      "Status": "Look at me. You may think you see who I really am, but you'll never know me."
+    },
+    {
+      "Status": "I never knew that one singe blade could mess up my life..."
+    },
+    {
+      "Status": "I'm freezing, I'm starving, I'm bleeding to death, Everything's fine.."
+    },
+    {
+      "Status": "Loneliness is the human condition. No one is ever going to fill that space."
+    },
+    {
+      "Status": "She was a girl who knew how to be happy even when she was sad and that's important you know."
+    },
+    {
+      "Status": "You must be, said the Cat. or you wouldn't have come here."
+    },
+    {
+      "Status": "It's not how tragically we suffer but how miracously we live."
+    },
+    {
+      "Status": "The pain is there to remind me that I'm still alive."
+    },
+    {
+      "Status": "Those who say sunshine brings happiness have never danced in the rain."
+    },
+    {
+      "Status": "QUIET! I can't hear you & all the voices in my head at the same time!"
+    },
+    {
+      "Status": "I won't leave a note for anyone to find tomorrow they will know what I've done here tonight."
+    },
+    {
+      "Status": "Some of us are just trying to get through the day without falling apart."
+    },
+    {
+      "Status": "First time I cut was just to feel the pain, Strange because I didn't feel a thing."
+    },
+    {
+      "Status": "Sometimes you need to run away just to see who will follow you."
+    },
+    {
+      "Status": "One morning you wake up afraid to live."
+    },
+    {
+      "Status": "Maybe I am crazy but laughing makes the pain pass by."
+    },
+    {
+      "Status": "Some people try to understand, but nobody can know what living like this is like."
+    },
+    {
+      "Status": "I have to cut because it's the only way I can smile."
+    },
+    {
+      "Status": "The skin of a scar is stronger than the original, less aware of pain."
+    },
+    {
+      "Status": "It seems to me that the harder I try the harder I fall."
+    },
+    {
+      "Status": "Reality has exiled me; I am no longer bound by it's laws."
+    },
+    {
+      "Status": "I cry then I cut, then I cry again, it never ends."
+    },
+    {
+      "Status": "The loss of a loved one is one of the most tragic and devastating things a person could endure."
+    }
+ ]
+}

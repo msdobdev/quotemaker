@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_list">
+        <item>#ffffff</item>
+        <item>#000000</item>
+        <item>#f44336</item>
+        <item>#9c27b0</item>
+        <item>#3f51b5</item>
+        <item>#03a9f4</item>
+        <item>#009688</item>
+        <item>#8bc34a</item>
+        <item>#ffeb3b</item>
+        <item>#ff9800</item>
+        <item>#607d8b</item>
+    </array>
+</resources>

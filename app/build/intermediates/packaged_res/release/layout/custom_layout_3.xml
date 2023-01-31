@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_10sdp">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:id="@+id/mainlayout_3"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:background="#3b3b3b"
+        app:corner_radius="8dp">
+
+        <ImageView
+            android:id="@+id/blurimageview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_no_image_found"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/rectangleimageview_3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.3"
+            android:scaleType="fitXY"
+            android:src="@drawable/custom_rectuangle_part_3"
+            app:tint="#000000" />
+
+        <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+            android:id="@+id/profilelayout_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/iv_profile_3"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_no_image_found" />
+        </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+        <com.ms.dob.textonphoto.custom.AutoResizeTextView
+            android:id="@+id/tv_quoets_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profilelayout_3"
+            android:layout_alignBottom="@+id/layout_bottom"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginBottom="5dp"
+            android:gravity="left"
+            android:padding="1dp"
+            android:text="u think, what you say, and what you do are in harmony."
+            android:textColor="#ffffff"
+            android:textSize="@dimen/_18sdp" />
+
+        <View
+            android:id="@+id/lineview_3"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_3sdp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:background="#ffffff" />
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+</RelativeLayout>

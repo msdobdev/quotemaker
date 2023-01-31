@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgcolor_light"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:background="@color/bgcolor_dark"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/backbutton"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:padding="@dimen/_10sdp"
+            android:src="@drawable/ic_back"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/resetedit"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/_10sdp"
+            android:src="@drawable/ic_refresh"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_toRightOf="@+id/backbutton"
+            android:ellipsize="end"
+            android:lines="1"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/_16sdp"
+            android:textStyle="normal"
+            android:text="@string/app_name"
+
+           />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/uperimageeditlayout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/title_bar"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/ratiolayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:visibility="visible">
+
+            <FrameLayout
+                android:id="@+id/deginelayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:background="@color/transparent"
+                android:visibility="visible">
+
+                <include
+                    android:id="@+id/d1"
+                    layout="@layout/custom_layout_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="invisible" />
+
+                <include
+                    android:id="@+id/d2"
+                    layout="@layout/custom_layout_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d3"
+                    layout="@layout/custom_layout_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d4"
+                    layout="@layout/custom_layout_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d5"
+                    layout="@layout/custom_layout_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d6"
+                    layout="@layout/custom_layout_6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d7"
+                    layout="@layout/custom_layout_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d8"
+                    layout="@layout/custom_layout_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d9"
+                    layout="@layout/custom_layout_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <include
+                    android:id="@+id/d10"
+                    layout="@layout/custom_layout_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:visibility="gone" />
+            </FrameLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottomeditoptionlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/uperimageeditlayout"
+        android:layout_above="@+id/ad_container"
+        android:background="@color/bgcolor_light"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/iddmagetextadview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:visibility="visible">
+
+            <include
+                android:id="@+id/includecolorlayout"
+                layout="@layout/layout_image_ratio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includestextizelayout"
+                layout="@layout/layout_text_size"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includefontlayout"
+                layout="@layout/layout_text_font_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includeshadowlayout"
+                layout="@layout/layout_text_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includemulticolorlayout"
+                layout="@layout/layout_text_font_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includeimagelayout"
+                layout="@layout/layout_text_font_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includeBGlayout"
+                layout="@layout/layout_text_font_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includeAlimentlayout"
+                layout="@layout/layout_text_alignment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includestatuslayout"
+                layout="@layout/layout_text_font_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <include
+                android:id="@+id/includeOptionlayout"
+                layout="@layout/layout_container_editing_option"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible" />
+        </FrameLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/ad_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <RelativeLayout
+            android:id="@+id/ad_default_layout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@android:color/darker_gray">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="sans-serif-smallcaps"
+                android:gravity="center"
+                android:text="Space for ad"
+                android:textColor="@android:color/black" />
+        </RelativeLayout>
+        <LinearLayout
+            android:id="@+id/ly_adcontainer_editphoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>

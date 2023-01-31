@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_10sdp">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:id="@+id/mainlayout_6"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:background="#f0f0f0"
+        app:corner_radius="8dp">
+
+        <RelativeLayout
+            android:id="@+id/centerline"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_centerInParent="true"
+            android:background="#1a000000" />
+
+        <RelativeLayout
+            android:id="@+id/profilelayout_6"
+            android:layout_width="260dp"
+            android:layout_height="260dp"
+            android:layout_centerInParent="true">
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/profilebg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:scaleType="centerCrop"
+                android:src="#1a000000"
+                android:visibility="visible"
+                app:riv_oval="false"
+                app:riv_tile_mode="clamp" />
+
+            <RelativeLayout
+                android:id="@+id/profilelayout_move"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/iv_profile_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ic_no_image_found"
+                    android:visibility="visible"
+                    app:riv_oval="false"
+                    app:riv_tile_mode="clamp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/textcircellayout_6"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/centerline">
+
+            <RelativeLayout
+                android:id="@+id/shadowlayouttext"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="#1a000000" />
+
+            <RelativeLayout
+                android:id="@+id/textlayoutbg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="#454545">
+
+                <com.ms.dob.textonphoto.custom.AutoResizeTextView
+                    android:id="@+id/tv_quoets_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="left|center_vertical|center_horizontal|center"
+                    android:text="u think, what you say, and what you do are in harmony.u think, what you say, and what you do are in harmony.u think, what you say, and what you do are in harmony.u think, what you say, and what you do are in harmony.u think, what you say, and what you do are in harmony.u think, what you say, and what you do are in harmony."
+                    android:textColor="#fff"
+                    android:textSize="@dimen/_14sdp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+</RelativeLayout>

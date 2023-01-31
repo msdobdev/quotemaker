@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_10sdp">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+        android:id="@+id/mainlayout_5"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:background="#3b3b3b"
+        app:corner_radius="8dp">
+
+        <com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout
+            android:id="@+id/profilelayout_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:layout_marginRight="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            app:corner_radius="8dp">
+
+            <ImageView
+                android:id="@+id/iv_profile_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_no_image_found" />
+        </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/textcircellayout_5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/iv_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:src="#131313"
+                app:civ_border_color="#803b3b3b"
+                app:civ_border_width="@dimen/_6sdp" />
+
+            <com.ms.dob.textonphoto.custom.AutoResizeTextView
+                android:id="@+id/tv_quoets_5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:gravity="left|center_vertical|center_horizontal|center"
+                android:text="a"
+                android:textColor="#900"
+                android:textSize="@dimen/_13sdp" />
+        </RelativeLayout>
+    </com.jcminarro.roundkornerlayout.RoundKornerRelativeLayout>
+</RelativeLayout>

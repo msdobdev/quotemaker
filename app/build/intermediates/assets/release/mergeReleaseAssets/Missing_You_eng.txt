@@ -1,0 +1,604 @@
+{
+  "StausArray": [
+    {
+      "Status": "1ly 1 Look. 
+1ly 1 Smile.. 
+1ly 1 Voice... 
+1ly 1 Tuch.... 
+1ly 1 Feeling..... 
+1ly 1 U...... 
+1ly 1 My Small Heart Says I MISS U......."
+    },
+	{
+      "Status": "You're always on my mind.
+You're the only one for me.
+Miss you like the deserts miss the rain.
+Your love flows through my veins."
+    }
+	,
+	{
+      "Status": "My memory loves you; it asks about you all the time.
+I wish we could be together right now."
+    }
+	,
+	{
+      "Status": "I miss the Fun, the Laughter and all those Cherished Moments we had Together.
+I miss YOU like crazy. Even more than WORDS can say. Every Minute of everyday."
+    }
+	,
+	{
+      "Status": "Wen I close my eyes, I see you. Wen I open my eyes, I miss you."
+    }
+	,
+	{
+      "Status": "I wish yôu missed me like I miss yôu."
+    }
+	,
+	{
+      "Status": "I did 3 things tôday – Think abôut U, Text U and miss yôu."
+    }
+	,
+	{
+      "Status": "I miss yôu. A little tôô much, a little tôô often, and a little bit more every day."
+    }
+	,
+	{
+      "Status": "I wish I could let you know how much I am missing you right now. I sent you a quotes for same."
+    }
+	,
+	{
+      "Status": "U r d sun in my day, d dream in my night. and the beat in my heart… I Miss You!"
+    }
+	,{
+      "Status": "Every minute, without you is like the most lively soul without life."
+    },
+	{
+      "Status": "Missing you quotes are not required to remember you,
+my each heart beat and my every breathe reminices
+those cherished moments we had together."
+    }
+	,
+	{
+      "Status": "I miss my voice can you please call me?"
+    }
+	,
+	{
+      "Status": "Yes you are very far to me but never my heart and my memory."
+    }
+	,
+	{
+      "Status": "kabhi kabhi.. 
+tere yadoon ke lamhe... 
+kasam khuda ke bhut beqarar karte hain.
+"
+    }
+	,
+	{
+      "Status": "1 rose means I LOVE YOU
+1 ring means I MARRY U..
+1 smile means I LIKE YOU..
+1 SMS From me
+I MISS U"
+    }
+	,
+	{
+      "Status": "Never say go far from me, which pains more than leaving you... miss you"
+    }
+	,
+	{
+      "Status": "wen Time is fast
+wen Moments r hard
+wen every1 is busy
+wen Seconds r few
+my sms reach to U 2 say 2 words
+Miss U"
+    }
+	,
+	{
+      "Status": "Miss you much............."
+    }
+	,
+	{
+      "Status": "those we love never go away
+they walk beside us everyday...
+Unseen...
+Unheard...
+still near..
+still loved..
+still Missed..
+still very dear..
+MISSING U"
+    }
+	,{
+      "Status": "When daylight turns to a darkened hue,
+The lovely stars hinting at u,
+ur heart beat tells u something true,
+That some 1 badly missing you"
+    },
+	{
+      "Status": "I MISS YOU in every beats of heart,
+In every blink of my eyes,
+In every second of Time and...
+In every moment of the Day !"
+    }
+	,
+	{
+      "Status": "It's hard to say hello because it might be goodbye. It's hard to say I'm okay because sometimes I'm not. But it's easy to say I miss you coz I know that I really do."
+    }
+	,
+	{
+      "Status": "Every tear is a sign of commitment
+Every silence is a sign of compromise
+Every smile is a sign of attachment 
+Every sms is a sign of rememberance 
+Miss you"
+    }
+	,
+	{
+      "Status": "Do u know, what I say, what I think, what i feel, what I wish, U want to know? I MISS U SO MUCH."
+    }
+	,
+	{
+      "Status": "Chala ja sms tu bankey gulab ! Hogi sachi dosti to ayega jawab! Ager na aye jawab to mat hona udas Samajh lena K hamarey liye waqat nai hai unkey pass."
+    }
+	,
+	{
+      "Status": "Ansuo Se Palak Bhigo Leta Hoon 
+Yaad Teri Ati hain To Ro Leta Hoon 
+Socha ke Bhoola Du Tujhey Mager 
+Har baar Faisla Badal Deta Hu"
+    }
+	,
+	{
+      "Status": "Msgs above are the cute quotes and sms on missing sòmeòne sò much. This “I miss you” quote còllection just not text but feeling of true heart."
+    }
+	,
+	{
+      "Status": "You left, and my ? heart is a ceaseless sermon of loneliness."
+    }
+	,
+	{
+      "Status": " only miss you when I'm breathing.
+I only think about  when my  heart is beating."
+    }
+	,{
+      "Status": "What is the opposite of two? A lonely me, a lonely you."
+    },
+	{
+      "Status": "What is the opposite of two? A lonely me, a lonely you."
+    }
+	,
+	{
+      "Status": "Sweetheart in your absence my heart is as lonely as a most haunted place.
+I'm missing you like hell. I'm drowning in a deep loneliness well."
+    }
+	,
+	{
+      "Status": "Without Û here, the Sun  forgets to shine and the Moon refuses to appear."
+    }
+	,
+	{
+      "Status": "Sometimes, when one person is missing, the whole  world seems depopulated."
+    }
+	,
+	{
+      "Status": "I'm not sure what life could bring you.
+I'm not sure if dreams do come true. 
+I'm not sure what love can do.
+But I'm sure about one thing.
+I miss you and will continue to
+miss you more with every passing day."
+    }
+	,
+	{
+      "Status": "Bekaar hai woh log jo apne lover ko miss karte hai,
+Arey miss karna hai to machcharo ko miss karo,
+Jo apne jaan per khel kar tumko KISS karte hai"
+    }
+	,
+	{
+      "Status": "The best feeling in d world is ven u think dat ur frnd(BBF) forgot u & suddenly U receive a message from ur frnd saying "
+    }
+	,
+	{
+      "Status": "They learned me that 1 hours equals 60 minutes and that 1 minute equals 60 seconds, but they never told me that 1 second without you can last for ever."
+    }
+	,
+	{
+      "Status": "Miss Meeeena!
+Miss Meeeena!!
+Miss Meeena? :@:@:@ 
+Miss Meeena! 
+
+Uff!! "
+    }
+	,{
+      "Status": "now u r thinking who is Miss Meeena? 
+
+I m jst asking u that U Miss Me Na?"
+    },
+	{
+      "Status": "Will u smile if I ask u to? Will u come if I call u? Will u understand if i m unable to express? Will u add a TOO if i say I MISS U?"
+    }
+	,
+	{
+      "Status": "Ths msg is from hum 2 Tum That HUM is Missing TUM vry much n Widout Tm Hum is vry Lonely So TUM never go Far frm HUM otherwise HUM will miss TUM a lot."
+    }
+	,
+	{
+      "Status": "Me ne Dil Ko Lakh Samjhaya K E Dil Unko Yaad Karna Chod De 
+Par Dil Ke Har Kone Se Awaz Aai, 
+Yahan To Har Sanss Main Who Base Hai
+To Kya Sanss Lena Chod De."
+    }
+	,
+	{
+      "Status": "Our life is long Time..! 
+We meet for short Time..! 
+But..! 
+You will be in my heart at any Time..! 
+My Sweet friend..! 
+I'm missing U dis time"
+    }
+	,
+	{
+      "Status": "Tumse dur rehkar tumhe miss kiya humne,
+Tumhare liye “God” se wish kiya humne,
+Tumhari yaad chupke se chali aayi toh,
+Toh bade pyaar se SmS kiya humne."
+    }
+	,
+	{
+      "Status": "Har insan ki alag pehechan hoti hai
+Magar hamary msg ki alag shan hoti hai
+Har kisi ko nahi kartey hum msg
+Magar jis ko kartey hain uss main hamari jaan hoti hai."
+    }
+	,
+	{
+      "Status": "Phool - Khushbu k liyee
+Pyaar - Nibhaney k liyee
+Ankheen - Dil Churaney k liyee
+Aur yeh message - Aap ko meri Yaad dilaney k liyee.
+Missing U alot"
+    }
+	,
+	{
+      "Status": "Dil ki halat kisi se kahi nahi jati,
+Dil ki halat aab humse sahi nahi jati,
+Tadapti toh hogi woh bhi meri tarha,
+Warna yoon kisi ki yaad har pal nhi aati."
+    }
+	,
+	{
+      "Status": "Kab tak khud ko rok payegi,
+Bina mere woh na reh payegi.
+Main bas junga uski yaado mein iss tarah,
+Ki phir woh doosro ko yaad karna bhool jayegi."
+    }
+	,
+	{
+      "Status": "Pani ka 1 katra aankh se gira abhi,
+Kya tumne mujhko yaad kiya abhi,
+Tujhse mile zamana hua magar,
+yun laga koi mujhse mil k gaya abhi"
+    }
+	,
+	{
+      "Status": "I just want to grab you then hug you & tell you I've missed you."
+    }
+	,
+	{
+      "Status": "when the looks blue
+“I MISS U”
+when the dreams come true
+“I MISS U”
+when the flowers covered with dew
+“I MISS U”
+when the day comes new
+“I MISS U”"
+    }
+	,
+	{
+      "Status": "Make me whole again in oneness.
+I just want to be close to you.
+I miss your touch and your kiss.
+I miss our fun times together.
+I miss our quiet talks.
+I simply miss you!"
+    }
+	,
+	{
+      "Status": "I may not say it always sweety- but your absence makes me miss you so high. Love you always!"
+    }
+	,
+	{
+      "Status": "There's this place in me where your finger prints still rest.
+Your kisses still linger and your whispers softly echo.
+It's the place where a part of you will forever be a part of me!"
+    }
+	,
+	{
+      "Status": "People live, people die;
+People laugh, people cry;
+Some give up, some will try;
+Some say Hi, some say Bye;
+Others may forget you but never will I!"
+    }
+	,
+	{
+      "Status": "Knowing a sweet person like U, has made me happy in a thousand ways;
+And if ever I have to let U go, I'll find a thousand reasons to make U stay.
+I Miss You at all times!"
+    }
+	,
+	{
+      "Status": "Small things that mean a lot: sweet sms, tight hugs, holding hands, 
+romantic conversations over the phone, fun times, quiet talks,
+remembering the little things Missing you a lot..."
+    }
+	,
+	{
+      "Status": "I wanna wrap you up;
+I wanna kiss your lips;
+I wanna make you feel wanted;
+I wanna call you mine;
+I wanna hold you forever."
+    }
+	,{
+      "Status": "Out of the 24 hours of the Day.
+8 hours are for working;
+8 hours for sleeping;
+1 hour for eating;
+1 hour for exercise;
+And 6 hours for other activities.
+But all the 24 hours, I miss you at all times!"
+    },
+	{
+      "Status": "Miles and smiles are made from the same letters but a smile on your face keeps me happy even though I am miles away from you.
+Miss you, honey!"
+    }
+	,
+	{
+      "Status": "I miss you.
+Every Moment. Every second. Every minute. Every hour. Every day. Every Week. Every Month. Every Year. Every Decade.
+Every Centenary. Oh ho! I think I got carried away.
+The truth is I miss you all the time!"
+    }
+	,
+	{
+      "Status": "I have learnt:
+How to love, kiss and care for you;
+How to be happy, wise and contented;
+How to be strong, honest and faithful;
+How to forgive, forget and make up;
+But I could never learn as to how to stop missing you!"
+    }
+	,
+	{
+      "Status": "Messaging is fine;
+Calling is okay;
+But being with you is the best I Feel.
+Missing you Too Much Sweety!"
+    }
+	,
+	{
+      "Status": "I heard someone whisper your cute name, but when I turned around to see who it was, I noticed I was alone. Then I guessed, it was my heart telling me that I miss you!"
+    }
+	,
+	{
+      "Status": "If I never met you, I wouldn't like you.
+If I didn't like you, I wouldn't love you.
+If I didn't love you, I wouldn't miss you.
+But I did, I do, and I will."
+    }
+	,
+	{
+      "Status": "Some songs can make you cry;
+When you hear them;
+But;
+Actually it is not the songs;
+It's the people behind the memories."
+    }
+	,
+	{
+      "Status": "The most elastic element of the world is TIME.
+It maximizes the minutes when we are missing someone special;
+And minimises the hours when we are with someone special.
+Missing you!"
+    }
+	,
+	{
+      "Status": "I miss my childhood;
+I miss my school Days.
+I miss my school friends;
+I miss those beautiful vacation;
+I miss golden moments of my Life
+But most of all, I miss you Darling!"
+    }
+	,{
+      "Status": "One of the best feeling in the world is knowing your presence and absence both mean something to someone!
+Miss you, Babe!"
+    },
+	{
+      "Status": "With you around:
+I smile a little more often;
+I get angry a lot less times;
+The sun shines a little brighter;
+And life is a lot sweeter!
+I cherish your companionship and I miss you!"
+    }
+	,
+	{
+      "Status": "sky is very high, but that is blue, I am missing some1, that is U and 1ly U."
+    }
+	,
+	{
+      "Status": "I MIS U r 3 words
+bt take 3 sec 2 read
+3 mins 2 think
+3 hrs 2 undrstand
+3 days 2 demonstrate
+3 weeks 2 explain
+n d whole life 2 prove it."
+    }
+	,
+	{
+      "Status": "I Never Expect Other's 2 Miss Me But I WiLL Always Drop My Msgs into their Inbox to Show: I StiLL Love & Remember them, with or without Their Love..."
+    }
+	,
+	{
+      "Status": "wen d Sky looks blue
+I MISS U
+when d dreams come true
+I MISS U
+when d flowers covered wid dew
+I MISS U
+when d day comes new
+I MISS U"
+    }
+	,
+	{
+      "Status": "U are TOO far away 4rm me,
+that why I have to shout:
+I
+
+M
+I
+S
+S
+
+U
+did u hear that?"
+    }
+	,
+	{
+      "Status": "U may find some1
+better than me, 
+important than me, 
+dearer than me, 
+but not the 1
+who miss you more than me.."
+    }
+	,
+	{
+      "Status": "A lovely poem 4 u. Twinkle-2 little star, life mein friendship, thoda sa pyaar, enjoy of life, din hai chaar, miss u hamesha, keep smiling yaar."
+    }
+	,
+	{
+      "Status": "I miss your joy and laughter
+I miss your company
+you r an inspiration 2 me
+you r my muse, my mentor
+I miss your smile."
+    }
+	,{
+      "Status": "I Miss U wen u r Not Near Me
+I Long 2 Hear ur Steps, That's By Far
+D Melodious Music My Ears Await Everyday"
+    },
+	{
+      "Status": "Gud mrnin
+I mean
+Gud Evenin
+Sorry
+Gud Nit
+
+I think
+time is nt imp
+I just wana say
+I MISS YOU VERY MUCH"
+    }
+	,
+	{
+      "Status": "wnevr u miss me dn’t look 4 me in ur dream
+dn’t try 2 hear my voice in ur mobile
+just put ur right hand in ur heart and u will feel me in ur hrt"
+    }
+	,
+	{
+      "Status": "wnevr u miss some1, look at d sky all thou u will not see d person there. But feel happy that u too r under d same sky."
+    }
+	,
+	{
+      "Status": "Mess Yo.. I Mis uo... I Mmis Yoo... I Miiss Yuu... May Be I Didn't know How To Write It But U made me know How To Feel It"
+    }
+	,
+	{
+      "Status": "Missing 1 when U r alone is not affection... but thinking of 1 even when you r busy is called real affection..."
+    }
+	,
+	{
+      "Status": "Being near is not d Meaning of being dear, I may b far from U, but messages r Bridges 2 make U feel that I always remember U ...."
+    }
+	,
+	{
+      "Status": "There r moments in life when U miss some1 so much that U just want 2 pick them from ur dreams and hug them 4 real."
+    }
+	,
+	{
+      "Status": "PPL whom u miss in ur happiness is d 1 whom u luv, but d ppl whom u miss in ur sadness is D 1 who loves 2 U"
+    }
+	,
+	{
+      "Status": "We always miss some1 very spcl in life 1ly for 2 reasons:- 
+Either that prsn was sometime wid u 
+OR 
+U always wanted to b wid that prsn."
+    }
+	,{
+      "Status": "U r D sun in my day, D wind in my sky, D waves in my ocean and D beat in my heart... I Miss You..."
+    },
+	{
+      "Status": "I am waiting and hoping and wishing 4 D time, when we can be together again! I Miss You!"
+    }
+	,
+	{
+      "Status": "Do u think u r 1?
+that I cant live widout U. 
+well, if u think that i think about u soo much 
+nd I miss u always 
+then u r absolutely
+correct !!!"
+    }
+	,
+	{
+      "Status": "I miss D touch that comforts me in times of despair. I miss every part of a second I spent wid U"
+    }
+	,
+	{
+      "Status": "I miss D beautiful eyes that I can sail through forever. I miss D smile that send me to heaven. I miss U !!"
+    }
+	,
+	{
+      "Status": "Miss me wid every breath U take,
+miss me with any dream & plan U make, miss me wid every wish that come true, miss me like I am missing you."
+    }
+	,
+	{
+      "Status": "Wen u r lonly I m sad, wen u r happy i m glad, rmbr dat whatever u feel once I feel it twice , So if u feel u miss me once,...... I miss u twice"
+    }
+	,
+	{
+      "Status": "U- Ever miss me, never u cry. 4a drop of tear in ur eyes, is a day less in my life."
+    }
+	,
+	{
+      "Status": "In d Flower My Rose Is u,
+In d Diamond My Kohinoor Is u,
+In d Sky My Moon Is u,
+I am 1ly Body My Heart Is u,
+That's Why I Always MISS U"
+    }
+	,
+	{
+      "Status": "Wid evry breath I take
+Wid evry song I sing
+I think about U
+D love & care
+Wid which U entered into my life
+Sweetheart I’m missing U lot"
+    }
+ 
+ ]
+}

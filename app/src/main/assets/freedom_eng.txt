@@ -1,0 +1,153 @@
+{
+  "StausArray": [
+    {
+      "Status": "I hope for nothing. I fear nothing. I am free."
+    },
+    {
+      "Status": "Freedom is never given; it is won."
+    },
+    {
+      "Status": "Freedom is something that dies unless it's used."
+    },
+    {
+      "Status": "When we lose the right to be different, we lose the privilege to be free."
+    },
+    {
+      "Status": "The desire of gold is not for gold. It is for the means of freedom and benefit."
+    },
+    {
+      "Status": "We hold our heads high, despite the price we have paid, because freedom is priceless."
+    },
+    {
+      "Status": "Order without liberty and liberty without order are equally destructive."
+    },
+    {
+      "Status": "I only ask to be free. The butterflies are free."
+    },
+{
+      "Status": "Real freedom is having nothing. I was freer when I didn't have a cent."
+    },
+{
+      "Status": Is freedom anything else than the right to live as we wish? Nothing else."
+    },
+{
+      "Status": "Humanity has won its battle. Liberty now has a country."
+    },
+{
+      "Status": "No man is good enough to be another's master."
+    },
+{
+      "Status": "Responsibility is the price of freedom."
+    },
+{
+      "Status": "Freedom lies in being bold."
+    },
+{
+      "Status": "Freedom is the sure possession of those alone who have the courage to defend it."
+    },
+{
+      "Status": "Freedom is what you do with what's been done to you."
+    },
+{
+      "Status": "Freedom is the right to tell people what they do not want to hear."
+    },
+{
+      "Status": "Freedom consists not in doing what we like, but in having the right to do what we ought."
+    },
+{
+      "Status": "If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter."
+    },
+{
+      "Status": "Man will never be free until the last king is strangled with the entrails of the last priest."
+    },
+{
+      "Status": "It is difficult to free fools from the chains they revere."
+    },
+{
+      "Status": "A hero is someone who understands the responsibility that comes with his freedom."
+    },
+{
+      "Status": "Freedom itself was attacked this morning by a faceless coward, and freedom will be defended."
+    },
+{
+      "Status": "Liberty cannot be preserved without general knowledge among the people."
+    },
+{
+      "Status": "I would like to be remembered as a person who wanted to be free... so other people would be also free."
+    },
+{
+      "Status": "Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it."
+    },
+{
+      "Status": "Freedom means the opportunity to be what we never thought we would be."
+    },
+{
+      "Status": "I am not an Athenian or a Greek, but a citizen of the world."
+    },
+{
+      "Status": "Freedom is the recognition of necessity."
+    },
+{
+      "Status": "The work of art is a scream of freedom."
+    },
+{
+      "Status": "You have freedom when you're easy in your harness."
+    },
+{
+      "Status": "Freedom is the only law which genius knows."
+    },
+{
+      "Status": "Man is free at the moment he wishes to be."
+    },
+{
+      "Status": "Freedom rings where opinions clash."
+    },
+{
+      "Status": "Freedom - an occupied space which must be reoccupied every day."
+    },
+{
+      "Status": "The more you practice, the better you get, the more freedom you have to create."
+    },
+{
+      "Status": "A friend is someone who gives you total freedom to be yourself."
+    },
+{
+      "Status": "Freedom is the open window through which pours the sunlight of the human spirit and human dignity."
+    },
+{
+      "Status": "The secret to happiness is freedom... And the secret to freedom is courage."
+    },
+{
+      "Status": "Nothing changes the gender equation more significantly than women's economic freedom."
+    },
+{
+      "Status": "True independence and freedom can only exist in doing what's right."
+    },
+{
+      "Status": "As soon as laws are necessary for men, they are no longer fit for freedom."
+    },
+{
+      "Status": "I know but one freedom, and that is the freedom of the mind."
+    },
+{
+      "Status": "I loved the feeling of freedom in running, the fresh air, the feeling that the only person I'm competing with is me."
+    },
+{
+      "Status": "Freedom has never been free."
+    },
+{
+      "Status": "Freedom without limits is just a word."
+    },
+{
+      "Status": "Forgiveness is the key to action and freedom."
+    },
+{
+      "Status": "Never wear your best trousers when you go out to fight for freedom and truth."
+    },
+{
+      "Status": "Freedom is not just declared; it is exercised."
+    }
+
+
+		]
+}

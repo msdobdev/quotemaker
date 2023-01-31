@@ -1,0 +1,405 @@
+{
+  "StausArray": [
+    {
+      "Status": "Are you a magician? Because whenever I look at you, everyone else disappears!"
+    },
+	{
+      "Status": "Wanna Hug Yuh soo tight…That even air couldn’t fill the space between us!!!"
+    }
+	,
+	{
+      "Status": "I can never wipe off a smile from my face, when I see a message received from you"
+    }
+	,
+	{
+      "Status": "Can i borrow a kiss? I promise I’ll give it back."
+    }
+	,
+	{
+      "Status": "Excuse me I am not Rihanna and I don’t love the way you lie."
+    }
+	,
+	{
+      "Status": "I hate how chocolate immediately melt on my fingers. I mean.. am I that hot?"
+    }
+	,
+	{
+      "Status": "Flirting is a risky Game one mistake & u r committed…;-)"
+    }
+	,
+	{
+      "Status": "I believe in love at first sight, No need to walk in again..	"
+    }
+	,
+	{
+      "Status": "I wouldn’t mind missing the sunrise, if I woke up next to you."
+    }
+	,
+	{
+      "Status": "Online by public demand "
+    }
+	,{
+      "Status": "Online by public demand "
+    },
+	{
+      "Status": "Luv is a hard game….so play it with cheat codes"
+    }
+	,
+	{
+      "Status": "Love the guy who love to spoil your LIPSTICK not your EYELINER."
+    }
+	,
+	{
+      "Status": "I am not a king but my love is Queen"
+    }
+	,
+	{
+      "Status": "I can die happy now, because I have seen a piece of heaven.Its U"
+    }
+	,
+	{
+      "Status": "Totally available ! Please disturb me !"
+    }
+	,
+	{
+      "Status": "The Only thing to do is Smile. It hides everything"
+    }
+	,
+	{
+      "Status": "Installing love. ……44%. Installation failed. Error 404: install money first."
+    }
+	,
+	{
+      "Status": "I’ve got nothing to do today but smile."
+    }
+	,
+	{
+      "Status": "Silence is golden. Too bad nobody is buying."
+    }
+	,{
+      "Status": "is tired of feeling like I am begging for your attention. If you want to be with me and spend time with me, you know my number."
+    },
+	{
+      "Status": "you are smirking because you think you know. – I am laughing because you have no idea !!"
+    }
+	,
+	{
+      "Status": "Here’s your chance, inbox me ANY question you’ve always wanted to know and I will answer back in complete honesty."
+    }
+	,
+	{
+      "Status": "I flirt with other guys but your the only one that gives me butterflies."
+    }
+	,
+	{
+      "Status": "We talked, we flirted, we liked each other, we never got together, we moved on, but deep down I started to love you…"
+    }
+	,
+	{
+      "Status": "I am not leading you on. . Your just following me!"
+    }
+	,
+	{
+      "Status": "If you love something… let it go. If it comes back to you… its yours forever."
+    }
+	,
+	{
+      "Status": "It doesn’t matter how much u flirt d whole day, at night u’ll always end up thinking about the 1 u truly love…"
+    }
+	,
+	{
+      "Status": "All women are flirts… but some are restrained by shyness…and others by sense."
+    }
+	,
+	{
+      "Status": "Love is the miracle of the god to his servants."
+    }
+	,{
+      "Status": "Most pictures may be worth a thousand words… but a picture of you needs only one… Wow…"
+    },
+	{
+      "Status": "Love is like a piece of art work…even the smallest bit can be so beautiful."
+    }
+	,
+	{
+      "Status": "Never make love in the garden or in the fields…… Love might be blind but your neighbors aren’t."
+    }
+	,
+	{
+      "Status": "Girls… Boys are like internet domain names… the ones I like are already taken."
+    }
+	,
+	{
+      "Status": "I love all the stars in the sky…but they are nothing compared to the ones in your eyes."
+    }
+	,
+	{
+      "Status": "Oopz… I lost my phone number…Could I have yours?"
+    }
+	,
+	{
+      "Status": "Any girl that thinks that the way to a man’s heart is through his stomach is aiming a little too high."
+    }
+	,
+	{
+      "Status": "I know I dont have a chance… but I just wanted to hear an angel talk."
+    }
+	,
+	{
+      "Status": "Is that love I see in your eyes…or merely a reflection of mine?"
+    }
+	,
+	{
+      "Status": "There are so many people in the world but in my world there is only one person and that’s you."
+    }
+	,{
+      "Status": "It must have been a rainy day when you were born. Heaven was crying because it lost its most beautiful angel."
+    },
+	{
+      "Status": "If you were a tear I would never dare to cry. I might lose you."
+    }
+	,
+	{
+      "Status": "Without you… I have nothing.But with you… I have everything."
+    }
+	,
+	{
+      "Status": "In my dreams you’re mine… In my life you’re a dream."
+    }
+	,
+	{
+      "Status": "If I have a strong desire…. don’t say it is a sin. I’m already on fire…. and just want to touch your skin."
+    }
+	,
+	{
+      "Status": "Love is the answer…but while you’re waiting for the answer…sex raises some…pretty good questions."
+    }
+	,
+	{
+      "Status": "Loving you is like breathing… How can I stop?"
+    }
+	,
+	{
+      "Status": "I’ll never forget what I felt when I first looked at you… you smiled and I got butterflies."
+    }
+	,
+	{
+      "Status": "Yes I’m a flirt. But I’m a harmless flirt. The rope and handcuffs are BY REQUEST ONLY."
+    }
+	,
+	{
+      "Status": "When I m good… I m very good. When I m bad I m exceptional."
+    }
+	,
+	{
+      "Status": "You are smirking because you think you know. I am laughing because you have no idea."
+    }
+	,
+	{
+      "Status": "If you were my home work. I would do you every night."
+    }
+	,
+	{
+      "Status": "Its really hard to wait for the right person in your life…especially when the wrong ones are so tempting."
+    }
+	,
+	{
+      "Status": "Destiny may decide who touches my Life. My heart decides who touches my Soul. But…Tequila decides who touches my body."
+    }
+	,
+	{
+      "Status": "I’m heading off to bed…gonna squeeze in as many inappropriate dreams as I can before my alarm interrupts."
+    }
+	,
+	{
+      "Status": "Everyone enjoys a good flirt and sweet talking…Its just how you act on it that can get you into trouble."
+    }
+	,
+	{
+      "Status": "I’m like a rare diamond… if your lucky enough to catch me.. don’t let me go… cause you won’t find another like me."
+    }
+	,
+	{
+      "Status": "the sparkle in your eyes would make the stars jealous"
+    }
+	,
+	{
+      "Status": "Flirting is one thing, but falling is a whole other story!"
+    }
+	,
+	{
+      "Status": "If you can’t stand the heat, why play with fire?"
+    }
+	,{
+      "Status": "Love me without Fear, Trust me without Restriction, Want me without Demand, Accept me how I am <3"
+    },
+	{
+      "Status": "I like you, You like me. So tell me…Why am I still single? <3"
+    }
+	,
+	{
+      "Status": "we talk;) we flirt we laugh but we just. friends mhmhmhmhm"
+    }
+	,
+	{
+      "Status": "You make me smile for no reason, yet I have every reason to smile about having you in my life."
+    }
+	,
+	{
+      "Status": "a flirt is a cheat in waiting"
+    }
+	,
+	{
+      "Status": "[F]orget [L]ove [I]’d [R]ather [T]ease"
+    }
+	,
+	{
+      "Status": "Lives like he will never live again, Laughs like he has never laughed before, and Loves like there will never be another day"
+    }
+	,
+	{
+      "Status": "i am not a flirt, i am just a constant reminder of what you CANNOT HAVE"
+    }
+	,
+	{
+      "Status": "If someone is trying to impress you. one thing is sure that the person is already impressed by you"
+    }
+	,
+	{
+      "Status": "When someone is flirting with you.. Please cooperate."
+    }
+	,{
+      "Status": "Just because I flirt with you doesn’t always mean I like you! Sometimes I’m just in the mood to flirt with someone(:"
+    },
+	{
+      "Status": "Everything is better when you add a little me"
+    }
+	,
+	{
+      "Status": "Sexy isn’t a shape, its an ATTITUDE!"
+    }
+	,
+	{
+      "Status": "Hi, I’m ____ and I’m a flirtaholic. Its been 10 minutes since my last…Well aren’t you cute?, oh shoot!!"
+    }
+	,
+	{
+      "Status": "(-_-) Can u pliz cloze ur eyez 4 a minute. Plz thanx.. Did u feel how dark it was?? This will be my life without YOU.."
+    }
+	,
+	{
+      "Status": "You like sleeping? Me too"
+    }
+	,
+	{
+      "Status": "Congratulations! You've been voted Most Beautiful Girl In This Room. And the grand prize is a date with me!	"
+    }
+	,
+	{
+      "Status": "Thou art to me a delicious torment."
+    }
+	,
+	{
+      "Status": "Just making sure you haven't stopped thinking about me..."
+    }
+	,
+	{
+      "Status": "I believe that God above created you for me to love. He picked you out from all the rest because he knew I would love you the best!"
+    }
+	,{
+      "Status": "One who smokes, has a smoky heart,
+One who drinks, has an alcoholic heart...
+So dear you must stop eating sweets...
+As you are already a sweetheart!"
+    },
+	{
+      "Status": "Loading the Babe meter...
+5%
+17%
+26%
+57%
+99%
+100% COMPLETE
+Processing data..
+Analysis complete!
+You are a 100% gorgeous babe!"
+    }
+	,
+	{
+      "Status": "I wish I was a teddy bear, that lay upon your bed, so every time you cuddled it, you cuddled me instead!"
+    }
+	,
+	{
+      "Status": "Hi, I'm Mr. Right. Someone said you were looking for "
+    }
+	,
+	{
+      "Status": "How do you keep a beautiful girl in suspense?"
+    }
+	,
+	{
+      "Status": "Somewhere, someone dreams of your smile and finds your presence in life so worthwhile. So when you are lonely, remember it's true that someone, somewhere, is thinking of you."
+    }
+	,
+	{
+      "Status": "I love your eyes, I love your smile. I cherish your ways, I adore your style. What can I say? You are one of a kind and 24/7, you are on my mind!"
+    }
+	,
+	{
+      "Status": "If I could rearrange the alphabet, I would put U and I together!"
+    }
+	,
+	{
+      "Status": "Did the sun come out or did you just smile at me?"
+    }
+	,
+	{
+      "Status": "Are you tired? Because you've been running through my mind all day."
+    }
+	,{
+      "Status": "Hello! What's wrong with your mobile? I tried so many times but every time I call it says: The subscriber you are trying to reach is in your heart!"
+    },
+	{
+      "Status": "You can fall from the sky
+You can fall from a tree
+But the best way to fall
+Is in love with me!"
+    }
+	,
+	{
+      "Status": "As days go by, my feelings get stronger,
+To be in your arms, I can't wait any longer.
+Look into my eyes and you'll see that it's true,
+Day & night my thoughts are of you."
+    }
+	,
+	{
+      "Status": "Dreaming of you makes my night worthwhile. Thinking of you makes me smile. Having you is the best thing ever and loving you is what I plan to do forever."
+    }
+	,
+	{
+      "Status": "You're so hot, I'm smoking!!!"
+    }
+	,
+	{
+      "Status": "Do keep in mind that extremely dirty SMSes from the word 'GO' might look cheap and strike the wrong chord. So, keep it cute and funny and see how good things start to develop between the two of you!"
+    }
+	,
+	{
+      "Status": "My heart problem has reached a critical stage. The doctor says there are only two option left, ICU or You See Me."
+    }
+	,
+	{
+      "Status": "They say you only fall in love once, but when I hear your voice I fall in love over and over again."
+    }
+	,
+	{
+      "Status": "If you're smart and clever, put me in your heart forever."
+    }
+	,
+	{
+      "Status": "Did you know that kissing prolongs life?"
+    }
+ 
+ ]
+}

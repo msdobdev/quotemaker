@@ -1,0 +1,275 @@
+{
+  "StausArray": [
+    {
+      "Status": "I was trying to play IPL on the computer but it wouldn't load, & just kept saying, IPL is corrupt"
+    },
+    {
+      "Status": "Our neighbourhood has a tiny ghost that helps out during hard times it's good to have a little community spirit"
+    },
+    {
+      "Status": "Always remember that you are absolutely unique.Just like everyone else"
+    },
+    {
+      "Status": "Don't take life too seriously, you won't get out alive."
+    },
+    {
+      "Status": "Falling in love with you was never my intention. but it became my ADDICTION."
+    },
+    {
+      "Status": "Gods are fragile things, they may be killed by a whiff of science or a dose of common sense."
+    },
+    {
+      "Status": "Going to temple,church,mosque doesn't make you a human, any more than standing in a garage makes you a car"
+    },
+    {
+      "Status": "Suicide: Mans way of telling God - You can't fire me, I quit"
+    },
+    {
+      "Status": "People with glass houses shouldn't throw stones, they should throw parties with strippers."
+    },
+    {
+      "Status": "Book - A book which people praise and don't read"
+    },
+    {
+      "Status": "Kind, intelligent, loving and hot, This describes everything you are not"
+    },
+    {
+      "Status": "Hard work has a future payoff. Laziness pays off NOW"
+    },
+    {
+      "Status": "Adults are always asking little kids what they want to be when they grow up because they?re looking for ideas"
+    },
+    {
+      "Status": "War does not determine who is right ? only who is left."
+    },
+    {
+      "Status": "Take my advice, I don?t use it anyway"
+    },
+    {
+      "Status": "Childhood is like being drunk, everyone remembers what you did, except you"
+    },
+    {
+      "Status": "I haven't slept for 10 days, because that would be too long."
+    },
+    {
+      "Status": "Dogs are always in the push-up position."
+    },
+    {
+      "Status": "Some people are afraid of heights. I'm afraid of widths"
+    },
+    {
+      "Status": "Now what's on the menu? Me-n-u"
+    },
+    {
+      "Status": "Forget hydrogen, you're my number one element"
+    },
+    {
+      "Status": "Honesty is the best policy??when there is money in it"
+    },
+    {
+      "Status": "Age is an issue of mind over matter. If you don't mind, it doesn't matter"
+    },
+    {
+      "Status": "If you?re one in a million, there are six thousand people exactly like you."
+    },
+    {
+      "Status": "You grow on people, but so does cancer"
+    },
+    {
+      "Status": "Calling you an idiot would be an insult to all stupid people"
+    },
+    {
+      "Status": "Hi there, I'm a human being! What are you"
+    },
+    {
+      "Status": "Clothes make the man. Naked people have little or no influence on society."
+    },
+    {
+      "Status": "Are you the square root of -1, Because you can't be real"
+    },
+    {
+      "Status": "I'm the flower, you're the bee. Why don't you suck the sweet pollen right out of me"
+    },
+    {
+      "Status": "If your left leg was thanksgiving, and your right leg is Christmas, can I come visit you between the holidays"
+    },
+    {
+      "Status": "Are you made of copper and tellurium? Because you're CuTe"
+    },
+    {
+      "Status": "Fuck me if I'm wrong, but isn't your name Cindrella"
+    },
+    {
+      "Status": "If I ever need a heart transplant, I'd want my ex's. It's never been used"
+    },
+    {
+      "Status": "Waitress: Do u have any questions about the menu Me: What kind of font is this"
+    },
+    {
+      "Status": "Any room is a panic room if you've lost your phone in it"
+    },
+    {
+      "Status": "A closed mouth gathers no foot."
+    },
+    {
+      "Status": "A conclusion is the place where you got tired of thinking."
+    },
+    {
+      "Status": "A day without sunshine is like, night."
+    },
+    {
+      "Status": "Beauty is in the eye of the beer holder."
+    },
+    {
+      "Status": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water."
+    },
+    {
+      "Status": "I find it ironic that the colors red, white, and blue stand for freedom until they are flashing behind you"
+    },
+    {
+      "Status": "Isn't it great to live in the 21st century? Where deleting history has become more important than making it"
+    },
+    {
+      "Status": "A recent study has found that women who carry a little extra weight live longer than the men who mention it"
+    },
+    {
+      "Status": "When wearing a bikini, women reveal 90 % of their body... men are so polite they only look at the covered parts."
+    },
+    {
+      "Status": "He who laughs last thinks slowest."
+    },
+    {
+      "Status": "Never mess up an apology with an excuse"
+    },
+    {
+      "Status": "No one is listening until you make a mistake"
+    },
+    {
+      "Status": "On the other hand, you have different fingers"
+    },
+    {
+      "Status": "Pride is what we have. Vanity is what others have"
+    },
+    {
+      "Status": "Remember half the people you know are below average"
+    },
+    {
+      "Status": "There are two theories to arguing with women. Neither one works."
+    },
+    {
+      "Status": "We have enough youth, how about a fountain of smart"
+    },
+    {
+      "Status": "Strong people don't put others down.They lift them up and slam them on the ground for maximum damage."
+    },
+    {
+      "Status": "You know you're ugly when it comes to a group picture and they hand you the camera."
+    },
+    {
+      "Status": "You're not fat, you're just... easier to see."
+    },
+    {
+      "Status": "I will never stop caring, but if you decide to push me away, I will go."
+    },
+    {
+      "Status": "Whoever said money doesn't grow on trees has obviously never sold weed"
+    },
+    {
+      "Status": "With great power comes great electricity bill"
+    },
+    {
+      "Status": "If a guy remembered your eye color after the first date you probably have small boobs"
+    },
+    {
+      "Status": "Women who seek to be equal to men lack ambition"
+    },
+    {
+      "Status": "Apparently I snore so loudly that it scares everyone in the car I'm driving."
+    },
+    {
+      "Status": "You're so ugly, when your mom dropped you off at school she got a fine for littering"
+    },
+    {
+      "Status": "Your birth certificate is an apology letter from the condom factory"
+    },
+    {
+      "Status": "When I call a family meeting I turn off the house wifi and wait for them all to come running"
+    },
+    {
+      "Status": "I started out with nothing, and I still have most of it"
+    },
+    {
+      "Status": "A clean house is the sign of a broken computer."
+    },
+    {
+      "Status": "Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+    },
+    {
+      "Status": "Love is what makes you smile when you’re tired."
+    }, {
+      "Status": " I’m not sarcastic, I am just intelligent beyond your understanding."
+    },{
+      "Status": "Love is like fart. If you force it, It’s probably shit."
+    },{
+      "Status": "In order for you to insult me, I would first have to value your opinion."
+    },{
+      "Status": "A relationship is made for two, but some bitches are bad in math."
+    },{
+      "Status": "You can love me, hate me or masturbate screaming my name, it’s the thought that count."
+    },{
+      "Status": "Mirrors can’t talk, lucky for you they can’t laugh either."
+    },{
+      "Status": "Zombies are looking for brain, don’t worry you’re safe."
+    },{
+      "Status": "May god bless you, sick and shameful life."
+    },{
+      "Status": "Some people are beautifully wrapped boxes of shit."
+    },{
+      "Status": "My ex had one very annoying habit – BREATHING"
+    },{
+      "Status": "Dear men, life without women would literally a pain in ass."
+    },{
+      "Status": "People have become very naughty on whatsapp.. Even married women have put their status as AVAILABLE."
+    },{
+      "Status": "I am not lazy! I am just at my energy saving mode."
+    },{
+      "Status": "I will marry to a girl who look pretty in her voter id card."
+    },{
+      "Status": "I will marry to a girl who look pretty in her voter id card."
+    },{
+      "Status": "God is really creative , i mean ..just look at me ??"
+    },{
+      "Status": "My study period = 15 minutes. My break time = 3 hours."
+    },{
+      "Status": "People say everything happens for a reason. So when I punch you in the face, remember I have a reason. ??"
+    },{
+      "Status": "Open Books, Not Legs. Blow Minds, Not Guy[/quote]"
+    },{
+      "Status": "Do You Want To Go Out With Me? (A) Yes (B) A (C) B."
+    },{
+      "Status": "You Don’t Know Something? Google It. You Don’t Know Someone? Facebook It. You Can’t Find Something? Mom!"
+    },{
+      "Status": "Touch it gently, put two fingers inside, if it’s wide use three fingers, make sure it’s wet and rub up and down. Yep that’s how you wash a cup."
+    },{
+      "Status": "I'm not lazy, I'm on energy saving mode."
+    },{
+      "Status": "I love my job only when I'm on vacation.."
+    },{
+      "Status": "Never make eye contact while eating a banana."
+    },{
+      "Status": "Life is Short - Chat Fast!"
+    },{
+      "Status": "If life gives you lemons, just add vodka"
+    },{
+      "Status": "How can i miss something i never had?"
+    },{
+      "Status": "Hey there whatsapp is using me."
+    },{
+      "Status": "Girls use photoshop to look beautiful.. Boys use photoshop to show their creativity."
+    },{
+      "Status": "You can never buy Love....But still you have to pay for it "
+    },{
+      "Status": "If you are going to speak bad things about me on my back, come to me. I'll tell you more."
+    }
+ ]
+}

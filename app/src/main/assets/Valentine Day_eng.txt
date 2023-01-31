@@ -1,0 +1,403 @@
+{
+  "StausArray": [
+    {
+      "Status": "Every things I need find in your arms..My! Valentine!"
+    },
+	{
+      "Status": "I carry your heart ?(I carry it in my heart ?) - E.E. Cummings"
+    }
+	,
+	{
+      "Status": "My heart's no longer mine will be my valentine ?"
+    }
+	,
+	{
+      "Status": "D 1ly things we never get enough is love
+& D 1ly things we never give enough is love"
+    }
+	,
+	{
+      "Status": "Sometime we make love with our eyes.
+Sometime we make love with our hands
+Sometime we make love with our bodies.
+Always and Ever we make love with our hearts."
+    }
+	,
+	{
+      "Status": "Sweet memories ..lovely ?? kisses...Tight Hugs
+Gentle whispers...Subtle caress..
+I love to share this
+For a lifetime with you
+and give you all of me.
+I Love You"
+    }
+	,
+	{
+      "Status": "Oh, if it be to choose and call thee mine,
+love, thou art every day my Valentine! - Thomas Hood"
+    }
+	,
+	{
+      "Status": "valentines day heart for your sweet Girlfriend"
+    }
+	,
+	{
+      "Status": "Just Like We always & ever be Together Happy Valentine's Day !"
+    }
+	,
+	{
+      "Status": "cute valentines day heart sayings - be my Valentine "
+    }
+	,{
+      "Status": "I FEEL U THIS WAY
+be my Valentine"
+    },
+	{
+      "Status": "A spl smile :), a spl face.a spl some1 I cant replace. I luv u, I always will. U have filled a space no 1 can fill!"
+    }
+	,
+	{
+      "Status": "Could you say where d sea ends from d shore…?
+‘ MY LOVE IS SAME FOR U.’
+Will u be my Valentine?"
+    }
+	,
+	{
+      "Status": "U r D 1ly 1 prsn I want 2 b with 4 D rest of my life and grow old with. I love you."
+    }
+	,
+	{
+      "Status": "Live 4 d person ho dies 4u,
+Smile 4 d person ho cries 4u,
+Fight 4 d person ho protects u,
+n luv d person ho luvs u more than u..!"
+    }
+	,
+	{
+      "Status": "U dnt hav 2 ask f i care.
+in evry word u say, 
+fil free 2 tel ur worries &
+realyz dt im here 4 now 4 always &
+4 evr 4u exclusvely...
+Happy Valetines Day!......"
+    }
+	,
+	{
+      "Status": "Let love b d guide to your dreams, 
+let love b d light to your heart, 
+let your love b d reason why some1else
+heart still continues 2 beat.
+Let me b your Valentine"
+    }
+	,
+	{
+      "Status": "As long as U love me
+I'll stay by UR side 
+I'll be ur companion 
+ur frnd & UR guide"
+    }
+	,
+	{
+      "Status": "As long as U love me 
+As long as u care 
+I'll do anything 4 u 
+I'll go anywhere "
+    }
+	,
+	{
+      "Status": "I'll bring u the sunshine 
+I'll comfort ur fears 
+I'll gather up rainbows 
+To chase all ur tears"
+    }
+	,{
+      "Status": "As long as 4ever 
+My love will be true 
+For as long as U love me 
+I'll 1ly love you"
+    },
+	{
+      "Status": "“My love for you is a journey, Starting at forever, And ending at never.”...."
+    }
+	,
+	{
+      "Status": "Valentines day messages ::
+
+have a pair of eyes but cannot see you everyday.
+I have a pair of ears but cannot hear your voice all the time.
+But I have only one heart that cares for you all the time."
+    }
+	,
+	{
+      "Status": "When I look at you,
+I cannot deny there is God,
+Cause only God could have created some one
+As Gorgeous as you....."
+    }
+	,
+	{
+      "Status": "Altough I’m Not A Millionaire
+I’ve Got An Awful Lot . . .
+Because I’ve Got The One I Love
+And Love The One I’ve Got. . ."
+    }
+	,
+	{
+      "Status": "ON D SKY WANT TO PAINT WITH RAINBOW
+ONE LINE U R MINE VALENTINE"
+    }
+	,
+	{
+      "Status": "Life is 4 living, I Live 4 U.
+Songs r 4 singing, I Sing 4 U.
+Love is 4 caring, I Care 4 U.
+Angels r 4 keeping, Can I keep U…?..."
+    }
+	,
+	{
+      "Status": "If I die and go to heaven,
+I put your name on a golden star.
+So that all the angels can see how much you mean to me.
+I LOVE YOU"
+    }
+	,
+	{
+      "Status": "I love you more today
+than I did yesterday,
+but not as much as I will tomorow"
+    }
+	,
+	{
+      "Status": "Red or white
+short or tall
+wrapped in silver
+not wrapped at all
+under covers
+inside a box
+shapes & sizes
+love comes in lots....."
+    }
+	,{
+      "Status": "2 b loved is da bst,
+2 fall in love is a curse.
+2 b alone is unbearable,
+2 fnd ur true love is a dream,
+2 b aprt frm ur love is painful,
+2 lose da 1 u love is death."
+    },
+	{
+      "Status": "I am not a happy person because of my love,
+I am happy person coz I’m in love with you &
+You are my Valentine!"
+    }
+	,
+	{
+      "Status": " Colours may fade, the sun may not shine, 
+the moon may not be bright, heart-beats may stop, 
+lives may pass but our friendship, 
+I will treasure 'till the day my heart stops. 
+"
+    }
+	,
+	{
+      "Status": "Ur frndship is the most beautiful aspect of my life. 
+Remain frnds forever. 
+Wish you happy Valentine’s Day"
+    }
+	,
+	{
+      "Status": "What shall we do this Valentine's Day?
+Get dressed up and go out,
+Or get undressed and stay in?"
+    }
+	,
+	{
+      "Status": "The best thing about me is you.
+I Love you my sweetheart.
+Happy Valentines Day."
+    }
+	,
+	{
+      "Status": "Dearest Mom and Dad, you mean the world to me,
+and I wanted to wish you a wonderful Valentine’s Day."
+    }
+	,
+	{
+      "Status": "Evry second God remembers you, 
+Evry minute God bless you, 
+Evry hour God cares for you because... 
+Evry day I pray God to take care of U.
+Happy Valentines Day."
+    }
+	,
+	{
+      "Status": "Your look made my hour, 
+Your smile made my day, 
+Your laugh made my month, 
+Your touch made my year, 
+& Your friendship made my life."
+    }
+	,
+	{
+      "Status": "24 hours make a lovely day, 
+7 days make a lovely week, 
+52 weeks make a lovely year 
+& knowing a person like you makes my life lovely. 
+Happy Valentine's Day"
+    }
+	,{
+      "Status": "I Love Three Things,
+I Love Three Things,
+The Sun, The Moon, And You, 
+The Sun 4 A Day, 
+The Moon 4 Night, 
+And U 4 Ever. 
+B/C I Love U 4 Ever..."
+    },
+	{
+      "Status": "Enter PIN code...
+Enter PIN code... L.
+Enter PIN code ...LO.
+Enter PIN code...LOV.
+Enter PIN Code LOVE...
+Wait...
+PIN Accepted...
+Welcome; ^ U ^; to my *HeArT*"
+    }
+	,
+	{
+      "Status": "*** I love the y.
+I love the o.
+I love the u.
+Put them together
+And I love you.
+"
+    }
+	,
+	{
+      "Status": "I Wanted To Tell You
+In Words Of My Own
+You're The Most Precious Person
+That I've Ever Known."
+    }
+	,
+	{
+      "Status": "Life is for a living, 
+I live for you Dreams are for dreaming, 
+I dream for you Hearts are for beating, mine beats for you Angels are for keeping. 
+Can I keep you? 
+Sweet Valentine's day to u."
+    }
+	,
+	{
+      "Status": "What do you gift a Valentine who is so cute, 
+hot, sexy, loving, caring and gentle? 
+Nothing but lots of hugs and kisses. 
+Happy Valentine's Day! 
+"
+    }
+	,
+	{
+      "Status": "m on a mission: 
+Mission to avoid u, 
+To forget u, 
+to get rid of u, 
+To not 2 talk 2u or meet u, 
+In short.... MISSION IMPOSSIBLE!! 
+Happy Valentine's Day!
+"
+    }
+	,
+	{
+      "Status": "1st time I saw u I was scared 2 touch u. 
+1st time I touched u I was scared 2 kiss u. 
+1st time I kiss u I was scared to love u. 
+but now that I love u I’m scared 2 lose u! "
+    }
+	,
+	{
+      "Status": "I ask God for a rose n he gave me flowers,
+I ask God for water n he gave me an ocean,
+I ask God for an angel n he gave me the best luv ever!
+"
+    }
+	,
+	{
+      "Status": "u r my summer breeze my winter sun
+u r my spring time fun
+u r my special one
+u r my love, only one"
+    }
+	,
+	{
+      "Status": "even if sun refused to shine
+even if romance ran out of rhyme
+u wud still have my heart untill the end of time
+u r all, my love, my valentine........"
+    }
+	,
+	{
+      "Status": "You are my sun and stars, my night, my day, 
+My seasons, summer, winter, my sweet spring,
+My world, my thoughts, my breath, my future
+My all, my love, my Valentine"
+    }
+	,
+	{
+      "Status": "one day the moon sed 2 me, if ur lover makes u cry why dont you leave ur lover.. i looked at the moon n replied would u every leave ur sky?"
+    }
+	,
+	{
+      "Status": "If I could be any part of YOU I would be your tear,
+To be conceived in your heart
+Born in your eyes…
+Live on your cheeks and
+Die on your lips..."
+    }
+	,
+	{
+      "Status": "As days go by, my feelings get stronger,
+To b in your arms, I can't wait any longer.
+Look into my eyes & you'll see that it's true,
+Day & Night my thought r of U!!"
+    }
+	,
+	{
+      "Status": "A word to say, a word to hear
+Even in your absence I feel you near
+OUR relation is strong, hope it goes long
+We will remain the same till the life goes on!"
+    }
+	,
+	{
+      "Status": "I have seen angels in the sky, I have seen snowfall in july, I have seen things you only imagine to see, But I have not seen anything sweeter than you"
+    }
+	,
+	{
+      "Status": "your love is like a river peaceful and deep, your soul is like a secret that I never could keep, When I look into your eyes I know its true, you were made for me and I for you"
+    }
+	,
+	{
+      "Status": "Ur my strength, My luv, My heart.Ur luvn touch i long 4 so mch,Ur voice so softly dat whispers i’m ur’s 4ever b mine my baby “I LOVE U”"
+    }
+	,
+	{
+      "Status": "A candle may melt
+and its fire may die,
+but the love you have given me
+will always stay as a flame in my heart."
+    }
+	,{
+      "Status": "not a moment pass by me
+when i do not miss u
+not a day pass by me
+when i do not think about u"
+    },
+	{
+      "Status": "Valentines day quotes to Say 'I love You' to your sweetheart on Valentine's Day. Make your someone special feel more special with Valentine Quotes, happy valentines sms, valentines day messages."
+    }
+	
+	
+ 
+ ]
+}

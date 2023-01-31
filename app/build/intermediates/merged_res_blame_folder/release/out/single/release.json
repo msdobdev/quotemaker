@@ -1,0 +1,754 @@
+[
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_10.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_10.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_attitude.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_attitude.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_item_bg_dark_round.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/item_bg_dark_round.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xhdpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_6.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_6.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_gnt_rounded_corners_shape.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/gnt_rounded_corners_shape.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-anydpi-v21/ic_home.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_republic.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_republic.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_btn_bg_orange.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/btn_bg_orange.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_bg_dark_number.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/bg_dark_number.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_gnt_outline_shape.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/gnt_outline_shape.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_download.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_download.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_gmail.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_gmail.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_add_text.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_add_text.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_color.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_color.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_btn_bg_pink.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/btn_bg_pink.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_text_editdelete.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_text_editdelete.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_mycreation_adpter_layout.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/mycreation_adpter_layout.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_text_centeralignment.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_text_centeralignment.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_twitter.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_twitter.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_container_editing_option.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_container_editing_option.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_more.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_btn_bg_blue.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/btn_bg_blue.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_hate.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_hate.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxhdpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xhdpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xhdpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_bg_dark_rounded_square.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/bg_dark_rounded_square.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_custom_rectangle_part.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/custom_rectangle_part.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round_round.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxxhdpi/ic_launcher_round_round.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_text_alignment.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_text_alignment.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-mdpi_ic_launcher_round_round.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-mdpi/ic_launcher_round_round.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_quote.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_quote.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_select_background_image.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/select_background_image.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_font_style.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_font_style.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_happy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_happy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_close.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_close.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_addemoji.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_addemoji.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round_round.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-anydpi-v26/ic_launcher_round_round.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_roundshapcolorlist.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/roundshapcolorlist.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_edit.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_edit.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_edit_quote.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_edit_quote.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxhdpi/ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_text_right_alignment.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_text_right_alignment.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_custom_rectuangle_part_3.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/custom_rectuangle_part_3.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxhdpi_appicon.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-xxhdpi/appicon.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_1.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_1.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_bg_rectangular_border.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/bg_rectangular_border.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-mdpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_listline.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/listline.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-hdpi_ic_launcher_round_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-hdpi/ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-mdpi_ic_launcher_round_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-mdpi/ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_back.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_back.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxxhdpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-hdpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_splashscreen.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-mdpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-mdpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_square_ratio.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_square_ratio.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_dialog_bg_light.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/dialog_bg_light.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_text_font_type.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_text_font_type.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_text_edit.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_text_edit.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_home_activity.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/home_activity.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_changeimage.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_changeimage.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_miss_you.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_miss_you.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_facebook.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_facebook.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_gallery.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_gallery.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_breackup.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_breackup.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_quotes.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_quotes.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_quotes_cat_layout.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/quotes_cat_layout.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_motivate.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_motivate.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_q_facebook.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_q_facebook.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_7.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_7.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_activity_share.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/activity_share.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_seekbar_thumb_shadow.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/seekbar_thumb_shadow.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_sorry.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_sorry.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_valentine.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_valentine.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxxhdpi_app_logo.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-xxxhdpi/app_logo.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-mdpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-mdpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_delete.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_delete.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_appicon.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/appicon.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_edit_bottom_option.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_edit_bottom_option.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_no_image_found.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_no_image_found.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-ldpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-ldpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_top_shadow.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_top_shadow.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_text_size.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_text_size.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_progress.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxhdpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxhdpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_text_shadow.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_text_shadow.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_4.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_4.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_romantic.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_romantic.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_google_native_350dp.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/google_native_350dp.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_happy_birthday.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_happy_birthday.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_canvas.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_canvas.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_text_size.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_text_size.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_loader.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_loader.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxxhdpi_appicon.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-xxxhdpi/appicon.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-anydpi-v21/ic_share.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_select_background.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_select_background.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xhdpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_portrait_ratio.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_portrait_ratio.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_thumb_seekbar_selecter.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/thumb_seekbar_selecter.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_3.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_3.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxxhdpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_resize.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_resize.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_bg_white_circle.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_bg_white_circle.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_goodnight.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_goodnight.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_9.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_9.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_quotes_cat.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_quotes_cat.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_flirt.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_flirt.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_edit_photo.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_edit_photo.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_2.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_2.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_share_other.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_share_other.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_line.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/line.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_colored_background.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_colored_background.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_text_color.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_text_color.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_border_circle_2.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_border_circle_2.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_multicolor_text.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_multicolor_text.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-ldpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-ldpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_background.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_background.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_image_ratio.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_image_ratio.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_landscape_ratio.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_landscape_ratio.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_sad.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_sad.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_quotes.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_quotes.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_text_alignment.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_text_alignment.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_shadow.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_shadow.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_good_luck.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_good_luck.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_rectangle_ratio.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_rectangle_ratio.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_font.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_font.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_8.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_8.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_refresh.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_refresh.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xhdpi/ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_seekbar_thumb_select.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/seekbar_thumb_select.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_google_native_150dp.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/google_native_150dp.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round_round.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xhdpi/ic_launcher_round_round.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_statusdetails_recyleview.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/statusdetails_recyleview.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_moreoptiondialog.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/moreoptiondialog.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_home.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_dialog_quotes_list_item.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/dialog_quotes_list_item.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_q_whatsapp.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_q_whatsapp.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxhdpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_border_circle_1.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_border_circle_1.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_choose_quotes.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_choose_quotes.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_custom_layout_5.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/custom_layout_5.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_favorite.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_favorite.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_goodmorning.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_goodmorning.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxxhdpi/ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_love.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_love.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_select_quote.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_select_quote.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_layout_my_creation.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/layout_my_creation.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xxxhdpi_ic_copy.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-xxxhdpi/ic_copy.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_image.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_image.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round_round.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxhdpi/ic_launcher_round_round.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-ldpi_ic_share.png.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-ldpi/ic_share.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_add_text_layout.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/add_text_layout.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-xhdpi_appicon.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-xhdpi/appicon.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_bg_white_top_round.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/bg_white_top_round.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_roundshapbutton.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/roundshapbutton.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_done.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_done.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_text.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_text.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_btn_bg_green.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/btn_bg_green.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_list_item_ratio.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/list_item_ratio.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_seekbar_thumb_unselect.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/seekbar_thumb_unselect.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_activity_category_list.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/activity_category_list.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_shadow_left_black.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_shadow_left_black.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-anydpi-v21_ic_copy.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-pngs-26:/drawable-anydpi-v21/ic_copy.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_whatsapp.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_whatsapp.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_instagram.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_instagram.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_activity_quoteslist.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/activity_quoteslist.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_text_left_alignment.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_text_left_alignment.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_friendship.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_friendship.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_orignal_ratio.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_orignal_ratio.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/layout_dialog_quotes_detail_layout.xml.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/layout/dialog_quotes_detail_layout.xml"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable-hdpi_ic_invite.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable-hdpi/ic_invite.png"
+    },
+    {
+        "merged": "com.ms.dob.textonphoto.app-merged_res-31:/drawable_ic_smile.png.flat",
+        "source": "com.ms.dob.textonphoto.app-main-32:/drawable/ic_smile.png"
+    }
+]

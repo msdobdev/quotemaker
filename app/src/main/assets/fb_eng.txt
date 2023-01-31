@@ -1,0 +1,310 @@
+{
+  "StausArray": [
+    {
+      "Status": "I'm nobody, nobody is perfect, and therefore I'm perfect."
+    },
+    {
+      "Status": "Please don't get confused between my personality & my attitude My personality is who I am & my attitude depends on who you are!�"
+    },
+    {
+      "Status": "God is really creative, i mean�just look at me."
+    },
+    {
+      "Status": "I�m gonna MAKE the rest of my life, the BEST of my LIFE."
+    },
+
+     {
+      "Status": "I�m not arguing, I�m simply tried to explaining why I�m Right."
+    },
+    {
+      "Status": "Math Rule: If it seems easy, you�re doing it wrong."
+    },
+    {
+      "Status": "You have eyes my dear but you cannot see."
+    },
+    {
+      "Status": "The Earth without Art is just Eh."
+    },
+    {
+      "Status": "We all are born to die don�t feel more special than me."
+    },
+    {
+      "Status": "The only reason god made cousins so that parents can compare our marks."
+    },
+    {
+      "Status": "God is really creative , i mean ..just look at me :"
+    },
+    {
+      "Status": "My study period = 15 minutes. My break time = 3 hours."
+    },
+    {
+      "Status": "I�m not weird, I�m limited edition."
+    },
+    {
+      "Status": "The problem is not the problem; the problem is your attitude about the problem."
+    },
+
+
+    {
+      "Status": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    {
+      "Status": "Always do your best. What you plant now, you will harvest later."
+    },
+    {
+      "Status": "If you can dream it, you can do it."
+    },
+    {
+      "Status": "In order to succeed, we must first believe that we can."
+    },
+    {
+      "Status": "Don't watch the clock; do what it does. Keep going."
+    },
+    {
+      "Status": "With the new day comes new strength and new thoughts."
+    },
+    {
+      "Status": "I would never have amounted to anything were it not for adversity. I was forced to come up the hard way!!!"
+    },
+    {
+      "Status": "Harsh counsels have no effect. They are like hammers which are always repulsed by the anvil!!!!"
+    },
+    {
+      "Status": "The great pleasure in life is doing what people say you cannot do!!!"
+    },
+    {
+      "Status": "If at first you don't succeed-try, try again. Don't think of it as failure. Think of it as timed-release success."
+    },
+    {
+      "Status": "A person who never made a mistake never tried anything new."
+    },
+    {
+      "Status": "Courage is what you earn when you've been through the tough times & you discover they aren't so tough after all."
+    },
+    {
+      "Status": "Perpetual optimism is a force multiplier."
+    },
+     {
+      "Status": "Whenever i see your text the first thing comes in my mind is YOU. ?"
+    },
+    {
+      "Status": "If you love someone set them free. Then send them a text message every hour letting them know you've set them free. :P"
+    },
+    {
+      "Status": "Love must be learned, and learned again; there is no end to it."
+    },
+    {
+      "Status": "Do not try to change people; Just love them! Love is what changes us."
+    },
+    {
+      "Status": "Someone who really loves you sees what a mess you can be, how moody you can get, how hard u are to handle, but still wants u in their life."
+    },
+    {
+      "Status": "True love isn�t Romeo and Juliet who died together. It�s Grandma and Grandpa who grew old together."
+    },
+    {
+      "Status": "Love doesn't lie, people do. Love doesn't leave, people do. Love won't hurt you, people will."
+    },
+    {
+      "Status": "The only thing we never get enough of is love and the only thing we never give enough of is love."
+    },
+    {
+      "Status": "Love is when you have seen the best and the worst of someone, yet you still love them for what they have."
+    },
+    {
+      "Status": "I want our relationship to be like Tom and Jerry. No matter how many times we fight, we won't be apart."
+    },
+    {
+      "Status": "I get the best feeling when you say Hi or even smile at me because I know, even if its just for a second, that I've crossed your mind. ?"
+    },
+    {
+      "Status": "Its Not hard to find someone who will tell you that they Love You. Its hard to find someone that actually 'means' it.. :)"
+    },
+    {
+      "Status": "In order to learn how to love, you first have to learn how to trust."
+    },
+    {
+      "Status": "My love for you is not like rain, which comes and goes away. But its like sky, moves with you all around."
+    },
+    {
+      "Status": "In this world there is no perfect guy and there is no perfect girl. But only a less than perfect guy and a less than perfect girl can make a perfect love."
+    },
+    {
+      "Status": "Love is just love, it can never explained!!!"
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "The only way is to move on, because if you don't you'll be suck where you are."
+    },
+    {
+      "Status": "It's never going to be the same again. And that's whats killing me."
+    },
+    {
+      "Status": "It must be really sad to not be able to do something you love as the years go by."
+    },
+    {
+      "Status": "Wake me up when things are going right for once."
+    },
+    {
+      "Status": "Smile and no one will see how broken you are inside.I�m missing something in my life thes days."
+    },
+    {
+      "Status": "A broken relationship would make you feel more lonely than when you were single.."
+    },
+    {
+      "Status": "Sometimes there is so much we feel but so little we can say."
+    },
+    {
+      "Status": "The higher you climb on love's ladder,the harder you fall."
+    },{
+      "Status": "Meeting you was fate, becoming your friend was a choice, but falling in love with you was beyond my control."
+    },
+    {
+      "Status": "There are only two times that I want to be with you... Now and Forever."
+    },
+    {
+      "Status": "If I could be anything I would be your tear, so I could be born in your eye, live down your cheek and die on your lips."
+    },
+    {
+      "Status": "sometimes the people that u don't want to get hurt doesn't care if they hurt you!"
+    },
+    {
+      "Status": "Bridge between souls, stands on pillars of trust! It reflects united self and creates a path to reach each other�s hearts."
+    },
+    {
+      "Status": "I can see something more beautiful in her eyes and smile than the stars."
+    },
+    {
+      "Status": "I don�t care how hard being together is, nothing is worse than being apart."
+    },
+    {
+      "Status": "There is a part of me that's gonna be in love with you for the rest of my life!!!!"
+    },
+    {
+      "Status": "Only you can put a smile on my face when i'm sad..."
+    },
+    {
+      "Status": "Love can't be found Where it doesn't exist .."
+    },
+    {
+      "Status": "I hate when people say they miss you,but don�t make a effort to speak to you or see you. !!"
+    },
+    {
+      "Status": "I realized that no guy will ever be right for me. Not after I met you."
+    },
+    {
+      "Status": "Girls like you are hard to find, but I'm very glad I did. It feels like I�ve known you forever."
+    },
+    {
+      "Status": "Love is just a word until someone special gives it a meaning."
+    },
+    {
+      "Status": "I love you more than you will ever know. You're all that I need."
+    },
+    {
+      "Status": "You are my entire world, my very reason to live and because the way you make me feel, you you my heart I give."
+    },
+    {
+      "Status": "No matter what happens I will never let anything change how i feel about you."
+    },
+    {
+      "Status": "Being with you makes me feel like for once in my life I don't have to work so hard on being happy, it just happens."
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "You will find a girl prettier than me, smarter than me, and funnier than me, but you will never find a girl just like me."
+    },
+    {
+      "Status": "Beauty Fades After Time, But Personality Is Forever!"
+    },
+    {
+      "Status": "I�m not single, I�m just romantically challenged."
+    },{
+      "Status": "I Am Not Special , I Am Just Limited Edition :P"
+    },
+    {
+      "Status": "When you�re good, you�re good, when you�re awesome you�re me."
+    },
+    {
+      "Status": "No status available."
+    },
+    {
+      "Status": "Behind every successful man is a surprised woman."
+    },
+    {
+      "Status": "If i had a gun with two bullets and i was with hitler,bin laden and you insert your ex or your enemy�s name],i would shoot you twice."
+    },
+    {
+      "Status": "I am someone else when I�m with you, someone more like myself."
+    },
+    {
+      "Status": "Status under construction of life."
+    },
+    {
+      "Status": "I have a new theory in life�what other people think of me is truly none of my business!"
+    },
+    {
+      "Status": "I speak my mind. I never mind what I speak."
+    },
+    {
+      "Status": "I enjoy when people show Attitude to me because it shows that they need an Attitude to impress me!"
+    },
+    {
+      "Status": "Xcuse me, I found something under my shoes. Oh its your attitude."
+    },
+    {
+      "Status": "I hate when people look at my phone while I�m typing. It�s not that I have something to hide�"
+    },
+    {
+      "Status": "It�s just none of their damn business.."
+    },
+    {
+      "Status": "Attitude: The triumph of imagination over intelligence."
+    },
+    {
+      "Status": "Life always offers you a second chance. it's called tomorrow."
+    },
+    {
+      "Status": "Enjoy your own life without comparing it with that of others."
+    },
+    {
+      "Status": "There are million things in the world I want, but all I need is you."
+    },
+    {
+      "Status": "Stop checking my status ! Go Get A Life :P"
+    },
+    {
+      "Status": "I don�t have a bad handwriting, I have my own FONT!!"
+    },
+    {
+      "Status": "When Sum One Hates You for no reason�����..Give them a reason :P :D"
+    },
+    {
+      "Status": "Everything in your life is a reflection of a choice you have made. If you want a different result, make a different choice."
+    },
+    {
+      "Status": "Love the life you live, and live the life you love."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "The best mirror is an old friend."
+    },
+    {
+      "Status": "I don�t have time to hate people,who hate me.because, I�m too busy in loving people who love me.."
+    },
+    {
+      "Status": "It�s the good girls who keep diaries;the bad girls never have the time."
+    },
+
+
+    {
+      "Status": "I don�t miss him, I miss who I thought he was."
+    }
+  ]
+}

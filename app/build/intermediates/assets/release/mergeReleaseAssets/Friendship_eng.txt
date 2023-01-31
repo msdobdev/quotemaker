@@ -1,0 +1,387 @@
+{
+  "StausArray": [
+    {
+      "Status": "Friends are the siblings God never gave us."
+    },
+	{
+      "Status": "Remember that the most valuable antiques are dear old friends."
+    }
+	,
+	{
+      "Status": "There are no strangers here; Only friends you haven't yet met."
+    }
+	,
+	{
+      "Status": "My best friend is the one who brings out the best in me."
+    }
+	,
+	{
+      "Status": "The language of friendship is not words but meanings."
+    }
+	,
+	{
+      "Status": "I have learned that to be with those I like is enough."
+    }
+	,
+	{
+      "Status": "Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."
+    } 
+	,
+	{
+      "Status": "Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."
+    }
+	,
+	{
+      "Status": "Some people go to priests; others to poetry; I to my friends."
+    }
+	,
+	{
+      "Status": "It takes a long time to grow an old friend."
+    }
+	,{
+      "Status": "A true friend is someone who is there for you when he'd rather be anywhere else."
+    },
+	{
+      "Status": "A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."
+    }
+	,
+	{
+      "Status": "Be slow in choosing a friend, slower in changing."
+    }
+	,
+	{
+      "Status": "It's the friends you can call up at 4 a.m. that matter."
+    }
+	,
+	{
+      "Status": "Friends and good manners will carry you where money won't go."
+    }
+	,
+	{
+      "Status": "No person is your friend who demands your silence, or denies your right to grow."
+    }
+	,
+	{
+      "Status": "I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."
+    }
+	,
+	{
+      "Status": "Things are never quite as scary when you've got a best friend."
+    }
+	,
+	{
+      "Status": "A friend is someone who gives you total freedom to be yourself."
+    }
+	,
+	{
+      "Status": "True friends stab you in the front."
+    }
+	,{
+      "Status": "There is nothing on this earth more to be prized than true friendship."
+    },
+	{
+      "Status": "One of the most beautiful qualities of true friendship is to understand and to be understood."
+    }
+	,
+	{
+      "Status": "Walking with a friend in the dark is better than walking alone in the light."
+    }
+	,
+	{
+      "Status": "In the sweetness of friendship let there be laughter, and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed."
+    }
+	,
+	{
+      "Status": "It is one of the blessings of old friends that you can afford to be stupid with them."
+    }
+	,
+	{
+      "Status": "I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun."
+    }
+	,
+	{
+      "Status": "There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."
+    }
+	,
+	{
+      "Status": "A man's friendships are one of the best measures of his worth."
+    }
+	,
+	{
+      "Status": "Be slow to fall into friendship; but when thou art in, continue firm and constant."
+    }
+	,
+	{
+      "Status": "There is no friend like an old friend who has shared our morning days, no greeting like his welcome, no homage like his praise."
+    }
+	,{
+      "Status": "A true friend is one who overlooks your failures and tolerates your success!"
+    },
+	{
+      "Status": "Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over."
+    }
+	,
+	{
+      "Status": "Friends are born, not made."
+    }
+	,
+	{
+      "Status": "You find out who your real friends are when you're involved in a scandal"
+    }
+	,
+	{
+      "Status": "We call that person who has lost his father, an orphan; and a widower that man who has lost his wife. But that man who has known the immense unhappiness of losing a friend, by what name do we call him? Here every language is silent and holds its peace in impotence."
+    }
+	,
+	{
+      "Status": "Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart."
+    }
+	,
+	{
+      "Status": "Nothing but heaven itself is better than a friend who is really a friend."
+    }
+	,
+	{
+      "Status": "I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."
+    }
+	,
+	{
+      "Status": "To avoid being mistaken for a sellout, I chose my friends carefully. The more politically active black students. The foreign students. The Chicanos. The Marxist professors and structural feminists and punk-rock performance poets."
+    }
+	,
+	{
+      "Status": "If it's very painful for you to criticize your friends - you're safe in doing it. But if you take the slightest pleasure in it, that's the time to hold your tongue."
+    }
+	,{
+      "Status": "Many a person has held close, throughout their entire lives, two friends that always remained strange to one another, because one of them attracted by virtue of similarity, the other by difference."
+    },
+	{
+      "Status": "Mighty proud I am that I am able to have a spare bed for my friends."
+    }
+	,
+	{
+      "Status": "It seems to me that trying to live without friends is like milking a bear to get cream for your morning coffee. It is a whole lot of trouble, and then not worth much after you get it."
+    }
+	,
+	{
+      "Status": "The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares."
+    }
+	,
+	{
+      "Status": "True friendship is like sound health; the value of it is seldom known until it is lost."
+    }
+	,
+	{
+      "Status": "But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine."
+    }
+	,
+	{
+      "Status": "True friendship can afford true knowledge. It does not depend on darkness and ignorance."
+    }
+	,
+	{
+      "Status": "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone."
+    }
+	,
+	{
+      "Status": "Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day."
+    }
+	,
+	{
+      "Status": "A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."
+    }
+	,
+	{
+      "Status": "No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."
+    }
+	,
+	{
+      "Status": "True happiness arises, in the first place, from the enjoyment of one's self, and in the next, from the friendship and conversation of a few select companions."
+    }
+	,
+	{
+      "Status": "I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."
+    }
+	,
+	{
+      "Status": "Real friendship, like real poetry, is extremely rare - and precious as a pearl."
+    }
+	,
+	{
+      "Status": "Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together."
+    }
+	,
+	{
+      "Status": "The lust and attraction are often a given in a romance novel - I want to dig into the elements of true friendship that form a foundation for a solid, gonna-last-forever romantic relationship."
+    }
+	,
+	{
+      "Status": "I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship."
+    }
+	,
+	{
+      "Status": "No matter what message you are about to deliver somewhere, whether it is holding out a hand of friendship, or making clear that you disapprove of something, is the fact that the person sitting across the table is a human being, so the goal is to always establish common ground."
+    }
+	,
+	{
+      "Status": "Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."
+    }
+	,
+	{
+      "Status": "Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."
+    }
+	,{
+      "Status": "A friendship that like love is warm; A love like friendship, steady."
+    },
+	{
+      "Status": "Friendship is a pretty full-time occupation if you really are friendly with somebody. You can't have too many friends because then you're just not really friends."
+    }
+	,
+	{
+      "Status": "I know, firsthand, that soccer brings people together - all it takes is a ball and a few people, and the seeds of friendship are planted."
+    }
+	,
+	{
+      "Status": "I keep my friends as misers do their treasure, because, of all the things granted us by wisdom, none is greater or better than friendship."
+    }
+	,
+	{
+      "Status": "I have long enjoyed the friendship and companionship of Republicans because I am by instinct a teacher, and I would like to teach them something."
+    }
+	,
+	{
+      "Status": "There's really not much friendship between the girls on tour. There's so much rivalry and jealousy, so everyone just hangs out in their own camp. In the locker room and players' lounge, you can feel the jealousy."
+    }
+	,
+	{
+      "Status": "Whenever people reach out the hand of friendship towards me, I am not going to refuse that hand."
+    }
+	,
+	{
+      "Status": "To be poor does not mean you lack the means to extend charity to another. You may lack money or food, but you have the gift of friendship to overwhelm the loneliness that grips the lives of so many."
+    }
+	,
+	{
+      "Status": "she greets me when I come home. Sits with me when I cry. And loves me no matter what. she is my best friend. My dog"
+    }
+	,
+	{
+      "Status": "Sweat makes good friendship cement."
+    }
+	,{
+      "Status": "Pity and friendship are two passions incompatible with each other"
+    },
+	{
+      "Status": "Friendship is essentially a partnership."
+    }
+	,
+	{
+      "Status": "All I need in my life is a few great people who can make me laugh, let me cry and will always be there when I need them!"
+    }
+	,
+	{
+      "Status": "We ask our friends for permission or advice, when what we really want is collaboration and collusion."
+    }
+	,
+	{
+      "Status": "You can't build anything with a flimsy foundation. Friendship is the foundation."
+    }
+	,
+	{
+      "Status": "Friendship is two-sided. It isn't a friend just because someone's doing something nice for you. That's a nice person. There's friendship when you do for each other. It's like marriage - it's two-sided."
+    }
+	,
+	{
+      "Status": "Maintenance of good relations with the neighbours, friendship to all, malice to none is the policy I pursue throughout my life."
+    }
+	,
+	{
+      "Status": "Friendship is an arrangement by which we undertake to exchange small favors for big ones."
+    }
+	,
+	{
+      "Status": "The feeling of friendship is like that of being comfortably filled with roast beef; love, like being enlivened with champagne."
+    }
+	,
+	{
+      "Status": "No matter which way were look at our pasts, we always remember the ones who made an impact on who we are today."
+    }
+	,{
+      "Status": "Love and friendship exclude each other."
+    },
+	{
+      "Status": "Have you ever felt like you are alone even when you are standing in a room full of people? Today is one of those days!"
+    }
+	,
+	{
+      "Status": "The greatest healing therapy is friendship and love."
+    }
+	,
+	{
+      "Status": "If you call me friend, act like it all the time, not only when you want something that you think I might have."
+    }
+	,
+	{
+      "Status": "I truly hope everything works out in the end, but you have to remember that friendship is a two way street not a one-way!!!"
+    }
+	,
+	{
+      "Status": "My inspiration are the woman, friendship, and loneliness."
+    }
+	,
+	{
+      "Status": "FRIENDS are often like flower gardens sometimes you have to weed them out!!!"
+    }
+	,
+	{
+      "Status": "A friend can say 1 simple thing and bring an instant smile to your face."
+    }
+	,
+	{
+      "Status": "The only time you remember me, is when you need a backup friend because your fighting with your REAL best friend�"
+    }
+	,
+	{
+      "Status": "a friendship after a fight is like a road after a rain: Still strong in parts, but completely washed away in other parts."
+    }
+	,{
+      "Status": "There is no friendship out there. When you race, you have to fight. That's it."
+    },
+	{
+      "Status": "Found that some friends were best left in the past because the memories of yesterday are nicer than the realities of today."
+    }
+	,
+	{
+      "Status": "Friendship has always belonged to the core of my spiritual journey."
+    }
+	,
+	{
+      "Status": "There has to be chemistry in a duet, but if you go beyond the point of friendship and attraction, you lose something. "
+    }
+	,
+	{
+      "Status": "The rules of friendship are tacit, unconscious; they are not rational. In business, though, you have to think rationally. "
+    }
+	,
+	{
+      "Status": "Much of my work over the years has developed the premise that women's styles of friendship and conversation aren't inherently better than men's, simply different."
+    }
+	,
+	{
+      "Status": "Music is the social act of communication among people, a gesture of friendship, the strongest there is."
+    }
+	,
+	{
+      "Status": "How can sincerity be a condition of friendship? A taste for truth at any cost is a passion which spares nothing."
+    }
+	,
+	{
+      "Status": "Time makes friendship stronger, but love weaker."
+    }
+	,
+	{
+      "Status": "Any friendship or relationship is about a language."
+    }
+ 
+ ]
+}

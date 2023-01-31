@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgcolor_dark">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/backbutton"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:padding="@dimen/_10sdp"
+            android:src="@drawable/ic_back"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/refreshbtn"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/_10sdp"
+            android:src="@drawable/ic_refresh"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_toRightOf="@+id/backbutton"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Discover"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/_16sdp"
+            android:textStyle="normal" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/ic_top_shadow"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bg_white_top_round"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_5sdp">
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/refreshlistlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/ad_container"
+            android:layout_centerInParent="true">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:overScrollMode="never"
+                android:scrollbars="none"
+                android:visibility="visible">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:descendantFocusability="blocksDescendants">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+<!--                        <RelativeLayout-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_centerHorizontal="true"-->
+<!--                            android:background="#fff">-->
+
+                            <androidx.recyclerview.widget.RecyclerView
+                                android:id="@+id/recyclerView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true" />
+<!--                        </RelativeLayout>-->
+
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <RelativeLayout
+            android:id="@+id/ad_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+            <RelativeLayout
+                android:id="@+id/ad_default_layout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@android:color/darker_gray">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="sans-serif-smallcaps"
+                    android:gravity="center"
+                    android:text="Space for ad"
+                    android:textColor="@android:color/black" />
+            </RelativeLayout>
+            <LinearLayout
+                android:id="@+id/ly_adcontainer_design"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerInParent="true"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/loader_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#4D33364E"
+        android:padding="@dimen/_10sdp"
+        android:orientation="vertical"
+        android:visibility="visible"
+        android:gravity="center_horizontal">
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            app:indicatorColor="@color/theme_color"
+            app:indicatorName="BallPulseSyncIndicator" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/theme_color"
+            android:text="Loading..." />
+    </LinearLayout>
+</RelativeLayout>

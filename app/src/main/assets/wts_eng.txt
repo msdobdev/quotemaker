@@ -1,0 +1,312 @@
+{
+  "StausArray": [
+    {
+      "Status": "Keep Smiling & One day Life will tired of upsetting you :)"
+    },
+    {
+      "Status": "Don't tell people your dreams, SHOW THEM!"
+    },{
+      "Status": "If I had a pound for every time I got suspicious... I'd wonder who the f&*k was paying me, and why?"
+    },{
+      "Status": "I m not special, I am just a LIMITED EDITION."
+    },{
+      "Status": "There are 3 types of people in the world- vegetarian, non-veterinarian & Tuesday Saturday "
+    },{
+      "Status": "There is only 1 thing 2 do, 3 words for you - I Love You"
+    },{
+      "Status": "Mom's logic: If you go wild and break your legs, do not run to me and cry .."
+    },{
+      "Status": "Borrow money from a pessimist- - he doesn't expect it back."
+    },{
+      "Status": "Scratch here �������������� to reveal my status :P "
+    },{
+      "Status": "Our marriage is like a workshop. I work and my wife shops. "
+    },{
+      "Status": "I'm so good at sleeping, I can do it with my eyes CLOSED :)"
+    },{
+      "Status": "For Sale: Parachute. Only used once, never opened.  "
+    },{
+      "Status": "when i was BORN i was so surprised, I didn't talk for a year & a half."
+    },{
+      "Status": "You compliment someone for their mustaches, & suddenly she isn't your friend anymore."
+    },{
+      "Status": "Do not be afraid to step on people... Mario made a career from it."
+    },{
+      "Status": "Never laugh at your wife's choices... you're one of them ..."
+    },{
+      "Status": "If i had the world in mah hands, i'd give it all to you :) "
+    },{
+      "Status": "If a hug tell how much i love you, i would hold you in my arms forever. "
+    },{
+      "Status": "Every LOVE story is beautiful, but ours if my Favorite. <3 "
+    },{
+      "Status": "Every moment i spent with you is like a dream come true <3 "
+    },{
+      "Status": "Some friends only last but so long, then they step on you like dirt. :("
+    },
+    {
+      "Status": "If you can�t save the relationship, at least save your pride."
+    },
+    {
+      "Status": "Is trying very hard to keep it all together, but has run out of string and super glue."
+    },
+    {
+      "Status": "I will never stop caring, but if you decide to push me away, I will go."
+    },
+    {
+      "Status": "I like to listen to sad music when I'm sad to make me double sad."
+    },
+    {
+      "Status": "People are lonely because they build walls instead of bridges.."
+    },
+    {
+      "Status": "Nothing is perfect, but when I�m with you everything is perfect."
+    },
+    {
+      "Status": "No matter what has happened. No matter what you�ve done. No matter what you will do. I will always love you. I swear it."
+    },
+    {
+      "Status": "Dear Insomnia..I think we really need to break-up�I don�t love you anymore�"
+    },
+    {
+      "Status": "Wants to remind you that even though you can not go back and make a brand new start, you can always start now and make a brand new ending."
+    },
+    {
+      "Status": "The essence of romantic love is that wonderful beginning, after which sadness and impossibility may become the rule."
+    },
+    {
+      "Status": "When I dream, I dream of you. Maybe one day, dreams will come true. Because, I really love you.Pls Come Back"
+    },
+    {
+      "Status": "Behind every successful man is a surprised woman."
+    },
+    {
+      "Status": "A dog is the only thing on earth that loves you more than he loves himself."
+    },
+    {
+      "Status": "I am someone else when I�m with you, someone more like myself."
+    },
+    {
+      "Status": "Love is what makes you smile when you�re tired."
+    },
+    {
+      "Status": "If someone really loves you, they wouldn�t let you slip away no matter how big the situation is."
+    },{
+      "Status": "Being with you makes me feel like for once in my life I don't have to work so hard on being happy, it just happens."
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "You will find a girl prettier than me, smarter than me, and funnier than me, but you will never find a girl just like me."
+    },
+    {
+      "Status": "Beauty Fades After Time, But Personality Is Forever!"
+    },
+    {
+      "Status": "I�m not single, I�m just romantically challenged."
+    },
+    {
+      "Status": "Never chase love, affection, or attention. If it isn�t given freely by another person, it isn�t worth having."
+    },{
+      "Status": "A Heart Dies, When Its Not Able To Share Its Feelings But A Heart Kills It Self When Another Heart Does Not Understand Its Feeling�!!�"
+    },
+    {
+      "Status": "Do not Trust Too Much, Don�t Love Too Much And Don�t Hope Too Much .. Because That Too Much Can Hurt You In The Same Way So Much !"
+    },
+    {
+      "Status": "I Walk Around With A Smile On My Face, But Underneath Is The Lonely Tears That Only Come Out At Night After Everyone Goes To Sleep�Praying Things Get Better!"
+    },
+    {
+      "Status": "Some people pass through our lives in a shorter time frame than we had hoped to teach us things they never could have taught if they stayed."
+    },
+    {
+      "Status": "It Hurts To Love Someone And Not Be Loved In Return, But What Hurts More Is To Love Someone, And Never Find The Courage To Let Them Know How You Feel."
+    },
+    {
+      "Status": "I Don�t Believe That Time Heals Everything. Minutes, Hours, Months, And Years Just Give You More Time To Realize What You�re Missing."
+    },
+    {
+      "Status": "Breaking Up Is Just Like Having The Worst Nightmare After Having The Best Dream"
+    },
+    {
+      "Status": "When I look you in the eyes for those few seconds,it is like a never ending life with you,but then I look away,because I know we will never be together ever"
+    },
+    {
+      "Status": "There are songs that can really make you sad and cry when you hear them. But it�s actually not the song that makes you cry, it�s the people behind the memories!!!"
+    },
+    {
+      "Status": "No one knows what it�s like to be the bad man, to be the sad man, behind blue eyes!!!"
+    },
+    {
+      "Status": "You Always Get Hurt The Moment You Begin To Care."
+    },
+    {
+      "Status": "The most painful memory.. when I walked away and you let me go."
+    },
+    {
+      "Status": "The difference between like, love and in love is the same difference between for now, for a while and forever."
+    },
+    {
+      "Status": "It is easier to get to the sun than to your heart!!!!"
+    },
+    {
+      "Status": "Love is the most beautiful lie of all."
+    },
+    {
+      "Status": "3 things I want in a relationship: Eyes that wont cry, lips than wont lie, and love that wont die!!!"
+    },
+    {
+      "Status": "Love can be demonstrated not defined."
+    },
+    {
+      "Status": "There is always that person in life that you give several chances, it�s because you love them more than you hate them."
+    },
+    {
+      "Status": "Being someone's first love may be great, but to be their last is beyond perfect."
+    },
+    {
+      "Status": "Only you can give me that feeling."
+    },
+    {
+      "Status": "You think you�re one of millions but you�re one in a million to me."
+    },
+    {
+      "Status": "I usually don�t get attached too easily, but that changes when I met you."
+    },
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can�t see it. But we can feel it."
+    },{
+      "Status": "1 day you will see what you lost. 1 day I'll see what I gained."
+    },
+    {
+      "Status": "I didn�t choose you, My heart did."
+    },
+    {
+      "Status": "Love is just love, it can never explained!!!"
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "The only way is to move on, because if you don't you'll be suck where you are."
+    },
+    {
+      "Status": "It's never going to be the same again. And that's whats killing me."
+    },
+    {
+      "Status": "It must be really sad to not be able to do something you love as the years go by."
+    },
+    {
+      "Status": "Wake me up when things are going right for once."
+    },
+    {
+      "Status": "Smile and no one will see how broken you are inside.I�m missing something in my life thes days."
+    },
+    {
+      "Status": "A broken relationship would make you feel more lonely than when you were single.."
+    },
+    {
+      "Status": "Sometimes there is so much we feel but so little we can say."
+    },
+    {
+      "Status": "The higher you climb on love's ladder,the harder you fall."
+    },
+    {
+      "Status": "Someone asked me How�s life? I just smiled and replied, She�s fine :"
+    },
+    {
+      "Status": "There is always that person in life that you give several chances, it�s because you love them more than you hate them."
+    },
+    {
+      "Status": "Why does it always have to be the one that you love the most hits you the hardest? "
+    },
+    {
+      "Status": "loves when you listen to a song and it relates 100% sure to how you feel."
+    },
+    {
+      "Status": "The truth hurts for a little while, but lies hurt for a lifetime."
+    },
+    {
+      "Status": "I hate being broken. I hate that I cannot go back."
+    },
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can�t see it. But we can feel it."
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad.."
+    },
+    {
+      "Status": "Some friends only last but so long, then they step on you like dirt. :("
+    },
+    {
+      "Status": "If you can�t save the relationship, at least save your pride."
+    },
+    {
+      "Status": "Is trying very hard to keep it all together, but has run out of string and super glue."
+    },
+    {
+      "Status": "I can�t go a day without thinking about you."
+    },
+    {
+      "Status": "You re special to me in every way. Thank you for being who you are."
+    },
+    {
+      "Status": "Your LOVE and My EFFORT together will conquer the WORLD."
+    },
+    {
+      "Status": "LOVE THE ONE WHO MAKES UR WORLD BEAUTIFUL!!!!!!"
+    },
+    {
+      "Status": "If your heart was a prison, I would like to be sentenced for life."
+    },
+    {
+      "Status": "You are so beautiful that you give the sun a reason to shine."
+    },{
+      "Status": "Love the life you live, and live the life you love."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "The best mirror is an old friend."
+    },
+    {
+      "Status": "I don�t have time to hate people,who hate me.because, I�m too busy in loving people who love me.."
+    },
+    {
+      "Status": "It�s the good girls who keep diaries;the bad girls never have the time."
+    },
+    {
+      "Status": "We all are born to die don�t feel more special than me."
+    },
+    {
+      "Status": "I dont change , i just grew up. You should try it once ;)"
+    },
+    {
+      "Status": "I wish I could record my dreams and watch them later�."
+    },
+    {
+      "Status": "Even romeo went from being �in a relationship� to �it�s complicated�."
+    },
+    {
+      "Status": "Don�t Copy My Style."
+    },
+    {
+      "Status": "Type your status here...�"
+    },
+    {
+      "Status": "i am what i am.. i will never try to be some one else."
+    },
+    {
+      "Status": "P.M.A (Positive Mental Attitude), I'm positive, I'm mental and I know I have attitude!."
+    }
+   
+  ]
+}

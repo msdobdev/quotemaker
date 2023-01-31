@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quote Maker - Text On Photo</string>
+
+    <string name="crop_image_menu_crop">Crop</string>
+
+    <!--  test ids-->
+<!--      <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--      <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--      <string name="interstitial_id">ca-app-pub-5374504574366180/7236249156</string>-->
+<!--      <string name="native_id">ca-app-pub-5374504574366180/4226942437</string>-->
+<!--      <string name="app_open_id">ca-app-pub-5374504574366180/9096125734</string>-->
+
+      <string name="admob_app_id">ca-app-pub-5374504574366180~1172079232</string>
+      <string name="banner_id">ca-app-pub-5374504574366180/6912055721</string>
+      <string name="interstitial_id">ca-app-pub-5374504574366180/8033565702</string>
+      <string name="native_id">ca-app-pub-5374504574366180/9155075682</string>
+      <string name="app_open_id">ca-app-pub-5374504574366180/5195918874</string>
+</resources>

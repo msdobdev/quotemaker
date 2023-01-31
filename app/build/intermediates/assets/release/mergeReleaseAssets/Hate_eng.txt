@@ -1,0 +1,387 @@
+{
+  "StausArray": [
+    {
+      "Status": "TRUST…. Only a group of FiVe alphabets for ME…….."
+    },
+	{
+      "Status": "Life doesn’t always gives a second chance….treasure it.."
+    }
+	,
+	{
+      "Status": "Wish if I had a block option in my brain so that I would have blocked all your thoughts"
+    }
+	,
+	{
+      "Status": "Pretty words are not always true and true word are not always pretty"
+    }
+	,
+	{
+      "Status": "Karma is a bitch. And when the bitch barks, people complain about her being noisy…"
+    }
+	,
+	{
+      "Status": "I will never forget you, but I will try not to remember you again.."
+    }
+	,
+	{
+      "Status": "If You dont like me Get a map Drive to hell, Have a nice journey."
+    }
+	,
+	{
+      "Status": "When I See Your FACE, The Middle Finger Raised n say FCK You "
+    }
+	,
+	{
+      "Status": "I Hate u Because I Love you, I Know You Love Me But your ego stopped You."
+    }
+	,
+	{
+      "Status": "Its better to alone than to be with loosers"
+    }
+	,{
+      "Status": "What I hate more than bullies are those that standby and do nothing!!"
+    },
+	{
+      "Status": "If you dont like me, why do you talk about me? Its called jealousy! Live your own, life not mine!"
+    }
+	,
+	{
+      "Status": "People don’t like to see u bless they want you to stay on their level."
+    }
+	,
+	{
+      "Status": "It’s a shame that your so worried about my life, that you don’t have one of your own."
+    }
+	,
+	{
+      "Status": "haters will learn to love me, lovers will learn to hate me, but no matter what happens you will never learn to break me."
+    }
+	,
+	{
+      "Status": "Before you hate me, let me give you a reason."
+    }
+	,
+	{
+      "Status": "oh you don’t like me well my baseball bat would like to have a sleepover with your face."
+    }
+	,
+	{
+      "Status": "I want you to feel guilty from what you did to me. I want you to feel broken too from the pain I had to go through."
+    }
+	,
+	{
+      "Status": "wants one guy to prove that they are not all the same. I guess I’ll be waiting a while."
+    }
+	,
+	{
+      "Status": "i hate how we went from being strangers,to friends,to close friends, to almost something more, to nothing."
+    }
+	,{
+      "Status": "Sometimes i really think i have BETTER Friends than, Family"
+    },
+	{
+      "Status": "Sometimes I hate my eyes,because it’s the only part of my face that can’t hide my real emotions…"
+    }
+	,
+	{
+      "Status": "A few people say they care and love me, yet… I feel like the most hated person on earth."
+    }
+	,
+	{
+      "Status": "I love how people ALWAYS have something to say about you. But NEVER have anything to say about themselves."
+    }
+	,
+	{
+      "Status": "When everyone needed someone i was there for everyone, Now when i need someone there is none.."
+    }
+	,
+	{
+      "Status": "It hates when people can run their mouths behind yer back. Grow some balls and say it to my face!!!"
+    }
+	,
+	{
+      "Status": "It’s funny how your friendship with someone can totally change when you see their true color. Glad I’m not color blind!"
+    }
+	,
+	{
+      "Status": "Words can sting like any thing, but silence breaks the heart."
+    }
+	,
+	{
+      "Status": "It takes a few seconds to hurt people you love, but it takes years to heal. Try not to hurt your near and dear ones."
+    }
+	,
+	{
+      "Status": "I know that I’m not suppose to hate anyone, but I am so sure that God would understand on this one."
+    }
+	,{
+      "Status": "While you’re hating your life just because you can’t get what you want, someone is praying to have a life like yours."
+    },
+	{
+      "Status": "If I treated you how you treated me… trust me… you would hate me."
+    }
+	,
+	{
+      "Status": "Never Hate People Who Are Jealous Of You......instead Love Them.......!because They Are One Who Think Better Than Them.......!!"
+    }
+	,
+	{
+      "Status": "A Tiny Difference B/w Liking Nd Loving : Liking- Don Worry Dear Tk Cre.., Loving- Don Worry Dear I Wil Tk Cre"
+    }
+	,
+	{
+      "Status": "A Girl Once Asked Her Dad: Girl: Dad,y R My Frends Lyk Dat?dey Always Make Fun Of Me N Laugh Wen I Make Mistakes.dey Lyk It Wen Dey C Me Get Embarrassed.dey Co..."
+    }
+	,
+	{
+      "Status": "Whenever I Miss You, Stars Falls Down From The Sky. So Any Day If You Find The Sky Empty, Don't Blame Me! It's All Your Fault You Made Me Miss You So Much!!..."
+    }
+	,
+	{
+      "Status": "I Hate U I Hate U I Hate U I Hate U H= Happy To See You A=always Miss You T=thank U For Being My Dost E=every Dy I Remember You So Really I Hate You..."
+    }
+	,
+	{
+      "Status": "As We Go On We Rememba All D Times We Had 2gether.as Our Life Changes C*m Whateva We Will Still Be Friends Forever"
+    }
+	,
+	{
+      "Status": "The One And Only One Times, I Hated The Word Friends... Is When She Said:- Let Us Be Only Friends.....!"
+    }
+	,
+	{
+      "Status": "Hey Punk! You Owe Me Money. You've Been Living In My Heart And Haven't Paid Rent!"
+    }
+	,{
+      "Status": "My Lover Said Smoking Is Bad, I Stopped Smoking ! My Lover Said Drinking Is Bad, I Stopped Drinking! My Lover Said Ur Friends R Bad, I Stopped My Love..!! F**k ..."
+    },
+	{
+      "Status": "A Student Grabbed A Coin, Flipped It In The Air Said, Head, I Go To Sleep. Tail, I Watch A Movie. If It Stands On The Edge Ill Study:)..."
+    }
+	,
+	{
+      "Status": "Sari Duniya Se Ham Anjaan Bane Unke Liye Hamse Wahi Ab Anjaan Bane Bathe Hai Yeh Dil Ab Aur Intzaar Mat Kar Lagta Hai Woh Kisi Aur Ke Mehman Banye Bathe Hai ..."
+    }
+	,
+	{
+      "Status": "H**l Was Full So I Came Back.."
+    }
+	,
+	{
+      "Status": "What Is The True Meaning Of Study? S-leeping T-alking U- Nlimited Sms D-reaming Y-awning So Study Hard Enjoy Ur Life......."
+    }
+	,
+	{
+      "Status": "When People You Don't Even Know Hate You.... You Know Your The Best!"
+    }
+	,
+	{
+      "Status": "I Hate Every Thing In This Life But I Love The Love"
+    }
+	,
+	{
+      "Status": "Wife: I Hate The Beggar Who Came Yesterday! Husband: Why?? Wife: I Gave Him Food Yesterday Today He Gifted Me A Book How To Cook!!"
+    }
+	,
+	{
+      "Status": "Words From A Lover 4 His Love After His Breakup: Please Do Not Turn Back N Face Me Once More.. I Dnt Have Another Heart 2 Lose.! :-( 4 Me"
+    }
+	,
+	{
+      "Status": "- I Hate You - H: Happy To See You. A: Always Miss You So Much T: Take You In My Mind E: Everyday I Remember You So I Really Want To Hate You. (:..."
+    }
+	,
+	{
+      "Status": "In A Bath Room, A Boy Touches A Girl Everywhere! You Know Whose That Boy? Stupid Its Lifeboy Soap! Dirty People Always Think Dirty"
+    }
+	,
+	{
+      "Status": "Live Well, Laugh Often, And Love With All Of Your Heart!"
+    }
+	,
+	{
+      "Status": "You Broke My Heart Into Pieces How Can I Put It Back? I Want To Love Again And Replace You In My Heart But How Can I Love Again If My Heart Still Wants You......."
+    }
+	,
+	{
+      "Status": "When A Boy Sweeps You Off Your Feet, He's In The Perfect Position To Drop You On Your A*s "
+    }
+	,
+	{
+      "Status": "Those Who Can't Have U Hate U, Those Who Have U Can't Handle U, Those Who Abuse U Lose U, Then There Are Those Like Me Who Just Can't Refuse U!"
+    }
+	,
+	{
+      "Status": "I Hate You, You Hate Me, What Are We Waiting For? Let's Do It."
+    }
+	,
+	{
+      "Status": "You Are Messing With Something You Can't Possibly Understand."
+    }
+	,
+	{
+      "Status": "Sam: How To Convert My Favorutie Song As A Irritating Song? Krish: Just Set It As Your Alarm Tone !"
+    }
+	,
+	{
+      "Status": "When You Hate Someone You Will Try To Win Every Happiness Which Belongs To That Person. But When You Love Someone , You Will Sacrifice Everything To Win Just Th.."
+    }
+	,
+	{
+      "Status": "I Hate U I Hate U I Hate U H-happy To Talk To U A-always Miss U T-thinking Of U E-every Day I Remember U, So I Really I Hate You Friend!..."
+    }
+	,{
+      "Status": "No One Would Choose A Friendless Existence On Condition Of Having All The Other Things In The World."
+    },
+	{
+      "Status": "I Hate Everything About You Why Do I Love You ? You Hate Everything About Me Why Do You Love Me?"
+    }
+	,
+	{
+      "Status": "Three Person Were There Love,friendship,hate. Friendship-i Ac Create Both Of You. Hate-i Can Broke Both Of You. Love-i Love Both Of You Because Both Of You Are ..."
+    }
+	,
+	{
+      "Status": "Dont Hate Me Because Im Beautiful, Hate Me Because Your Boyfriend Thinks Im."
+    }
+	,
+	{
+      "Status": "We Come To Love Not By Finding A Perfect Person, But By Learning To See An Imperfect Person Perfectly."
+    }
+	,
+	{
+      "Status": "Love Me Or Hate Me Either Way You Are Thinking Of Me"
+    }
+	,
+	{
+      "Status": "In My Heart Is Your Love, But In My Eyes Is Your Hate"
+    }
+	,
+	{
+      "Status": "A Beautiful Line- ''care Is To Express Not To Impress People. When Care Is Expressed Truly People Will Be Mpress. Gud Day"
+    }
+	,
+	{
+      "Status": "Hurt U ?never. Love U ? Until Forever. Defend U? In A Heart Beat. Hate U Impossible. See How Many Friends U Have Send This Back."
+    }
+	,
+	{
+      "Status": "You Are Very Dump...xdxd...but I Love You"
+    }
+	,{
+      "Status": "Meaning Of Some Colors: Yellow For Special Friend White For Peace, Orange 4 Luck, Black For Hate, Red For Love And Pink For Likeness, So I Choose For ..."
+    },
+	{
+      "Status": "Nothing Is Illegal Until You Get Caught!"
+    }
+	,
+	{
+      "Status": "When I love you it’s real and when you get on my bad side, I hate you."
+    }
+	,
+	{
+      "Status": "Love is when you look into someones eyes and see everything you need."
+    }
+	,
+	{
+      "Status": "Sometimes I love you, sometimes I hate you, but there isn’t a day that goes by that I don’t miss you."
+    }
+	,
+	{
+      "Status": "I think it’s time for you to put your Big Girl panties on and grow the fuck up! Get a fucking life and get over yourself!"
+    }
+	,
+	{
+      "Status": "I love you more than words can define, feelings can express and thought can imagine."
+    }
+	,
+	{
+      "Status": "A big F#CK  YOU!! to the ones who’ve contributed to me feeling this way. I pray for the day karma bites and it’s your turn to hate your life!!"
+    }
+	,
+	{
+      "Status": "Don’t hate me because I’m beautiful,hate me because your boyfriend thinks I am."
+    }
+	,
+	{
+      "Status": "If you give up on me, I’m going to give up on me too."
+    }
+	,{
+      "Status": "Love is that first feeling you feel before all the bad stuff gets in the way."
+    },
+	{
+      "Status": "My attitude depends on the people in front of me…."
+    }
+	,
+	{
+      "Status": "I don’t have your attitude I have my own."
+    }
+	,
+	{
+      "Status": "Love to be alone, hate to be lonely."
+    }
+	,
+	{
+      "Status": "Hating me won’t make you pretty! IN FACT not even plastic surgery would help!"
+    }
+	,
+	{
+      "Status": "Hating is easy, love takes courage."
+    }
+	,
+	{
+      "Status": "Special, I wish you were special. But I can’t think of you that way. Want me, I need you to want me. i hate myself, but that’s ok."
+    }
+	,
+	{
+      "Status": "I hate stupid people… period!"
+    }
+	,
+	{
+      "Status": "I may not be the prettiest, cutest, sexiest girl, but i am me, sweet, dependable and one of the most honest people anyone could ever meet, love me or hate m"
+    }
+	,
+	{
+      "Status": "Hate a person seriously but never try to love for fun."
+    }
+	,{
+      "Status": "I hate feeling unimportant to people who are important to me."
+    },
+	{
+      "Status": "I’m fat. I’m ugly. I’m worthless. I’m useless. I’m depressed. I’m not ok. I want to die. I hate myself."
+    }
+	,
+	{
+      "Status": "You hate me?! Wow, I didn’t even know you existed."
+    }
+	,
+	{
+      "Status": "I know you won’t come back but my heart will take life long time to accept this."
+    }
+	,
+	{
+      "Status": "Life without mistakes is like, education without books."
+    }
+	,
+	{
+      "Status": "I get into these moods where I hate myself, I hate life and I hate the people around me. I don’t know why."
+    }
+	,
+	{
+      "Status": "One good thing about you, you’re easy to ignore."
+    }
+	,
+	{
+      "Status": "I don’t hate you I’m just not necessarily excited about your existence."
+    }
+	,
+	{
+      "Status": "Sometimes we need someone to simply be there. Not to fix anything or do anything in particular, but just to let us feel we are supported and cared about."
+    }
+	,
+	{
+      "Status": "If you want to learn to love better, you should start with a friend who you hate."
+    }
+ 
+ ]
+}

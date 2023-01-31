@@ -1,0 +1,417 @@
+{
+  "StausArray": [
+    {
+      "Status": "I wish I may..I wish I might..I wonder what I wish tonight..Hm-mm I wonder? Goodnight, sweet dreams"
+    },
+	{
+      "Status": "I’m off to the place where I’m always skinny and rich! Yes! Dreamland here I come!"
+    }
+	,
+	{
+      "Status": "Well good night one and all, hope tomorrow is a new BEAUTIFUL DAY FOR US ALL!..let it be blessed, love you all!"
+    }
+	,
+	{
+      "Status": "To all my friends and family: Good Night and Sweet Dream, if your not my friend or family then have a Bad Night and Nightmares"
+    }
+	,
+	{
+      "Status": "This status is being posted in advance… F#@% I hate mornings!!"
+    }
+	,
+	{
+      "Status": "Either my bed is calling my name or I’m hearing those voices again…."
+    }
+	,
+	{
+      "Status": "Got an appointment to see the back side of my eyes, be back around sunrise…"
+    }
+	,
+	{
+      "Status": "Good night all! if your lucky enough to dream about me tonight, congratulations. If not…don’t worry there’s always tomorrow."
+    }
+	,
+	{
+      "Status": "Going to meet two old friends, Pillow and Blanket. They know me well and can ALWAYS make me feel better. GOOD NIGHT."
+    }
+	,
+	{
+      "Status": "Good night whatsapp friends near and far. Praying you all have a restful night and a new blessing tomorrow."
+    }
+	,{
+      "Status": "Good Night all ! May the words of God dance in your ears and bring Joy to your hearts as you sleep tonight!"
+    },
+	{
+      "Status": "Good night moon, good night stars, good night you, wherever you are."
+    }
+	,
+	{
+      "Status": "I’ve been waiting for this moment ever since I got up… good night!"
+    }
+	,
+	{
+      "Status": "I think my pillow needs some head…and my mattress needs some ass…so I think I am gonna go to bed…Good Night…"
+    }
+	,
+	{
+      "Status": "Got an appointment to see the back side of my eyes, be back around sunrise."
+    }
+	,
+	{
+      "Status": "Going to wonderful place where I am rich and skinny and people don’t piss me off…Good night sweet dreams."
+    }
+	,
+	{
+      "Status": "I’ve heard sleep is good for you so I’m going to go try it out. Good Night… See you tomorrow !"
+    }
+	,
+	{
+      "Status": "All good things must come to an end, this day included. Good Night all …"
+    }
+	,
+	{
+      "Status": "That’s it for me, I hear my bed call .. so sweet dreams my friends … and good night to all."
+    }
+	,
+	{
+      "Status": "The day is over.. and I am over the day.. Good night, sweet dreams."
+    }
+	,{
+      "Status": "You’ll be the last thing I think of before I fall asleep and the first thing I think of when I wake up."
+    },
+	{
+      "Status": "May you dream of lovely things and to find them real."
+    }
+	,
+	{
+      "Status": "Each day I wish that my dreams will come true. Then I remember that I am now with you."
+    }
+	,
+	{
+      "Status": "Each night you sleep is a signal that a new beginning awaits you."
+    }
+	,
+	{
+      "Status": "One day, we will never have to say goodbye, only goodnight."
+    }
+	,
+	{
+      "Status": "Wake up with determination. Go to bed with satisfaction."
+    }
+	,
+	{
+      "Status": "Touch your heart and shut your eyes, dream sweet dreams and sleep tight."
+    }
+	,
+	{
+      "Status": "I wish I was there to hold you tight, instead of just sending you this loving “Good Night”."
+    }
+	,
+	{
+      "Status": "It was the possibility of darkness that made the day seem so bright. "
+    }
+	,
+	{
+      "Status": "Here is to hoping that angels will guard you while you dream and the gentle breezes of the night will keep you cool. If it is too cold, may your blankets be warm as you drift on to a gentle rest."
+    }
+	,{
+      "Status": "Day is over, night has come. Today is gone, what’s done is done. Embrace your dreams, through the night. Tomorrow comes with a whole new light."
+    },
+	{
+      "Status": "God’s guidance is like a small lamp in a dark forest… Doesn’t show everything at once… But gives enough light for the next step to be safe. Goodnight!"
+    }
+	,
+	{
+      "Status": "Night is to see the dreams and day is to make them true. So its good to sleep now and see the dreams. Good Night!"
+    }
+	,
+	{
+      "Status": "Always end the day, with a positive thought. No matter how hard things were, tomorrow’s a fresh opportunity to make it better."
+    }
+	,
+	{
+      "Status": "Stars can’t shine without darkness."
+    }
+	,
+	{
+      "Status": "If it comes back, I think that Friday night is not a good night to be on. "
+    }
+	,
+	{
+      "Status": "Love is one of the simplest feelings. All I dream about is capturing your heart each night. You already have my heart."
+    }
+	,
+	{
+      "Status": "I don’t dream about you, because I can never fall asleep thinking about you."
+    }
+	,
+	{
+      "Status": "All I wish that I could be there to say good night instead of sending you this message."
+    }
+	,
+	{
+      "Status": "My idea of a good night out is staying in."
+    }
+	,{
+      "Status": "Here is a short line to keep in touch because your always on my mind very much."
+    },
+	{
+      "Status": "At the end of the day, keep your spirits high. Tomorrow’s a new and better day."
+    }
+	,
+	{
+      "Status": "I have loved the stars too fondly to be fearful of the night. "
+    }
+	,
+	{
+      "Status": "I’m in my bed, you’re in your bed. One of us is in the wrong place."
+    }
+	,
+	{
+      "Status": "Make sure to be thankful before bed. What you think about now will determine the state of your dreams."
+    }
+	,
+	{
+      "Status": "Sleeping is nice. You forget about everything for a little while."
+    }
+	,
+	{
+      "Status": "As you fall asleep, I want you to remember what a good person you are. Remember that I admire you and care for you. Sweet dreams!"
+    }
+	,
+	{
+      "Status": "Take a look out your window now. Although we may be apart at the moment, we can both gaze up at the same moon."
+    }
+	,
+	{
+      "Status": "I know what you are the one, because when we are apart I feel incomplete. I never want to be without you. Goodnight."
+    }
+	,
+	{
+      "Status": "Tonight, I would walk a thousand miles just to be with you. Missing you, my love."
+    }
+	,
+	{
+      "Status": "Your bed just called me. It said that it wanted you and me to join it in dreamland. Let’s get moving and answer the call."
+    }
+	,
+	{
+      "Status": "I think the best way to get a good night sleep is to work hard throughout the day. If you work hard and, of course, work out."
+    }
+	,
+	{
+      "Status": "Dear sleep, I know we had problems when I was younger, but I love you now."
+    }
+	,
+	{
+      "Status": "There is something that is big, warm and fuzzy. Before you get too many ideas, you should know that it is a good night hug sent from me to you!"
+    }
+	,
+	{
+      "Status": "You cannot wake a person who is pretending to be asleep. "
+    }
+	,
+	{
+      "Status": "The sun is upset now, but the moon dances in joy. Although the sun is depressed at seeing you go, the moon gets to enjoy the whole night with you."
+    }
+	,
+	{
+      "Status": "Prayers should be the key in the morning and the lock at night."
+    }
+	,
+	{
+      "Status": "There is a time for many words, and there is also a time for sleep. "
+    }
+	,
+	{
+      "Status": "Sleep is the best meditation."
+    }
+	,
+	{
+      "Status": "Music is love, love is music, music is life, and I love my life. Thank you and good night."
+    }
+	,{
+      "Status": "I must get my beauty rest. See you in the morning."
+    },
+	{
+      "Status": "While you dream, I wish that each hope and goal comes true. I just want you to receive everything that you have wished for."
+    }
+	,
+	{
+      "Status": "Man should forget his anger before he lies down to sleep. "
+    }
+	,
+	{
+      "Status": "Give your romance life a boost; let your special lady know you’re thinking about her tonight."
+    }
+	,
+	{
+      "Status": "When you lay to sleep, erase all worries because my love will form a warm blanket around your loveliness to keep you safe."
+    }
+	,
+	{
+      "Status": "You’re my fantasy; my dream come true. The night is sweetest when you occupy my dreams."
+    }
+	,
+	{
+      "Status": "The night will play its music tonight. It’ll be sponsored by me.  It’ll sing of my love and of my affection  for the loveliness that is you. You’ll hear my music in your sleep.  Sleep tight my angel."
+    }
+	,
+	{
+      "Status": "If you feel
+Little bored,
+Little sick,
+Little lost,
+Little sad,
+You know whats wrong?
+Your suffering from lack of Vitamin Me!
+Good Night!"
+    }
+	,
+	{
+      "Status": "I was looking out the windows thinking about the person I care most and the person that came into my mind
+is you so just want to wish you...
+Good Night!
+"
+    }
+	,
+	{
+      "Status": "At this moment,
+3.7 Millions are sleeping,
+2.3 Millions are falling in Love,
+4.1 Million are eating
+&
+Only one cute person in the whole world is reading my SMS...
+"
+    }
+	,{
+      "Status": "In this lovely night,
+I pray to the blue moon to protect you through the night,
+the wind to blow away your stress and the twinkle stars to guide you the way,
+Sweet Dreams Good Night!"
+    },
+	{
+      "Status": "You are the reason why I have sleepless nights.
+You are the reason why I tend to hold my pillow tight.
+And you are the reason I can't sleep without saying Good Night!"
+    }
+	,
+	{
+      "Status": "When an angel came to me,
+He asked: What is your wish for tonight?
+I said Please take care of the person who's reading this message.
+Good Night!"
+    }
+	,
+	{
+      "Status": "Take a deep breath,
+Stand near the window,
+Look at the sky,
+There will be two stars twinkling brightly,
+You know what they are?
+They are my eyes always taking care of you...
+Good Night!"
+    }
+	,
+	{
+      "Status": "MOON has come to color your dreams,STARS to make them musical and My SMS to give you warm and peaceful sleep."
+    }
+	,
+	{
+      "Status": "My days are not done until I wish you good night and tell you how much I love you."
+    }
+	,
+	{
+      "Status": "When you see the moon, so big and blue; and you see the stars twinkling high in the sky; that is nature confirming my love to you. I love you in unimaginable ways. Sleep tight."
+    }
+	,
+	{
+      "Status": "In my heart, you rule as queen. Your radiance outshines that of the brightest of stars. Sleep tight."
+    }
+	,
+	{
+      "Status": "Look into the sky, locate the brightest star. See how it glows? My love for you shines brighter. Have a restful night."
+    }
+	,
+	{
+      "Status": "Here’s wishing my favourite human a beautiful night. If you get to dream land before me, wait for me, I’ll be right behind you."
+    }
+	,{
+      "Status": "Even in the dream, our hearts beat as one, entwined, fused. Nothing can ever come between us, I love you so much."
+    },
+	{
+      "Status": "Sleep tight, dream about us, when you wake, you’ll be in my arms."
+    }
+	,
+	{
+      "Status": "Nights are for lovers. You’re my one and only love. No will ever take your place beside me, my dear wife and friend."
+    }
+	,
+	{
+      "Status": "You deserve the most restful sleep my love. You spend your days making me feel so special. I hope this message makes you feel really special. Have a beautiful night my darling."
+    }
+	,
+	{
+      "Status": "Today was beautiful. I enjoyed every bit of it with you by my side. I hope tomorrow will be special too. Have a pleasant night."
+    }
+	,
+	{
+      "Status": "You’ve been running around my head all day. You should be tired by now. Go to bed baby and sleep well. Lots of love."
+    }
+	,
+	{
+      "Status": "You made my day so lovely. Let’s do it again tomorrow. Sleep tight my love."
+    }
+	,
+	{
+      "Status": "I can’t get enough of you. You’re in my thoughts all day; you’re in my dreams all night. How do you do it? Well, I’m not complaining. Have a good night."
+    }
+	,
+	{
+      "Status": "The sun has gone home to bed, darkness has come to take its place. Let the earth render sweet music and lull you sleep. Kisses."
+    }
+	,
+	{
+      "Status": "I love it when it’s night because I get to forget about my worries and lose myself in your embrace."
+    }
+	,{
+      "Status": "Nothing is more important to me tonight than you. Share your thoughts baby, I’m here to make your burdens light."
+    },
+	{
+      "Status": "The day’s toil is over, the night whispers in hushed tones, sleep relaxed my love. tomorrow will be better."
+    }
+	,
+	{
+      "Status": "As you lay in bed to sleep, may God’s Angels form a protective edge around you and keep you safe. Good night my love."
+    }
+	,
+	{
+      "Status": "May your sleep be filled with the peace that you deserve. Have a restful night."
+    }
+	,
+	{
+      "Status": "I pray your sleep be filled with beautiful dreams. May demons be far away from you. Good night."
+    }
+	,
+	{
+      "Status": "May your dreams be filled with inspirations and ideas for a better tomorrow. Good night."
+    }
+	,
+	{
+      "Status": "The moon will not smite you tonight. It will join with God’s other creatures to watch over your lovely form and keep evil away from you. Good night my love."
+    }
+	,
+	{
+      "Status": "No one deserves a beautiful night more than you my darling. I pray for just that for you. Good night."
+    }
+	,
+	{
+      "Status": "May all your fears be calmed tonight. May you be visited in your dreams with answers to troubling issues. Have a beautiful night sweetheart."
+    }
+	,
+	{
+      "Status": "You’re the answers to my prayers, the woman of my dreams. May I not lose you in sleep. May I not lose you at all. Sweet dreams."
+    }
+ 
+ ]
+}

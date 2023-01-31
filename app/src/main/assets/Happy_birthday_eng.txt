@@ -1,0 +1,387 @@
+{
+  "StausArray": [
+    {
+      "Status": "I wish you all the best in your future endeavors, just have fun today, happy bday to you!"
+    },
+	{
+      "Status": "Wishes do come true and one day you will realize it was in front of you, happy birthday!"
+    }
+	,
+	{
+      "Status": "It is quite nice to have someone to like you and make you feel special, wonderful birthday to you!"
+    }
+	,
+	{
+      "Status": "Amazing, is it not to be able to be with someone for so long? Best birthday and enjoy today."
+    }
+	,
+	{
+      "Status": "You know what I want the way I want it, you know me oh so well, happy birthday to you!"
+    }
+	,
+	{
+      "Status": "One day, we will look at this on your birthday and we will all laugh at ourselves doing the things we were least expected to do. Wonderful bday!"
+    }
+	,
+	{
+      "Status": "I keep forgetting that I have a soft heart, that I get sad when you are careless with your words, best bday to you!"
+    }
+	,
+	{
+      "Status": "There is a chance that things might be better than they were, best bday to you, dear."
+    }
+	,
+	{
+      "Status": "It is impossible not to stare at your face when it is so beautiful. Wonderful bday to you!"
+    }
+	,
+	{
+      "Status": "Let us just say that there are things that happens for a reason, best birthday to you, girl."
+    }
+	,{
+      "Status": "Some days, I just want to keep all of my friends in touch with me but it is so hard. Wonderful birthday!"
+    },
+	{
+      "Status": "I may not be able to be with you 24/7 but I am still here for you, happy bday to you!"
+    }
+	,
+	{
+      "Status": "This birthday only happens once a year, might as well maximize it, happy bday to you!"
+    }
+	,
+	{
+      "Status": "I am so excited to spend your special day with you, happy birthday to you, have fun!"
+    }
+	,
+	{
+      "Status": "Today is the most exciting birthday of my life and I hope you do the same, wonderful birthday."
+    }
+	,
+	{
+      "Status": "You are my ray of sunshine on a stormy day and I thank God for you. Best birthday!"
+    }
+	,
+	{
+      "Status": "You fill my life with laughter, with love and with hope and I could not ask for more. Happy birthday to you and may you never forget me as you live."
+    }
+	,
+	{
+      "Status": "My life will never be the same if you were not there, you complete me, wonderful bday!"
+    }
+	,
+	{
+      "Status": "Just think of one reason what is there not to love about you? Best bday to you!"
+    }
+	,
+	{
+      "Status": "You make me happy in ways that I did not expect nor did you, best bday to you!"
+    }
+	,{
+      "Status": "You have made my life so much brighter, wonderful bday to you my beloved husband."
+    },
+	{
+      "Status": "Happy birthday to you, my wife, may you always be like this: charming and innocent."
+    }
+	,
+	{
+      "Status": "Friends definitely make life more colorful than it already is, best birthday to you."
+    }
+	,
+	{
+      "Status": "Give yourself some credit for still living and surviving up to this point, you are awesome! Happy bday to you and have some fun of your life."
+    }
+	,
+	{
+      "Status": "Dear mother, thank you for giving birth to me, I am sending you best birthday wishes for you on your special day!"
+    }
+	,
+	{
+      "Status": "I promise to be there for you no matter how tough life gets, so happy birthday to you!"
+    }
+	,
+	{
+      "Status": "You are the stars in my dark universe, you make me happy. Wonderful birthday, my love."
+    }
+	,
+	{
+      "Status": "Love, there is no one else in my heart but you and you alone. Best birthday to you!"
+    }
+	,
+	{
+      "Status": "Some days, it feels like there is something wrong with me, that I do not like to be alone that I want to be with someone that I know. Wonderful bday!"
+    }
+	,
+	{
+      "Status": "For everything that you have ever done for me I want to thank you, best bday!"
+    }
+	,{
+      "Status": "Whenever I see you, I space out because I look at you so dreamily. Happiest birthday!"
+    },
+	{
+      "Status": "Do you want to see the world with me? I want to see it with you, best bday to you!"
+    }
+	,
+	{
+      "Status": "You make me wish that every time we meet would last forever, wonderful bday to you!"
+    }
+	,
+	{
+      "Status": "Always tell me that you care and I will do the same for you. Best birthday my dear!"
+    }
+	,
+	{
+      "Status": "Don’t be afraid that no one will love you, there is God who always ready to love you, wonderful birthday!"
+    }
+	,
+	{
+      "Status": "God’s power is greater than your problem, so just have a happy bday for today."
+    }
+	,
+	{
+      "Status": "I know it’s hard, but, you need to move on from your past and be happy on your birthday."
+    }
+	,
+	{
+      "Status": "Friends are people that you can count on, that you can trust during times of trouble, I will be your friend from now on, so happy bday to you!."
+    }
+	,
+	{
+      "Status": "When you feel that the world is crashing down on you, I will be here, happy birthday!"
+    }
+	,
+	{
+      "Status": "Do not be discouraged by anything at all, I will stand beside you through it all, wonderful birthday to you!"
+    }
+	,{
+      "Status": "May you find out what it was you have been looking for after so long, best birthday!"
+    },
+	{
+      "Status": "Reaching this point was not easy but you made it anyway, wonderful bday to you!"
+    }
+	,
+	{
+      "Status": "You are beautiful in ways you will never know and that is what made me love you. Best bday to you, my dear."
+    }
+	,
+	{
+      "Status": "No matter how hard the wind blows, I will stand beside you until it stops, best bday!"
+    }
+	,
+	{
+      "Status": "Life is exactly the way it seems, you just need to claw your way out of the rubble, wonderful bday to you!"
+    }
+	,
+	{
+      "Status": "Life is more of the battle of wills when you think about it, we can do this! Happy birthday."
+    }
+	,
+	{
+      "Status": "You are going through your hardest days right now but that is okay, time will pass and you will be okay, I am just right here for you, happy birthday!"
+    }
+	,
+	{
+      "Status": "Later on, you will realize who your real friends really are and who are just there when they need you, do not let it turn you into a bad person. Best birthday!"
+    }
+	,
+	{
+      "Status": "You seem to be so full of energy even so early in the morning, wonderful birthday to you, love!"
+    }
+	,
+	{
+      "Status": "At first, I did not know what I was going to think but here I am not wanting to let go of you, afraid to be left alone. Happy bday to you and have fun!"
+    }
+	,
+	{
+      "Status": "Enjoy every second of your life because it might just be your last. Happy bday to you!"
+    }
+	,
+	{
+      "Status": "You are my best buddie that laughs at all of my jokes and I love you. Wonderful birthday!"
+    }
+	,
+	{
+      "Status": "Do not let this be the last birthday we celebrate together, more years to come, best birthday!"
+    }
+	,
+	{
+      "Status": "People may judge you from your appearance but it does not mean that is who you are, you are so much more if you look at it thoroughly, wonderful bday!"
+    }
+	,
+	{
+      "Status": "You will always be the person that I call when I need to talk to someone, best bday!"
+    }
+	,
+	{
+      "Status": "To the person who had withstand so many trials with me, best bday to you, sister!"
+    }
+	,
+	{
+      "Status": "One of the three things in life that you must have is hope, always be optimistic about things, girl."
+    }
+	,
+	{
+      "Status": "When life feels like you are going to fail, just close your eyes and think of me, I will be here to support you all through out. Happy birthday to you!"
+    }
+	,
+	{
+      "Status": "You deserve to be happy because you have always been kind to others, wonderful bday, dear!"
+    }
+	,
+	{
+      "Status": "Life will give you things to think about but do not ponder too deep, just keep it simple, best birthday to you!"
+    }
+	,{
+      "Status": "I do not want to tell you to stop doing the things you lab but to just maximize your time, wonderful birthday to you, my dearest."
+    },
+	{
+      "Status": "You are beautiful and awesome, if you do not believe me you can ask them around. Happy birthday to you!"
+    }
+	,
+	{
+      "Status": "You make me believe in magic again and that I what I truly wanted, so for now, happy bday once again!"
+    }
+	,
+	{
+      "Status": "You are my friend so why do I have these feelings for you? Happy bday, dear."
+    }
+	,
+	{
+      "Status": "May you try your best to always find another place out, another way in, wonderful birthday!"
+    }
+	,
+	{
+      "Status": "I thought that you needed me but I guess you did not, I wished but it was not granted but I wish you a best birthday and hope that your dreams will come true."
+    }
+	,
+	{
+      "Status": "There is no chance I am going to go there to prove myself, I love keeping things to myself, happy birthday, roommate!"
+    }
+	,
+	{
+      "Status": "Even when things get a little tough, I will be here for you, wonderful bday to you, dear."
+    }
+	,
+	{
+      "Status": "Somedays it feels so surreal, everything around me does except you. Happy birthday!"
+    }
+	,
+	{
+      "Status": "You make me miss everything I had back home, I just want to tell you best bday!"
+    }
+	,{
+      "Status": "Dear you make me feel as if everything in this world will make you happy. Best bday to you too!"
+    },
+	{
+      "Status": "Just stop for a minute and just breathe and edit all your problems out because you deserve to be happy even for a second, wonderful bday!"
+    }
+	,
+	{
+      "Status": "Just do the things you do with love and you will be fine. happy birthday to you, dear friend."
+    }
+	,
+	{
+      "Status": "You are one of my best friends and I want you to know that you make me feel like I am especial, thank you so much, best birthday."
+    }
+	,
+	{
+      "Status": "I find it amusing that you wanted to be my friend when I had nothing to offer you. Wonderful birthday!"
+    }
+	,
+	{
+      "Status": "You have finally made it, you are now so close to it so do your best and happy bday."
+    }
+	,
+	{
+      "Status": "No one else would ever mean to me like you do, happy birthday to you, my friend."
+    }
+	,
+	{
+      "Status": "I want you to know that I care about you, that I think of you and your welfare, happy bday my friend!"
+    }
+	,
+	{
+      "Status": "Just keep on pretending that everything would be fine until it finally does, wonderful birthday to you!"
+    }
+	,
+	{
+      "Status": "I hope your special day will bring you lots of happiness, love and fun. You deserve them a lot. Enjoy!"
+    }
+	,{
+      "Status": "Have a wonderful birthday. I wish your every day to be filled with lots of love, laughter, happiness and the warmth of sunshine."
+    },
+	{
+      "Status": "May your coming year surprise you with the happiness of smiles, the feeling of love and so on. I hope you will find plenty of sweet memories to cherish forever. Happy birthday."
+    }
+	,
+	{
+      "Status": "On your special day, I wish you good luck. I hope this wonderful day will fill up your heart with joy and blessings. Have a fantastic birthday, celebrate the happiness on every day of your life. Happy Birthday!!"
+    }
+	,
+	{
+      "Status": "May this birthday be filled with lots of happy hours and also your life with many happy birthdays, that are yet to come. Happy birthday."
+    }
+	,
+	{
+      "Status": "Let’s light the candles and celebrate this special day of your life. Happy birthday."
+    }
+	,
+	{
+      "Status": "You are very special and that’s why you need to float with lots of smiles on your lovely face. Happy birthday."
+    }
+	,
+	{
+      "Status": "Special day, special person and special celebration. May all your dreams and desires come true in this coming year. Happy birthday."
+    }
+	,
+	{
+      "Status": "You are my true friend. You were always with me, you supported me, you boosted me up when I was down. Thanks for being such a friend of mine. Happy birthday."
+    }
+	,
+	{
+      "Status": "Let your all the dreams to be on fire and light your birthday candles with that. Have a gorgeous birthday."
+    }
+	,
+	{
+      "Status": "It’s your birthday. Now you’ve more grown up. Every year you’re becoming more perfect."
+    }
+	,{
+      "Status": "Wishing my friend a very happy birthday and you don’t need to speak it out loud that I’m your best friend too. Love you dear."
+    },
+	{
+      "Status": "There are so many important things that I’ve learnt from you. Happy Birthday, dad."
+    }
+	,
+	{
+      "Status": "Sis, we are a great pair because we always look gorgeous in our photos! Happy Birthday."
+    }
+	,
+	{
+      "Status": "The years we shared while growing up are like treasures to me. I can remember our every moment of laughter. Happy Birthday, my dear friend."
+    }
+	,
+	{
+      "Status": "I want your birthday to be celebrated as a national holiday because then I’ll get a day off. Happy birthday."
+    }
+	,
+	{
+      "Status": "Another birthday, so you are growing older gradually. But I find no change in you. You look perfect like before. Happy birthday."
+    }
+	,
+	{
+      "Status": "Happy birthday. May all the best things of the world happen in your life because you are definitely one of the best people too."
+    }
+	,
+	{
+      "Status": "I always wished to be a great friend like you. But there is no way to be a better friend than you in the world. Happy birthday."
+    }
+	,
+	{
+      "Status": "Soon you’re going to start a new year of your life and I hope this coming year will bring every success you deserve. Happy birthday."
+    }
+	,
+	{
+      "Status": "It’s a wonderful day and I’ve brought a beautiful and delicious cake for you. Now it’s time to celebrate and make this special day more colorful. Happy birthday."
+    }
+ 
+ ]
+}

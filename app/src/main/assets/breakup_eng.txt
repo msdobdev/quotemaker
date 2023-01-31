@@ -1,0 +1,307 @@
+{
+  "StausArray": [
+    {
+      "Status": "The heart was made to be broken"
+    },
+    {
+      "Status": "You Always Get Hurt The Moment You Begin To Care."
+    },
+    {
+      "Status": "The most painful memory.. when I walked away and you let me go."
+    },
+    {
+      "Status": "I feel so far away from the one I wish to hold in my arms :"
+    },
+    {
+      "Status": "Its better to be lonely then to be played by wrong people."
+    },
+    {
+      "Status": "Sometimes people have to cry out all their tears, to make room for a heart full of smiles."
+    },
+    {
+      "Status": "The hardest part about loving someone, is watching that person love another person."
+    },
+    {
+      "Status": "The greatest pain that comes from love is loving someone you can never have."
+    },
+    {
+      "Status": "The sad part isn't that we never talk, its that we used to talk everyday."
+    },
+    {
+      "Status": "I will wait till the day I can forget YOU or the day you realize you can’t forget Me."
+    },
+    {
+      "Status": "I tried to forget you, but the harder I tried, the more I thought about you."
+    },
+    {
+      "Status": "People say follow your heart…but which way do you go when your heart breaks into two?"
+    },
+    {
+      "Status": "I agree its easy to cry n easy to die bt its nt easy to say goodbye."
+    },
+    {
+      "Status": "It's sad to be happy alone."
+    },
+    {
+      "Status": "It isn't the bad memories that make you sad, but the best ones that you can't bring it back ."
+    },
+    {
+      "Status": "Is having one of those days where they feels like they can't do anything right."
+    },
+    {
+      "Status": "Going to keep all secrets to myself since some people i can't trust"
+    },
+    {
+      "Status": "Breakup is just like having the worst nightmare after the best dream.!"
+    },
+    {
+      "Status": "Is finally driven to the point were they finds comfort in lies and shuns the truth."
+    },
+    {
+      "Status": "There is a severe pain I felt in my heart which you will never see b’coz it appears when you are not here."
+    },
+    {
+      "Status": "sometimes the people that u don't want to get hurt doesn't care if they hurt you!"
+    },
+    {
+      "Status": "Why be mean to animals when they treat u better then people!!!!"
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad..."
+    },
+    {
+      "Status": "You aren't the person I knew back then."
+    },
+    {
+      "Status": "I'm tired of everyone telling me about their special person when I desperately want one of my own."
+    },
+    {
+      "Status": "Only you can put a smile on my face when i'm sad..."
+    },
+    {
+      "Status": "Love can't be found Where it doesn't exist .."
+    },
+    {
+      "Status": "I hate when people say they miss you,but don’t make a effort to speak to you or see you. !!"
+    },
+    {
+      "Status": "What's the point in all this screaming,no one's Listening any way."
+    },
+    {
+      "Status": "I hate being broken.I hate that i cannot go back."
+    },
+    {
+      "Status": "I feel crappy inside,like something just broke."
+    },
+    {
+      "Status": "Tears are prayers too. They travel to God when we can't speak."
+    },
+    {
+      "Status": "1 day you will see what you lost. 1 day I'll see what I gained."
+    },
+    {
+      "Status": "I didn’t choose you, My heart did."
+    },
+    {
+      "Status": "Love is just love, it can never explained!!!"
+    },
+    {
+      "Status": "Love is a policy, without terms and conditions."
+    },
+    {
+      "Status": "The only way is to move on, because if you don't you'll be suck where you are."
+    },
+    {
+      "Status": "It's never going to be the same again. And that's whats killing me."
+    },
+    {
+      "Status": "It must be really sad to not be able to do something you love as the years go by."
+    },
+    {
+      "Status": "Wake me up when things are going right for once."
+    },
+    {
+      "Status": "Smile and no one will see how broken you are inside.I’m missing something in my life thes days."
+    },
+    {
+      "Status": "A broken relationship would make you feel more lonely than when you were single.."
+    },
+    {
+      "Status": "Sometimes there is so much we feel but so little we can say."
+    },
+    {
+      "Status": "The higher you climb on love's ladder,the harder you fall."
+    },
+    {
+      "Status": "Someone asked me How’s life? I just smiled and replied, She’s fine :"
+    },
+    {
+      "Status": "There is always that person in life that you give several chances, it’s because you love them more than you hate them."
+    },
+    {
+      "Status": "Why does it always have to be the one that you love the most hits you the hardest? "
+    },
+    {
+      "Status": "loves when you listen to a song and it relates 100% sure to how you feel."
+    },
+    {
+      "Status": "The truth hurts for a little while, but lies hurt for a lifetime."
+    },
+    {
+      "Status": "I hate being broken. I hate that I cannot go back."
+    },
+    {
+      "Status": "True love does not have a happy ending, because true love never ends."
+    },
+    {
+      "Status": "Love is like a wind, we can’t see it. But we can feel it."
+    },
+    {
+      "Status": "How did I go from being so happy, to so sad.."
+    },
+    {
+      "Status": "Some friends only last but so long, then they step on you like dirt. :("
+    },
+    {
+      "Status": "If you can’t save the relationship, at least save your pride."
+    },
+    {
+      "Status": "Is trying very hard to keep it all together, but has run out of string and super glue."
+    },
+    {
+      "Status": "I will never stop caring, but if you decide to push me away, I will go."
+    },
+    {
+      "Status": "I like to listen to sad music when I'm sad to make me double sad."
+    },
+    {
+      "Status": "People are lonely because they build walls instead of bridges.."
+    },
+    {
+      "Status": "Nothing is perfect, but when I’m with you everything is perfect."
+    },
+    {
+      "Status": "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it."
+    },
+    {
+      "Status": "Dear Insomnia..I think we really need to break-up…I don’t love you anymore…"
+    },
+    {
+      "Status": "Wants to remind you that even though you can not go back and make a brand new start, you can always start now and make a brand new ending."
+    },
+    {
+      "Status": "The essence of romantic love is that wonderful beginning, after which sadness and impossibility may become the rule."
+    },
+    {
+      "Status": "When I dream, I dream of you. Maybe one day, dreams will come true. Because, I really love you.Pls Come Back"
+    },
+    {
+      "Status": "Behind every successful man is a surprised woman."
+    },
+    {
+      "Status": "A dog is the only thing on earth that loves you more than he loves himself."
+    },
+    {
+      "Status": "I am someone else when I’m with you, someone more like myself."
+    },
+    {
+      "Status": "Love is what makes you smile when you’re tired."
+    },
+    {
+      "Status": "If someone really loves you, they wouldn’t let you slip away no matter how big the situation is."
+    },
+    {
+      "Status": "Love is when you tell a guy you love his shirt, then he wears it everyday."
+    },
+    {
+      "Status": "Nobody is worth your tears, and the one who is worth won’t make you cry."
+    },
+    {
+      "Status": "I’m going to take the past and burn it up.lift my head and carry on..cause baby I’m stronger than you’ll ever know.."
+    },
+    {
+      "Status": "Love is like war: easy to begin but very hard to stop."
+    },
+    {
+      "Status": "Love: Two minds without a single thought."
+    },
+    {
+      "Status": "Love: The triumph of imagination over intelligence."
+    },
+    {
+      "Status": "Life always offers you a second chance. it's called tomorrow."
+    },
+    {
+      "Status": "Enjoy your own life without comparing it with that of others."
+    },
+    {
+      "Status": "There are million things in the world I want, but all I need is you."
+    },
+    {
+      "Status": "To the world you maybe but one, but to one you might be the world."
+    },
+    {
+      "Status": "Not all men are fools, Some stay bachelor."
+    },
+    {
+      "Status": "It?s so hard to look at you and think we were so close. We were best friends. And now. I’m nothing to you."
+    },
+    {
+      "Status": "Everything in your life is a reflection of a choice you have made. If you want a different result, make a different choice."
+    },
+    {
+      "Status": "Love the life you live, and live the life you love."
+    },
+    {
+      "Status": "Life is not a matter of milestones but of moments."
+    },
+    {
+      "Status": "Trusting you again is my decision, Proving me wrong is your choice."
+    },
+    {
+      "Status": "It?s better to dream of something you may never have than to lose something you always dreamed of having."
+    },
+    {
+      "Status": "It is not just the goodbyes that hurts, its the flashbacks that follow..."
+    },
+    {
+      "Status": "Sometimes two people have to fall apart to realise how much they need to fall back together."
+    },
+    {
+      "Status": "There comes a time when walking away is the best for everyone."
+    },
+    {
+      "Status": "Do you know why a previous relationship is called EX? It’s not the term for the past. EX is short for EXpired."
+    },
+    {
+      "Status": "Wants to remind you that even though you can not go back and make a brand new start, you can always start now and make a brand new ending."
+    },
+    {
+      "Status": "The pain of having a broken heart is not so much as to kill you, yet not so little as to let you live."
+    },
+    {
+      "Status": "Relationships are very simple. There are only two things that can happen. You either get married or your break up."
+    },
+    {
+      "Status": "It is hard to tell your mind to stop loving someone when your heart still does."
+    },
+    {
+      "Status": "People say follow your heart…but which way do you go when your heart breaks into two?"
+    },
+    {
+      "Status": "A break up is like a broken mirror. It is better to leave it broken than hurt yourself to fix it."
+    },
+    {
+      "Status": "Do you remember when you broke my heart well i found the guy who knows how to fix it."
+    },
+    {
+      "Status": "If you find a girl who’s willing to go through hell just to keep your relationship going, you really shouldn’t take her love for granted."
+    },
+    {
+      "Status": "I will hide my broken heart beneath a laughing face and though you’ll think I never cared, no one can take your place."
+    },
+    {
+      "Status": "I don’t miss him, I miss who I thought he was."
+    }
+  ]
+}

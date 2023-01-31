@@ -1,0 +1,133 @@
+{
+  "CatogeyListJson": [
+    {
+      "CatogeryName": "Love",
+      "NumberOfStatus": "202",
+      "CategoryIconName": "loveicon",
+      "Status": "ये तो तुम्हारे महोब्बत का नतीजा है, वार्ना हम इतनी आसानी से सुधरने वाले नहीं थे"
+    },
+    {
+      "CatogeryName": "Romantic",
+      "NumberOfStatus": "200",
+      "CategoryIconName": "romantivicon",
+      "Status": "दिल की बातों को आज कहना है तुमको,धड़कन बनके तेरे दिल में रहना है हमको,कही रुक ना जाए यह मेरी साँसें, इसलिए हर पल तेरे साथ जीना है हमको।"
+    },
+    {
+      "CatogeryName": "Flirty",
+      "NumberOfStatus": "136",
+      "CategoryIconName": "flirticon",
+      "Status": "अगर मैं हर वक़्त तुम्हारे ही ख्वाब देख सकता तो मैं कभी नहीं जागना पसंद करता।"
+    },
+    {
+      "CatogeryName": "Sad",
+      "NumberOfStatus": "202",
+      "CategoryIconName": "sadicon",
+      "Status": "तुम ताल्लुक़ तोड़ने की बात किसी से ना करना हम लोगों से कह देंगे उन्हें फ़ुरसत नहीं मिलती"
+    },
+    {
+      "CatogeryName": "Breakup",
+      "NumberOfStatus": "202",
+      "CategoryIconName": "breakupicon",
+      "Status": "चाह कर भी उनका हाल नहीं पूछ सकते डर है कहीं कह ना दे कि ये हक्क तुम्हे किसने दिया"
+    },
+    {
+      "CatogeryName": "Hate",
+      "NumberOfStatus": "199",
+      "CategoryIconName": "hateicon",
+      "Status": "बदलता वक़्त देखा है मैंने,अपने ही हमदर्द को अपना दर्द बनते देखा है मैंने"
+    },
+    {
+      "CatogeryName": "Missing You",
+      "NumberOfStatus": "200",
+      "CategoryIconName": "missongyouicon",
+      "Status": "वो मुझसे पूछती है की ख्वाब किस-किस के देखते हो, बेखबर जानती ही नहीं की यादें उसकी सोने कहाँ देती है "
+    },
+    {
+      "CatogeryName": "Sorry",
+      "NumberOfStatus": "199",
+      "CategoryIconName": "sorryicon",
+      "Status": "कर दो मुआफ गर हुई कोई खता हमसे अलग तुमसे होकर और अब रहा नहीं जाता हमसे"
+    },
+    {
+      "CatogeryName": "Quotes",
+      "NumberOfStatus": "251",
+      "CategoryIconName": "quetsicon",
+      "Status": "उन पर ध्यान मत दीजिये जो आपकी पीठ पीछे बात करते है इसका सीधा सा अर्थ है आप उनसे दो कदम आगे है.."
+    },
+    {
+      "CatogeryName": "Motivation",
+      "NumberOfStatus": "202",
+      "CategoryIconName": "motivationalicon",
+      "Status": "डर मुझे भी लगा फांसला देख कर, पर मैं बढ़ता गया रास्ता देख कर, खुद ब खुद मेरे नज़दीक आती गई मेरी मंज़िल मेरा हौंसला देख कर"
+    },
+    {
+      "CatogeryName": "Friendship",
+      "NumberOfStatus": "200",
+      "CategoryIconName": "friendshipicon",
+      "Status": "ज़िन्दगी गुज़र जाए पर दोस्ती कम ना हों। याद हमें रखना चाहें पास हम ना हों। कयामत तक चकता रहे ये प्यारा सा सफर। दुआ करे कि कभी ये रिश्ता खतम ना हो।"
+    },
+    {
+      "CatogeryName": "Good Morning",
+      "NumberOfStatus": "165",
+      "CategoryIconName": "goodmrorningicon",
+      "Status": "ख़ुशी के लिए काम करोगे तो ख़ुशी नहीं मिलेगी, मगर खुश होकर काम करोगे तो ख़ुशी जरूर मिलेगी। ●• सुप्रभात"
+    },
+    {
+      "CatogeryName": "Good Night",
+      "NumberOfStatus": "190",
+      "CategoryIconName": "goodniticon",
+      "Status": "हर रात मे भी आपके पास उजाला हो, हर कोई आपका चाहने वाला हो, वक़्त गुजर जाये उनकी यादों के सहारे, ऐसा कोई आप के सपनों को सजाने वाला हो…! शुभ रात्रि!!"
+    },
+    {
+      "CatogeryName": "Happy BirthDay",
+      "NumberOfStatus": "137",
+      "CategoryIconName": "happybirthdayicon",
+      "Status": "ज़िंदगी की कुछ खास दुआए लेलो हमसे जन्मदिन पर कुछ नजराने ले लो हमसे भर दे रंग जो तेरे जीवन के पलो में…..आज वो हसी मुबारक बाद ले लो हमसे"
+    },
+    {
+      "CatogeryName": "Valentine's Day",
+      "NumberOfStatus": "141",
+      "CategoryIconName": "valendayicon",
+      "Status": "मैंने तो देखा था बस एक नजर के खातिर,क्या खबर थी की रग रग में समां जाओगे तुम…Happy Valentines Day"
+    },
+    {
+      "CatogeryName": "Republic Day",
+      "NumberOfStatus": "49",
+      "CategoryIconName": "republiicicon",
+      "Status": "कुछ कर गुजरने की गर तमन्ना उठती हो दिल में, भारत माँ का नाम सजाओ दुनिया की महफिल में"
+    },
+    {
+      "CatogeryName": "Good Luck",
+      "NumberOfStatus": "163",
+      "CategoryIconName": "gudluckicon",
+      "Status": "तमन्नाओ की महफ़िल तो हर कोई सजाता है….पूरी उसकी होती है जो तकदीर लेकर आता है…!"
+    },
+    {
+      "CatogeryName": "Happy",
+      "NumberOfStatus": "202",
+      "CategoryIconName": "happyicon",
+      "Status": "भूल जाओ बिता हुआ कल,दिल में बसा लो आने वाला पल,मुस्कुराओ चाहे जो हो कल,फिर खुशिया ही लाएगा अगला पल…"
+    },
+	{
+      "CatogeryName": "Attitude",
+      "NumberOfStatus": "204",
+      "CategoryIconName": "attidude",
+      "Status": "भूल जाओ बिता हुआ कल,दिल में बसा लो आने वाला पल,मुस्कुराओ चाहे जो हो कल,फिर खुशिया ही लाएगा अगला पल…"
+    },{
+      "CatogeryName": "WhatsApp",
+      "NumberOfStatus": "220",
+      "CategoryIconName": "whatsapp",
+      "Status": "भूल जाओ बिता हुआ कल,दिल में बसा लो आने वाला पल,मुस्कुराओ चाहे जो हो कल,फिर खुशिया ही लाएगा अगला पल…"
+    },{
+      "CatogeryName": "Facebook",
+      "NumberOfStatus": "203",
+      "CategoryIconName": "facebook",
+      "Status": "भूल जाओ बिता हुआ कल,दिल में बसा लो आने वाला पल,मुस्कुराओ चाहे जो हो कल,फिर खुशिया ही लाएगा अगला पल…"
+    },{
+      "CatogeryName": "All Time Fav",
+      "NumberOfStatus": "1003",
+      "CategoryIconName": "alltimefav",
+      "Status": "भूल जाओ बिता हुआ कल,दिल में बसा लो आने वाला पल,मुस्कुराओ चाहे जो हो कल,फिर खुशिया ही लाएगा अगला पल…"
+    }
+  ]
+}
